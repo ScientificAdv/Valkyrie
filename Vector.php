@@ -24,7 +24,7 @@
 
 $GLOBALS['wgExtensionCredits']['skin'][] = array(
 	'path' => __FILE__,
-	'name' => 'Vector',
+	'name' => 'Valkyrie',
 	'namemsg' => 'skinname-vector',
 	'descriptionmsg' => 'vector-skin-desc',
 	'url' => 'https://www.mediawiki.org/wiki/Skin:Vector',
@@ -64,7 +64,7 @@ $GLOBALS['wgResourceModules']['skins.vector.styles'] = array(
 		'screen.less' => array( 'media' => 'screen' ),
 		'screen-hd.less' => array( 'media' => 'screen and (min-width: 982px)' ),
 	),
-	'remoteSkinPath' => 'Vector',
+	'remoteSkinPath' => 'Valkyrie',
 	'localBasePath' => __DIR__,
 );
 
@@ -78,12 +78,12 @@ $GLOBALS['wgResourceModules']['skins.vector.js'] = array(
 		'jquery.throttle-debounce',
 		'jquery.tabIndex',
 	),
-	'remoteSkinPath' => 'Vector',
+	'remoteSkinPath' => 'Valkyrie',
 	'localBasePath' => __DIR__,
 );
 
 // Apply module customizations
-$GLOBALS['wgResourceModuleSkinStyles']['vector'] = array(
+$GLOBALS['wgResourceModuleSkinStyles']['valkyrie'] = array(
 	'jquery.tipsy' => 'skinStyles/jquery.tipsy.less',
 	'jquery.ui.core' => array(
 		'skinStyles/jquery.ui/jquery.ui.core.css',
@@ -105,6 +105,6 @@ $GLOBALS['wgResourceModuleSkinStyles']['vector'] = array(
 	'mediawiki.notification' => 'skinStyles/mediawiki.notification.less',
 	'mediawiki.special' => 'skinStyles/mediawiki.special.less',
 	'mediawiki.special.preferences' => 'skinStyles/mediawiki.special.preferences.less',
-	'remoteSkinPath' => 'Vector',
+	'remoteSkinPath' => 'Valkyrie',
 	'localBasePath' => __DIR__,
 );

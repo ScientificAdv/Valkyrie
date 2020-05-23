@@ -91,7 +91,29 @@ class VectorTemplate extends BaseTemplate {
 		$this->html( 'headelement' );
 		?>
 		<div id="mw-page-base" class="noprint"></div>
-		<div id="mw-head-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint">
+			<div class="dynamic-elements-group">
+				<div class="gears-group">
+				<div class="dynamic-elements circle-lg">
+					<div></div>
+				</div>
+				<div class="circle-sm dynamic-elements">
+					<!-- <img src="~assets/img/ui/dynamic-wallpaper/circle-sm.png" alt /> -->
+					<div></div>
+				</div>
+				<div class="gear-lg dynamic-elements">
+					<!-- <img src="~assets/img/ui/dynamic-wallpaper/gear-lg.png" alt /> -->
+					<div></div>
+				</div>
+				</div>
+				<div class="gear-sm dynamic-elements">
+				<!-- <img src="~assets/img/ui/dynamic-wallpaper/gear-sm.png" alt /> -->
+				<div></div>
+				</div>
+			</div>
+		</div>
+		
+		</div>
 		<div id="content" class="mw-body" role="main">
 			<a id="top"></a>
 
@@ -194,6 +216,7 @@ class VectorTemplate extends BaseTemplate {
 					?>" <?php
 					echo Xml::expandAttributes( Linker::tooltipAndAccesskeyAttribs( 'p-logo' ) )
 					?>></a></div>
+				<div id="my-logo">logo</div>
 				<?php $this->renderPortals( $this->data['sidebar'] ); ?>
 			</div>
 		</div>
