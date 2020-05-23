@@ -95,20 +95,17 @@ class VectorTemplate extends BaseTemplate {
 			<div class="dynamic-elements-group">
 				<div class="gears-group">
 				<div class="dynamic-elements circle-lg">
-					<div></div>
+					<div class="img"></div>
 				</div>
 				<div class="circle-sm dynamic-elements">
-					<!-- <img src="~assets/img/ui/dynamic-wallpaper/circle-sm.png" alt /> -->
-					<div></div>
+					<div class="img"></div>
 				</div>
 				<div class="gear-lg dynamic-elements">
-					<!-- <img src="~assets/img/ui/dynamic-wallpaper/gear-lg.png" alt /> -->
-					<div></div>
+					<div class="img"></div>
 				</div>
 				</div>
 				<div class="gear-sm dynamic-elements">
-				<!-- <img src="~assets/img/ui/dynamic-wallpaper/gear-sm.png" alt /> -->
-				<div></div>
+					<div class="img"></div>
 				</div>
 			</div>
 		</div>
