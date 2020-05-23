@@ -13,123 +13,131 @@
 
 /* Framework */
 html {
-	font-size: @html-font-size;
+    font-size: @html-font-size;
 }
+
 html,
 body {
-	height: 100%;
-	margin: 0;
-	padding: 0;
-	font-family: @content-font-family;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    font-family: @content-font-family;
 }
+
 body {
-	background-color: @menu-background-color;
+    background-color: @menu-background-color;
 }
 
 /* Content */
 .mw-body {
-	position: relative;
-	margin-left: 10em;
-	padding: @content-padding;
-	/* Border on top, left, and bottom side */
-	border: 1px solid @content-border-color;
-	border-right-width: 0;
-	/* Merge the border with tabs' one (in their background image) */
-	margin-top: -1px;
-	background-color: @body-background-color;
-	color: @content-font-color;
-	direction: ltr;
+    position: relative;
+    margin-left: 10em;
+    padding: @content-padding;
+    /* Border on top, left, and bottom side */
+    border: 1px solid @content-border-color;
+    border-right-width: 0;
+    /* Merge the border with tabs' one (in their background image) */
+    margin-top: -1px;
+    background-color: @body-background-color;
+    color: @content-font-color;
+    direction: ltr;
+    font-family: @content-body-font-family;
 
-	.mw-editsection,
-	.mw-editsection-like {
-		font-family: @content-font-family;
-	}
+    .mw-editsection,
+    .mw-editsection-like {
+        font-family: @content-font-family;
+    }
 
-	p {
-		line-height: inherit;
-		margin: 0.5em 0;
-	}
+    p {
+        line-height: inherit;
+        margin: 0.5em 0;
+    }
 
-	h1,
-	h2,
-	#firstHeading {
-		font-family: @content-heading-font-family;
-		line-height: @heading-line-height;
-		margin-bottom: 0.25em;
+    h1,
+    h2,
+    #firstHeading {
+        font-family: @content-heading-font-family;
+        line-height: @heading-line-height;
+        margin-bottom: 0.25em;
 		padding: 0;
-	}
+		// font-weight: 700;
+		border-bottom: 2px solid #2d2d2d;
+    }
 
-	h1,
-	#firstHeading {
-		font-size: @content-heading-font-size;
-	}
+    h1,
+    #firstHeading {
+        font-size: @content-heading-font-size;
+    }
 
-	h2 {
-		font-size: 1.5em;
-		margin-top: 1em;
-	}
+    h2 {
+        font-size: 1.5em;
+        margin-top: 1em;
+    }
 
-	h3,
-	h4,
-	h5,
-	h6 {
-		line-height: @content-line-height;
-		margin-top: 0.3em;
-		margin-bottom: 0;
-		padding-bottom: 0;
-	}
+    h3,
+    h4,
+    h5,
+    h6 {
+        line-height: @content-line-height;
+        margin-top: 0.3em;
+        margin-bottom: 0;
+        padding-bottom: 0;
+    }
 
-	h3 {
-		font-size: 1.17em;
-	}
+    h3 {
+        font-size: 1.17em;
+    }
 
-	h3,
-	h4 {
-		font-weight: bold;
-	}
+    h3,
+    h4 {
+        font-weight: bold;
+    }
 
-	h4,
-	h5,
-	h6 {
-		font-size: 100%; /* (reset) */
-	}
+    h4,
+    h5,
+    h6 {
+        font-size: 100%;
+        /* (reset) */
+    }
 
-	#toc h2,
-	.toc h2 {
-		font-size: 100%; /* (reset) */
-		font-family: @content-font-family;
-	}
+    #toc h2,
+    .toc h2 {
+        font-size: 100%;
+        /* (reset) */
+        font-family: @content-font-family;
+    }
 }
 
 /* Hide empty portlets */
 div.emptyPortlet {
-		display: none;
+    display: none;
 }
 
 ul {
-	list-style-type: disc;
-	.list-style-image('images/bullet-icon.png');
+    list-style-type: disc;
+    .list-style-image('images/bullet-icon.png');
 }
 
-pre, .mw-code {
-	line-height: 1.3em;
+pre,
+.mw-code {
+    line-height: 1.3em;
 }
 
 /* Site Notice (includes notices from CentralNotice extension) */
 #siteNotice {
-	font-size: 0.8em;
+    font-size: 0.8em;
 }
 
 .redirectText {
-	font-size: 140%;
+    font-size: 140%;
 }
 
 .redirectMsg img {
-	vertical-align: text-bottom;
+    vertical-align: text-bottom;
 }
 
 .mw-body-content {
-	position: relative;
-	line-height: @content-line-height;
-	font-size: @content-font-size;
+    position: relative;
+    line-height: @content-line-height;
+    font-size: @content-font-size;
 }
