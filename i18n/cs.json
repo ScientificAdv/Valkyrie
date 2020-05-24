@@ -1,23 +1,27 @@
 {
 	"@metadata": {
 		"authors": [
-			"Mormegil"
+			"Mormegil",
+			"Dvorapa",
+			"Patriccck"
 		]
 	},
-	"skinname-vector": "Vektor",
-	"vector-skin-desc": "Moderní verze MonoBooku s novějším vzhledem a vylepšenou použitelností",
-	"vector.css": "/* Zde uvedené CSS bude ovlivňovat pouze styl „Vektor“ */",
-	"vector.js": "/* JavaScript pro uživatele používající vzhled „Vektor“ */",
-	"vector-action-addsection": "Přidat téma",
-	"vector-action-delete": "Smazat",
-	"vector-action-move": "Přesunout",
-	"vector-action-protect": "Zamknout",
-	"vector-action-undelete": "Obnovit",
-	"vector-action-unprotect": "Změnit zámek",
-	"vector-view-create": "Založit",
-	"vector-view-edit": "Editovat",
-	"vector-view-history": "Zobrazit historii",
-	"vector-view-view": "Číst",
-	"vector-view-viewsource": "Zobrazit zdrojový kód",
-	"vector-more-actions": "Další"
+	"skinname-valkyrie": "Vektor",
+	"valkyrie-skin-desc": "Moderní verze vzhledu Kniha s novějším vzhledem a vylepšenou použitelností",
+	"valkyrie.css": "/* Zde uvedené CSS bude ovlivňovat pouze vzhled „Vektor“ */",
+	"valkyrie.js": "/* Zde uvedený JavaScript bude použit pouze pro uživatele vzhledu „Vektor“ */",
+	"valkyrie-action-addsection": "Přidat téma",
+	"valkyrie-action-delete": "Smazat",
+	"valkyrie-action-move": "Přesunout",
+	"valkyrie-action-protect": "Zamknout",
+	"valkyrie-action-undelete": "Obnovit",
+	"valkyrie-action-unprotect": "Změnit zámek",
+	"valkyrie-view-create": "Založit",
+	"valkyrie-view-edit": "Editovat",
+	"valkyrie-view-history": "Zobrazit historii",
+	"valkyrie-view-view": "Číst",
+	"valkyrie-view-viewsource": "Zobrazit zdrojový kód",
+	"valkyrie-jumptonavigation": "Skočit na navigaci",
+	"valkyrie-jumptosearch": "Skočit na vyhledávání",
+	"valkyrie-more-actions": "Další"
 }

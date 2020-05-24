@@ -1,18 +1,20 @@
 {
 	"@metadata": {
 		"authors": [
-			"Numulunj pilgae"
+			"Numulunj pilgae",
+			"Metsavend"
 		]
 	},
-	"vector-action-addsection": "Поладомс мезень колга корхтамс",
-	"vector-action-delete": "Нардамс",
-	"vector-action-move": "Шашфтомс",
-	"vector-action-protect": "Араламс",
-	"vector-action-undelete": "Мърдафтомс",
-	"vector-action-unprotect": "Араламать полафтомс",
-	"vector-view-create": "Тиемс",
-	"vector-view-edit": "Петнемс",
-	"vector-view-history": "История няфтемс",
-	"vector-view-view": "Морафтомс",
-	"vector-view-viewsource": "Лисьма няфтемс"
+	"valkyrie-action-addsection": "Поладомс мезень колга корхтамс",
+	"valkyrie-action-delete": "Нардамс",
+	"valkyrie-action-move": "Шашфтомс",
+	"valkyrie-action-protect": "Араламс",
+	"valkyrie-action-undelete": "Мърдафтомс",
+	"valkyrie-action-unprotect": "Араламать полафтомс",
+	"valkyrie-view-create": "Тиемс",
+	"valkyrie-view-edit": "Петнемс",
+	"valkyrie-view-history": "История няфтемс",
+	"valkyrie-view-view": "Морафтомс",
+	"valkyrie-view-viewsource": "Лисьма няфтемс",
+	"valkyrie-more-actions": "Сяда лама"
 }

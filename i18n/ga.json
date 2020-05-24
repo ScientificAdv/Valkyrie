@@ -3,19 +3,21 @@
 		"authors": [
 			"Kscanne",
 			"Kwekubo",
-			"Moydow"
+			"Moydow",
+			"Tem"
 		]
 	},
-	"skinname-vector": "Veicteoir",
-	"vector-action-addsection": "Cuir topaic leis",
-	"vector-action-delete": "Scrios",
-	"vector-action-move": "Athainmnigh",
-	"vector-action-protect": "Glasáil",
-	"vector-action-undelete": "Díscrios",
-	"vector-action-unprotect": "Díghlasáil",
-	"vector-view-create": "Cruthaigh",
-	"vector-view-edit": "Athraigh an lch seo",
-	"vector-view-history": "Féach ar stair",
-	"vector-view-view": "Léigh",
-	"vector-view-viewsource": "Féach ar fhoinse"
+	"skinname-valkyrie": "Veicteoir",
+	"valkyrie-action-addsection": "Cuir topaic leis",
+	"valkyrie-action-delete": "Scrios",
+	"valkyrie-action-move": "Athainmnigh",
+	"valkyrie-action-protect": "Glasáil",
+	"valkyrie-action-undelete": "Díscrios",
+	"valkyrie-action-unprotect": "Díghlasáil",
+	"valkyrie-view-create": "Cruthaigh",
+	"valkyrie-view-edit": "Cuir in eagar",
+	"valkyrie-view-history": "Féach ar stair",
+	"valkyrie-view-view": "Léigh",
+	"valkyrie-view-viewsource": "Féach ar fhoinse",
+	"valkyrie-more-actions": "Tuilleadh"
 }

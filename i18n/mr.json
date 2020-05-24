@@ -5,17 +5,18 @@
 			"V.narsikar"
 		]
 	},
-	"skinname-vector": "सदिश",
-	"vector-action-addsection": "विषय जोडा",
-	"vector-action-delete": "वगळा",
-	"vector-action-move": "स्थानांतरण",
-	"vector-action-protect": "सुरक्षित करा",
-	"vector-action-undelete": "वगळलेले पुनर्स्थापित करा",
-	"vector-action-unprotect": "सुरक्षितता बदला",
-	"vector-view-create": "तयार करा",
-	"vector-view-edit": "संपादन",
-	"vector-view-history": "इतिहास पहा",
-	"vector-view-view": "वाचा",
-	"vector-view-viewsource": "स्रोत पहा",
-	"vector-more-actions": "अधिक"
+	"skinname-valkyrie": "सदिश",
+	"valkyrie-skin-desc": "मोनोबुकची आधुनिक आवृत्ती टवटवीत दिसण्यासह व अनेक वापर सुधारणा असलेली",
+	"valkyrie-action-addsection": "विषय जोडा",
+	"valkyrie-action-delete": "वगळा",
+	"valkyrie-action-move": "स्थानांतरण",
+	"valkyrie-action-protect": "सुरक्षित करा",
+	"valkyrie-action-undelete": "वगळलेले पुनर्स्थापित करा",
+	"valkyrie-action-unprotect": "सुरक्षितता बदला",
+	"valkyrie-view-create": "तयार करा",
+	"valkyrie-view-edit": "संपादन",
+	"valkyrie-view-history": "इतिहास पहा",
+	"valkyrie-view-view": "वाचा",
+	"valkyrie-view-viewsource": "स्रोत पहा",
+	"valkyrie-more-actions": "अधिक"
 }

@@ -1,18 +1,20 @@
 {
 	"@metadata": {
 		"authors": [
-			"Botuzhaleny-sodamo"
+			"Botuzhaleny-sodamo",
+			"Rueter"
 		]
 	},
-	"vector-action-addsection": "Поладомс мезде кортамс",
-	"vector-action-delete": "Нардамс",
-	"vector-action-move": "Печтевтемс",
-	"vector-action-protect": "Аравтомс ванстомас",
-	"vector-action-undelete": "Вельмевтемс нардазенть",
-	"vector-action-unprotect": "Полавтомс ванстоманзо",
-	"vector-view-create": "Теемс-Шкамс",
-	"vector-view-edit": "Витнемс-петнемс",
-	"vector-view-history": "Ваномс юронзо-путовксонзо",
-	"vector-view-view": "Ловномс",
-	"vector-view-viewsource": "Ваномс косто саезь"
+	"valkyrie-action-addsection": "Поладомс мезде кортамс",
+	"valkyrie-action-delete": "Нардамс",
+	"valkyrie-action-move": "Печтевтемс",
+	"valkyrie-action-protect": "Аравтомс ванстомас",
+	"valkyrie-action-undelete": "Вельмевтемс нардазенть",
+	"valkyrie-action-unprotect": "Полавтомс ванстоманзо",
+	"valkyrie-view-create": "Теемс-Шкамс",
+	"valkyrie-view-edit": "Витнемс-петнемс",
+	"valkyrie-view-history": "Ваномс юронзо-путовксонзо",
+	"valkyrie-view-view": "Ловномс",
+	"valkyrie-view-viewsource": "Ваномс косто саезь",
+	"valkyrie-more-actions": "Седе ламо"
 }

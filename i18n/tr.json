@@ -5,19 +5,24 @@
 			"Emperyan",
 			"Joseph",
 			"Stultiwikia",
-			"Vito Genovese"
+			"Vito Genovese",
+			"Rapsar",
+			"Kumkumuk"
 		]
 	},
-	"vector-action-addsection": "Konu ekle",
-	"vector-action-delete": "Sil",
-	"vector-action-move": "Taşı",
-	"vector-action-protect": "Koru",
-	"vector-action-undelete": "Silinmeyi geri al",
-	"vector-action-unprotect": "Korumayı değiştir",
-	"vector-view-create": "Oluştur",
-	"vector-view-edit": "Düzenle",
-	"vector-view-history": "Geçmişi gör",
-	"vector-view-view": "Oku",
-	"vector-view-viewsource": "Kaynağı gör",
-	"vector-more-actions": "Diğer"
+	"valkyrie-skin-desc": "MonoBook Modern versiyonu ile taze bir görünüm ve iyi bir kullanım kolaylığı",
+	"valkyrie-action-addsection": "Konu ekle",
+	"valkyrie-action-delete": "Sil",
+	"valkyrie-action-move": "Taşı",
+	"valkyrie-action-protect": "Koru",
+	"valkyrie-action-undelete": "Silinmeyi geri al",
+	"valkyrie-action-unprotect": "Korumayı değiştir",
+	"valkyrie-view-create": "Oluştur",
+	"valkyrie-view-edit": "Düzenle",
+	"valkyrie-view-history": "Geçmişi gör",
+	"valkyrie-view-view": "Oku",
+	"valkyrie-view-viewsource": "Kaynağı gör",
+	"valkyrie-jumptonavigation": "Gezinti kısmına atla",
+	"valkyrie-jumptosearch": "Arama kısmına atla",
+	"valkyrie-more-actions": "Daha fazla"
 }

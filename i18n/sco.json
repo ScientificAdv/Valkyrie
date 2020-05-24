@@ -3,18 +3,22 @@
 		"authors": [
 			"Avicennasis",
 			"John Reid",
-			"Omnipaedista"
+			"Omnipaedista",
+			"Aursani",
+			"Macofe"
 		]
 	},
-	"vector-action-addsection": "Eik topic",
-	"vector-action-delete": "Delyte",
-	"vector-action-move": "Muiv",
-	"vector-action-protect": "Fend",
-	"vector-action-undelete": "Ondelyte",
-	"vector-action-unprotect": "Chynge protection",
-	"vector-view-create": "Ceaut",
-	"vector-view-edit": "Eedit",
-	"vector-view-history": "See histerie",
-	"vector-view-view": "Read",
-	"vector-view-viewsource": "See Soorce"
+	"valkyrie-skin-desc": "Modern version o MonoBook wi ae fresh luik n monie uisabeelitie impruivments",
+	"valkyrie-action-addsection": "Eik topic",
+	"valkyrie-action-delete": "Delyte",
+	"valkyrie-action-move": "Muiv",
+	"valkyrie-action-protect": "Fend",
+	"valkyrie-action-undelete": "Ondelyte",
+	"valkyrie-action-unprotect": "Chynge protection",
+	"valkyrie-view-create": "Ceaut",
+	"valkyrie-view-edit": "Eedit",
+	"valkyrie-view-history": "See histerie",
+	"valkyrie-view-view": "Read",
+	"valkyrie-view-viewsource": "See Soorce",
+	"valkyrie-more-actions": "Mair"
 }

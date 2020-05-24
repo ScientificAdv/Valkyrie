@@ -3,20 +3,21 @@
 		"authors": [
 			"Dbc334",
 			"Smihael",
-			"Yerpo"
+			"Yerpo",
+			"Janezdrilc"
 		]
 	},
-	"vector-skin-desc": "Sodobna različica MonoBook s svežim videzom in mnogimi izboljšavami uporabnosti",
-	"vector-action-addsection": "Dodaj temo",
-	"vector-action-delete": "Izbriši",
-	"vector-action-move": "Prestavi",
-	"vector-action-protect": "Zaščiti",
-	"vector-action-undelete": "Vrni",
-	"vector-action-unprotect": "Spremeni zaščito",
-	"vector-view-create": "Ustvari",
-	"vector-view-edit": "Uredi",
-	"vector-view-history": "Zgodovina",
-	"vector-view-view": "Preberi",
-	"vector-view-viewsource": "Izvorno besedilo",
-	"vector-more-actions": "Več"
+	"valkyrie-skin-desc": "Sodobna različica MonoBook s svežim videzom in mnogimi izboljšavami uporabnosti",
+	"valkyrie-action-addsection": "Dodaj temo",
+	"valkyrie-action-delete": "Izbriši",
+	"valkyrie-action-move": "Preimenuj",
+	"valkyrie-action-protect": "Zaščiti",
+	"valkyrie-action-undelete": "Obnovi",
+	"valkyrie-action-unprotect": "Spremeni zaščito",
+	"valkyrie-view-create": "Ustvari",
+	"valkyrie-view-edit": "Uredi",
+	"valkyrie-view-history": "Zgodovina",
+	"valkyrie-view-view": "Preberi",
+	"valkyrie-view-viewsource": "Izvorno besedilo",
+	"valkyrie-more-actions": "Več"
 }

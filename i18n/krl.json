@@ -1,0 +1,17 @@
+{
+	"@metadata": {
+		"authors": [
+			"Mashoi7",
+			"Ilja.mos",
+			"Likopiän tyttö",
+			"Varvana"
+		]
+	},
+	"valkyrie-action-addsection": "Lisyä teema",
+	"valkyrie-action-move": "Šiirrä",
+	"valkyrie-view-create": "Luaji",
+	"valkyrie-view-edit": "Kohentele",
+	"valkyrie-view-history": "Näytä istorija",
+	"valkyrie-view-view": "Luve",
+	"valkyrie-more-actions": "Vielä"
+}

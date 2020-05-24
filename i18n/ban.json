@@ -2,16 +2,20 @@
 	"@metadata": {
 		"authors": [
 			"Adi Mayndra",
-			"BASAbali"
+			"BASAbali",
+			"Carma citrawati",
+			"Joseagush",
+			"NoiX180"
 		]
 	},
-	"vector-action-addsection": "imbuhin indik wacana",
-	"vector-action-delete": "ngapus",
-	"vector-action-move": "kisidang",
-	"vector-action-protect": "nyaga",
-	"vector-view-create": "ngawe",
-	"vector-view-edit": "mecikang",
-	"vector-view-history": "indik sane lintang",
-	"vector-view-view": "Waca",
-	"vector-view-viewsource": "cingak witnyane"
+	"valkyrie-action-addsection": "Tambeh topik",
+	"valkyrie-action-delete": "Usap",
+	"valkyrie-action-move": "Gingsirang",
+	"valkyrie-action-protect": "Saib",
+	"valkyrie-view-create": "Kardi",
+	"valkyrie-view-edit": "Uah",
+	"valkyrie-view-history": "Cingak babad",
+	"valkyrie-view-view": "Wacén",
+	"valkyrie-view-viewsource": "Cingak wit",
+	"valkyrie-more-actions": "Lianan"
 }

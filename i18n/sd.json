@@ -1,10 +1,23 @@
 {
-	"@metadata": [],
-	"vector-action-delete": "ڊاھيو",
-	"vector-action-move": "چوريو",
-	"vector-action-protect": "تحفظيو",
-	"vector-action-unprotect": "اڻتحفظيو",
-	"vector-view-create": "سرجيو",
-	"vector-view-edit": "سنواريو",
-	"vector-view-viewsource": "ڪوڊ ڏسو"
+	"@metadata": {
+		"authors": [
+			"Sindhu",
+			"Aursani",
+			"Mehtab ahmed",
+			"Tweety"
+		]
+	},
+	"valkyrie-action-addsection": "عنوان ڏيو",
+	"valkyrie-action-delete": "ڊاھيو",
+	"valkyrie-action-move": "چوريو",
+	"valkyrie-action-protect": "تحفظيو",
+	"valkyrie-action-undelete": "اڻ‌ڊاهيو",
+	"valkyrie-action-unprotect": "تحفظ بدلايو",
+	"valkyrie-view-create": "سرجيو",
+	"valkyrie-view-edit": "سنواريو",
+	"valkyrie-view-history": "سوانح ڏسو",
+	"valkyrie-view-view": "پڙھو",
+	"valkyrie-view-viewsource": "ڪوڊ ڏسو",
+	"valkyrie-jumptosearch": "ڳولا ڏانهن هلو",
+	"valkyrie-more-actions": "وڌيڪ"
 }

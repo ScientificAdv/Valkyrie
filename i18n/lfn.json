@@ -1,0 +1,18 @@
+{
+	"@metadata": {
+		"authors": [
+			"Cgboeree",
+			"Katxis",
+			"Chabi"
+		]
+	},
+	"valkyrie-action-addsection": "Ajunta un tema",
+	"valkyrie-action-delete": "Sutrae",
+	"valkyrie-action-move": "Move",
+	"valkyrie-action-protect": "Proteje",
+	"valkyrie-view-create": "Crea",
+	"valkyrie-view-edit": "Edita",
+	"valkyrie-view-history": "Mostra istoria",
+	"valkyrie-view-view": "Leje",
+	"valkyrie-more-actions": "Plu"
+}

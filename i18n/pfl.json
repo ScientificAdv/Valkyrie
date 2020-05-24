@@ -4,14 +4,15 @@
 			"Manuae"
 		]
 	},
-	"vector-action-addsection": "Abschnidd dzufiesche",
-	"vector-action-delete": "Lesche",
-	"vector-action-move": "Vaschiewe",
-	"vector-action-protect": "Schidze",
-	"vector-action-undelete": "Zriggbringe",
-	"vector-view-create": "Õleesche",
-	"vector-view-edit": "Drõ schaffe",
-	"vector-view-history": "Dadaigschischd",
-	"vector-view-view": "Lese",
-	"vector-view-viewsource": "Gwelltegschd zaische"
+	"valkyrie-action-addsection": "Abschnidd dzufiesche",
+	"valkyrie-action-delete": "Lesche",
+	"valkyrie-action-move": "Vaschiewe",
+	"valkyrie-action-protect": "Schidze",
+	"valkyrie-action-undelete": "Zriggbringe",
+	"valkyrie-view-create": "Oaleesche",
+	"valkyrie-view-edit": "Droa schaffe",
+	"valkyrie-view-history": "Dadaigschischd",
+	"valkyrie-view-view": "Lese",
+	"valkyrie-view-viewsource": "Gwelltegschd zaische",
+	"valkyrie-more-actions": "Mea"
 }

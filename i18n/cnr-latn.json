@@ -1,0 +1,15 @@
+{
+	"@metadata": {
+		"authors": [
+			"Bellatrix10"
+		]
+	},
+	"valkyrie-action-addsection": "Dodaj temu",
+	"valkyrie-action-delete": "Izbriši",
+	"valkyrie-action-move": "Premjesti",
+	"valkyrie-action-protect": "Zaštiti",
+	"valkyrie-view-edit": "Uredi",
+	"valkyrie-view-history": "Pregledaj istoriju",
+	"valkyrie-view-view": "Čitaj",
+	"valkyrie-more-actions": "Više"
+}

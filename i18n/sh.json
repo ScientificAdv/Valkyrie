@@ -1,18 +1,22 @@
 {
 	"@metadata": {
 		"authors": [
-			"OC Ripper"
+			"OC Ripper",
+			"Conquistador",
+			"Srdjan m",
+			"BadDog"
 		]
 	},
-	"vector-action-addsection": "Dodaj temu",
-	"vector-action-delete": "Brisanje",
-	"vector-action-move": "Preusmjeri",
-	"vector-action-protect": "Zaštiti",
-	"vector-action-undelete": "Vrati obrisano",
-	"vector-action-unprotect": "Promijeni zaštitu",
-	"vector-view-create": "Napravi",
-	"vector-view-edit": "Uredi",
-	"vector-view-history": "Pregled historije",
-	"vector-view-view": "Čitaj",
-	"vector-view-viewsource": "Vidi izvor (source)"
+	"valkyrie-action-addsection": "Dodaj temu",
+	"valkyrie-action-delete": "Brisanje",
+	"valkyrie-action-move": "Premjesti",
+	"valkyrie-action-protect": "Zaštiti",
+	"valkyrie-action-undelete": "Vrati obrisano",
+	"valkyrie-action-unprotect": "Promijeni zaštitu",
+	"valkyrie-view-create": "Napravi",
+	"valkyrie-view-edit": "Uredi",
+	"valkyrie-view-history": "Historija/Историја",
+	"valkyrie-view-view": "Čitaj",
+	"valkyrie-view-viewsource": "Vidi izvor (source)",
+	"valkyrie-more-actions": "Više"
 }

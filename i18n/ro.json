@@ -5,21 +5,23 @@
 			"Danutz",
 			"Firilacroco",
 			"Minisarm",
-			"Strainu"
+			"Strainu",
+			"ImGelu"
 		]
 	},
-	"skinname-vector": "Vector",
-	"vector.css": "/* CSS plasate aici vor afecta utilizatorii stilului Vector */",
-	"vector-action-addsection": "Mesaj nou",
-	"vector-action-delete": "Ștergere",
-	"vector-action-move": "Redenumire",
-	"vector-action-protect": "Protejare",
-	"vector-action-undelete": "Recuperare",
-	"vector-action-unprotect": "Modificare protecție",
-	"vector-view-create": "Creare",
-	"vector-view-edit": "Modificare",
-	"vector-view-history": "Istoric",
-	"vector-view-view": "Lectură",
-	"vector-view-viewsource": "Sursă pagină",
-	"vector-more-actions": "Mai mult"
+	"skinname-valkyrie": "Valkyrie",
+	"valkyrie-skin-desc": "Versiunea modernă pentru MonoBook cu o înfățișare reîmprospătată și multe îmbunătățiri de uzabilitate",
+	"valkyrie.css": "/* CSS plasate aici vor afecta utilizatorii stilului Valkyrie */",
+	"valkyrie-action-addsection": "Mesaj nou",
+	"valkyrie-action-delete": "Ștergere",
+	"valkyrie-action-move": "Redenumire",
+	"valkyrie-action-protect": "Protejare",
+	"valkyrie-action-undelete": "Recuperare",
+	"valkyrie-action-unprotect": "Modificare protecție",
+	"valkyrie-view-create": "Creare",
+	"valkyrie-view-edit": "Modificare",
+	"valkyrie-view-history": "Istoric",
+	"valkyrie-view-view": "Lectură",
+	"valkyrie-view-viewsource": "Sursă pagină",
+	"valkyrie-more-actions": "Mai mult"
 }

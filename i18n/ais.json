@@ -1,0 +1,22 @@
+{
+	"@metadata": {
+		"authors": [
+			"Benel",
+			"Bunukwiki",
+			"Tokoabibi"
+		]
+	},
+	"valkyrie-skin-desc": "ayzaay a MonoBook, izaw baluhayay a nuhekalan atu yadah pisaungayay a sakapahay.",
+	"valkyrie-action-addsection": "micunus sasakamuen",
+	"valkyrie-action-delete": "misipu",
+	"valkyrie-action-move": "milimad",
+	"valkyrie-action-protect": "midiput",
+	"valkyrie-action-undelete": "palawpes tu masipuay",
+	"valkyrie-action-unprotect": "misumad tu midiputay",
+	"valkyrie-view-create": "patizeng",
+	"valkyrie-view-edit": "mikawaway-kalumyiti",
+	"valkyrie-view-history": "ciwsace nazipa’an",
+	"valkyrie-view-view": "miasip",
+	"valkyrie-view-viewsource": "ciwsace yuensma-kodo",
+	"valkyrie-more-actions": "yadah"
+}

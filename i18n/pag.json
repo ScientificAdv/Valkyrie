@@ -1,0 +1,15 @@
+{
+	"@metadata": {
+		"authors": [
+			"Lam-ang"
+		]
+	},
+	"valkyrie-action-delete": "Buralen",
+	"valkyrie-action-move": "Iyales",
+	"valkyrie-action-protect": "Iyagel",
+	"valkyrie-view-create": "Palsaen",
+	"valkyrie-view-edit": "Dumaen",
+	"valkyrie-view-history": "Nengnengen so awaran",
+	"valkyrie-view-view": "Basaen",
+	"valkyrie-more-actions": "Lalo"
+}

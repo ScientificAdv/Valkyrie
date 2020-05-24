@@ -2,18 +2,21 @@
 	"@metadata": {
 		"authors": [
 			"Anson2812",
-			"Jetlag"
+			"Jetlag",
+			"Hakka",
+			"唐吉訶德的侍從"
 		]
 	},
-	"vector-action-addsection": "加入話題",
-	"vector-action-delete": "刪除",
-	"vector-action-move": "移動",
-	"vector-action-protect": "保護",
-	"vector-action-undelete": "恢復",
-	"vector-action-unprotect": "更改保護",
-	"vector-view-create": "建立",
-	"vector-view-edit": "編寫",
-	"vector-view-history": "查看歷史",
-	"vector-view-view": "閱讀",
-	"vector-view-viewsource": "查看源碼"
+	"valkyrie-action-addsection": "Kâ-ngi̍p fa-thì",
+	"valkyrie-action-delete": "San-chhù",
+	"valkyrie-action-move": "Yì-thûng",
+	"valkyrie-action-protect": "Pó-fu",
+	"valkyrie-action-undelete": "恢復",
+	"valkyrie-action-unprotect": "更改保護",
+	"valkyrie-view-create": "Kien-li̍p",
+	"valkyrie-view-edit": "Phiên-siá",
+	"valkyrie-view-history": "Khon li̍t-sṳ́",
+	"valkyrie-view-view": "Thu̍k",
+	"valkyrie-view-viewsource": "Khon ngièn-sṳ́-mâ",
+	"valkyrie-more-actions": "Kiên-tô"
 }

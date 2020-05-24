@@ -1,0 +1,21 @@
+{
+	"@metadata": {
+		"authors": [
+			"علاء",
+			"Csisc",
+			"Meno25"
+		]
+	},
+	"valkyrie-action-addsection": "أضف موضوعا",
+	"valkyrie-action-delete": "احذف",
+	"valkyrie-action-move": "حوّل",
+	"valkyrie-action-protect": "احم",
+	"valkyrie-action-undelete": "استرجع الحذف",
+	"valkyrie-action-unprotect": "غير الحماية",
+	"valkyrie-view-create": "أنشئ",
+	"valkyrie-view-edit": "بدّل",
+	"valkyrie-view-history": "ورّي الپاج",
+	"valkyrie-view-view": "أقرا",
+	"valkyrie-view-viewsource": "عرض المصدر",
+	"valkyrie-more-actions": "زادة"
+}

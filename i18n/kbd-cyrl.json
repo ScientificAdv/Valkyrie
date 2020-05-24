@@ -5,15 +5,15 @@
 			"Тамэ Балъкъэрхэ"
 		]
 	},
-	"vector-action-addsection": "Теухугъуэ щӀэуэ щӀэдзэн",
-	"vector-action-delete": "Ихын",
-	"vector-action-move": "ЦӀэр хъуэжын",
-	"vector-action-protect": "Хъумэн",
-	"vector-action-undelete": "ЗыфӀэгъэувэжын",
-	"vector-action-unprotect": "Хъумэныр техыжын",
-	"vector-view-create": "ЩӀын",
-	"vector-view-edit": "Гъэтэрэзын",
-	"vector-view-history": "Тхыдэм еплъын",
-	"vector-view-view": "Еджэн",
-	"vector-view-viewsource": "КъызхэкӀам еплъын"
+	"valkyrie-action-addsection": "Теухугъуэ щӀэуэ щӀэдзэн",
+	"valkyrie-action-delete": "Ихын",
+	"valkyrie-action-move": "ЦӀэр хъуэжын",
+	"valkyrie-action-protect": "Хъумэн",
+	"valkyrie-action-undelete": "ЗыфӀэгъэувэжын",
+	"valkyrie-action-unprotect": "Хъумэныр техыжын",
+	"valkyrie-view-create": "ЩӀын",
+	"valkyrie-view-edit": "Гъэтэрэзын",
+	"valkyrie-view-history": "Тхыдэм еплъын",
+	"valkyrie-view-view": "Еджэн",
+	"valkyrie-view-viewsource": "КъызхэкӀам еплъын"
 }

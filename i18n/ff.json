@@ -4,11 +4,11 @@
 			"Ibrahima"
 		]
 	},
-	"vector-action-addsection": "Ɓeydi toɓɓere",
-	"vector-action-move": "Dirtin",
-	"vector-view-create": "Sos",
-	"vector-view-edit": "Taƴto",
-	"vector-view-history": "Yiyto aslol",
-	"vector-view-view": "Tar",
-	"vector-view-viewsource": "Yiyto ɗaɗol"
+	"valkyrie-action-addsection": "Ɓeydi toɓɓere",
+	"valkyrie-action-move": "Dirtin",
+	"valkyrie-view-create": "Sos",
+	"valkyrie-view-edit": "Taƴto",
+	"valkyrie-view-history": "Yiyto aslol",
+	"valkyrie-view-view": "Tar",
+	"valkyrie-view-viewsource": "Yiyto ɗaɗol"
 }

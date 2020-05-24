@@ -1,9 +1,9 @@
 {
 	"@metadata": [],
-	"vector-action-addsection": "Zonta una cjacarèda",
-	"vector-action-delete": "Scanzèla",
-	"vector-action-move": "Chèmbia nòm",
-	"vector-action-protect": "Metti-j una pruteziò",
-	"vector-action-undelete": "Armett a post",
-	"vector-action-unprotect": "Sbloca"
+	"valkyrie-action-addsection": "Zonta una cjacarèda",
+	"valkyrie-action-delete": "Scanzèla",
+	"valkyrie-action-move": "Chèmbia nòm",
+	"valkyrie-action-protect": "Metti-j una pruteziò",
+	"valkyrie-action-undelete": "Armett a post",
+	"valkyrie-action-unprotect": "Sbloca"
 }

@@ -1,18 +1,20 @@
 {
 	"@metadata": {
 		"authors": [
-			"Anjoeli9806"
+			"Anjoeli9806",
+			"Redhotchili23"
 		]
 	},
-	"vector-action-addsection": "Magdugang sang topiko",
-	"vector-action-delete": "Panason",
-	"vector-action-move": "Saylohon",
-	"vector-action-protect": "Pangapinan",
-	"vector-action-undelete": "Dulaon ang pagpanas",
-	"vector-action-unprotect": "Ilisan ang pagpangapin",
-	"vector-view-create": "Himuon",
-	"vector-view-edit": "Ilisan",
-	"vector-view-history": "Lantawon ang kasaysayan",
-	"vector-view-view": "Magbasa",
-	"vector-view-viewsource": "Lantawon ang ginhalinan"
+	"valkyrie-action-addsection": "Magdugang sing topiko",
+	"valkyrie-action-delete": "Panason",
+	"valkyrie-action-move": "Saylohon",
+	"valkyrie-action-protect": "Pangapinan",
+	"valkyrie-action-undelete": "Dulaon ang pagpanas",
+	"valkyrie-action-unprotect": "Ilisan ang pagpangapin",
+	"valkyrie-view-create": "Himuon",
+	"valkyrie-view-edit": "Liwaton",
+	"valkyrie-view-history": "Lantawon ang nagkalatabo",
+	"valkyrie-view-view": "Magbasa",
+	"valkyrie-view-viewsource": "Lantawon ang ginhalinan",
+	"valkyrie-more-actions": "Dugang Pa"
 }

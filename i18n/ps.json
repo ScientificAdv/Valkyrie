@@ -4,18 +4,19 @@
 			"Ahmed-Najib-Biabani-Ibrahimkhel"
 		]
 	},
-	"skinname-vector": "وېکټور",
-	"vector.css": "/* د CSS هره بڼه چې دلته ځای پر ځای کېږي هغه به د وېکټور د پوښ ټولو کارنانو لپاره کار کوي */",
-	"vector.js": "/* د جاوا هر يو سکرېپټ چې دلته ځای پر ځای کېږي هغه به د وېکټور د پوښ ټولو کارنانو لپاره کار کوي */",
-	"vector-action-addsection": "سرليکونه ورگډول",
-	"vector-action-delete": "ړنگول",
-	"vector-action-move": "لېږدول",
-	"vector-action-protect": "ژغورل",
-	"vector-action-undelete": "ناړنگول",
-	"vector-action-unprotect": "ژغورنه بدلول",
-	"vector-view-create": "جوړول",
-	"vector-view-edit": "سمول",
-	"vector-view-history": "پېښليک کتل",
-	"vector-view-view": "لوستل",
-	"vector-view-viewsource": "سرچينه کتل"
+	"skinname-valkyrie": "وېکټور",
+	"valkyrie.css": "/* د CSS هره بڼه چې دلته ځای پر ځای کېږي هغه به د وېکټور د پوښ ټولو کارنانو لپاره کار کوي */",
+	"valkyrie.js": "/* د جاوا هر يو سکرېپټ چې دلته ځای پر ځای کېږي هغه به د وېکټور د پوښ ټولو کارنانو لپاره کار کوي */",
+	"valkyrie-action-addsection": "سرليک ورگډول",
+	"valkyrie-action-delete": "ړنگول",
+	"valkyrie-action-move": "لېږدول",
+	"valkyrie-action-protect": "ژغورل",
+	"valkyrie-action-undelete": "ناړنگول",
+	"valkyrie-action-unprotect": "ژغورنه بدلول",
+	"valkyrie-view-create": "جوړول",
+	"valkyrie-view-edit": "سمول",
+	"valkyrie-view-history": "پېښليک کتل",
+	"valkyrie-view-view": "لوستل",
+	"valkyrie-view-viewsource": "سرچينه کتل",
+	"valkyrie-more-actions": "نور"
 }

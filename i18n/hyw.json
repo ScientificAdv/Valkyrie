@@ -1,0 +1,19 @@
+{
+	"@metadata": {
+		"authors": [
+			"Azniv Stepanian",
+			"ArmenBakkalian",
+			"Rajemian",
+			"Դավիթ Սարոյան"
+		]
+	},
+	"valkyrie-action-addsection": "Աւելցնել քննարկում",
+	"valkyrie-action-delete": "Ջնջել",
+	"valkyrie-action-move": "Տեղափոխել այս էջը",
+	"valkyrie-action-protect": "Պահել",
+	"valkyrie-view-create": "Ստեղծել",
+	"valkyrie-view-edit": "Խմբագրել",
+	"valkyrie-view-history": "Տեսնել պատմութիւնը",
+	"valkyrie-view-view": "Կարդալ",
+	"valkyrie-more-actions": "Աւելին"
+}

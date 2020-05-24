@@ -1,19 +1,20 @@
 {
 	"@metadata": {
 		"authors": [
-			"UV"
+			"UV",
+			"Laurentianus"
 		]
 	},
-	"vector-action-addsection": "Partem novam addere",
-	"vector-action-delete": "Delere",
-	"vector-action-move": "Movere",
-	"vector-action-protect": "Protegere",
-	"vector-action-undelete": "Restituere",
-	"vector-action-unprotect": "Protectionem mutare",
-	"vector-view-create": "Creare",
-	"vector-view-edit": "Recensere",
-	"vector-view-history": "Historiam inspicere",
-	"vector-view-view": "Legere",
-	"vector-view-viewsource": "Fontem inspicere",
-	"vector-more-actions": "Plus"
+	"valkyrie-action-addsection": "Partem novam addere",
+	"valkyrie-action-delete": "Delere",
+	"valkyrie-action-move": "Movere",
+	"valkyrie-action-protect": "Protegere",
+	"valkyrie-action-undelete": "Restituere",
+	"valkyrie-action-unprotect": "Protectionem mutare",
+	"valkyrie-view-create": "Creare",
+	"valkyrie-view-edit": "Recensere",
+	"valkyrie-view-history": "Historiam inspicere",
+	"valkyrie-view-view": "Legere",
+	"valkyrie-view-viewsource": "Fontem inspicere",
+	"valkyrie-more-actions": "Plura"
 }

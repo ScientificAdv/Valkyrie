@@ -3,18 +3,20 @@
 		"authors": [
 			"Chinneeb",
 			"MongolWiki",
-			"Wisdom"
+			"Wisdom",
+			"Sembuk"
 		]
 	},
-	"vector-action-addsection": "Сэдэв нэмэх",
-	"vector-action-delete": "Устгах",
-	"vector-action-move": "Зөөх",
-	"vector-action-protect": "Хамгаалах",
-	"vector-action-undelete": "Үл устгах",
-	"vector-action-unprotect": "Хамгаалалтаа солих",
-	"vector-view-create": "Үүсгэх",
-	"vector-view-edit": "Засварлах",
-	"vector-view-history": "Түүх",
-	"vector-view-view": "Унших",
-	"vector-view-viewsource": "Кодыг харах"
+	"valkyrie-action-addsection": "Сэдэв нэмэх",
+	"valkyrie-action-delete": "Устгах",
+	"valkyrie-action-move": "Зөөх",
+	"valkyrie-action-protect": "Хамгаалах",
+	"valkyrie-action-undelete": "Үл устгах",
+	"valkyrie-action-unprotect": "Хамгаалалтаа солих",
+	"valkyrie-view-create": "Үүсгэх",
+	"valkyrie-view-edit": "Засварлах",
+	"valkyrie-view-history": "Түүх",
+	"valkyrie-view-view": "Унших",
+	"valkyrie-view-viewsource": "Кодыг харах",
+	"valkyrie-more-actions": "Дэлгэрэнгүй"
 }

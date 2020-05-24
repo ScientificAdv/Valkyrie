@@ -8,15 +8,16 @@
 			"Vajotwo"
 		]
 	},
-	"vector-action-addsection": "Zonta discusion",
-	"vector-action-delete": "Scanseła",
-	"vector-action-move": "Sposta",
-	"vector-action-protect": "Protezi",
-	"vector-action-undelete": "Recupera",
-	"vector-action-unprotect": "Canbia ła protesion",
-	"vector-view-create": "Crea",
-	"vector-view-edit": "Canbia",
-	"vector-view-history": "Varda ła storia",
-	"vector-view-view": "Lezi",
-	"vector-view-viewsource": "Varda el testo"
+	"valkyrie-action-addsection": "Xonta discusion",
+	"valkyrie-action-delete": "Scanseƚa",
+	"valkyrie-action-move": "Sposta",
+	"valkyrie-action-protect": "Protegi",
+	"valkyrie-action-undelete": "Recupera",
+	"valkyrie-action-unprotect": "Canbia ƚa protesion",
+	"valkyrie-view-create": "Crea",
+	"valkyrie-view-edit": "Canbia",
+	"valkyrie-view-history": "Varda ƚa stòria",
+	"valkyrie-view-view": "Lexi",
+	"valkyrie-view-viewsource": "Varda el testo",
+	"valkyrie-more-actions": "Piassè"
 }

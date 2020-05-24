@@ -1,18 +1,20 @@
 {
 	"@metadata": {
 		"authors": [
-			"Don Alessandro"
+			"Don Alessandro",
+			"Danvintius Bookix"
 		]
 	},
-	"vector-action-addsection": "Мевзу къош",
-	"vector-action-delete": "Ёкъ эт",
-	"vector-action-move": "Адыны денъиштир",
-	"vector-action-protect": "Къорчала",
-	"vector-action-undelete": "Янъыдан ярат",
-	"vector-action-unprotect": "Къорчалавны денъиштир",
-	"vector-view-create": "Ярат",
-	"vector-view-edit": "Денъиштир",
-	"vector-view-history": "Кечмишини косьтер",
-	"vector-view-view": "Окъу",
-	"vector-view-viewsource": "Менба кодуны косьтер"
+	"valkyrie-action-addsection": "Мевзу къош",
+	"valkyrie-action-delete": "Ёкъ эт",
+	"valkyrie-action-move": "Адыны денъиштир",
+	"valkyrie-action-protect": "Къорчала",
+	"valkyrie-action-undelete": "Янъыдан ярат",
+	"valkyrie-action-unprotect": "Къорчалавны денъиштир",
+	"valkyrie-view-create": "Ярат",
+	"valkyrie-view-edit": "Денъиштир",
+	"valkyrie-view-history": "Кечмишини косьтер",
+	"valkyrie-view-view": "Окъу",
+	"valkyrie-view-viewsource": "Менба кодуны косьтер",
+	"valkyrie-more-actions": "Башкъа арекетлер"
 }

@@ -1,7 +1,7 @@
-@import "mediawiki.mixins";
-@import "personalMenu";
-@import "search";
-@import "tabs";
+@import 'mediawiki.mixins';
+@import 'personalNavigation';
+@import 'search';
+@import 'tabs';
 
 /* Hide, but keep accessible for screen-readers */
 #mw-navigation h2 {
@@ -9,15 +9,15 @@
     top: -9999px;
 }
 
+.mw-jump-link:not( :focus) {
+    .mixin-screen-reader-text;
+}
+
 /* Head */
 #mw-page-base {
     height: 210px;
     background-position: bottom left;
-    background-repeat: repeat-x;
-    /* This image is only a fallback (for IE 6-9), so we do not @embed it. */
-    // background-image: url('images/page-fade.png');
-    // .vertical-gradient(@body-background-color, @menu-background-color, 50%, 100%);
-    // background-color: @body-background-color;
+    // .vertical-gradient(@background-color-base, @background-color-secondary, 50%, 100%);
 }
 
 #mw-head-base {
@@ -26,7 +26,7 @@
     height: 210px;
 }
 
-div#mw-head {
+#mw-head {
     position: absolute;
     top: 0;
     right: 0;
@@ -59,8 +59,6 @@ div#mw-head {
 	   is still broken, but at least the nav overlaps only the page title
 	   instead of half the content. */
     margin-bottom: -2.5em;
-    /* IE 6 double-margin bug fix */
-    // display: inline;
     position: relative;
     top: 120px;
 }
@@ -79,10 +77,7 @@ div#mw-head #right-navigation a {
 
 /* Logo */
 #p-logo {
-    display: none;
-    position: absolute;
-    top: -160px;
-    left: 0;
+    display: none; // 暂时
     width: 10em;
     height: 160px;
 
@@ -97,13 +92,13 @@ div#mw-head #right-navigation a {
 }
 
 /* Panel */
-div#mw-panel {
-    font-size: @menu-main-font-size;
+#mw-panel {
     position: absolute;
     top: 10px;
     padding-top: 1em;
     width: 10em;
     left: 0;
+    font-size: @font-size-nav-main;
 
     a {
         color: lightblue;
@@ -114,65 +109,68 @@ div#mw-panel {
         }
     }
 
-    div.portal {
+    .portal {
         margin: 0 0.6em 0 0.7em;
         padding: 0.25em 0;
         direction: ltr;
-        background-position: top left;
-        background-repeat: no-repeat;
-        .background-image('images/portal-break.png');
 
         h3 {
-            font-size: @menu-main-heading-font-size;
-            color: @menu-main-heading-color;
+            color: @color-nav-subtle;
             font-weight: normal;
-            margin: 0;
-            padding: @menu-main-heading-padding;
+            margin: 0.5em 0 0 (@margin-left-nav-main-body / @font-size-nav-main-heading );
+            padding: 0.25em 0 0.5em;
             cursor: default;
-            border: none;
-            margin-bottom: .5em;
+            border: 0;
+            font-size: @font-size-nav-main-heading;
         }
 
-        div.body {
-            margin: @menu-main-body-margin;
+        .body {
+            margin-left: @margin-left-nav-main-body;
             padding-top: 0;
+            background-image: url(images/portal-separator.png ); // Support: IE 8 & 9, Fx 3.6-15, Safari 5.1-6, Chrome 10-25
+            // background-image: linear-gradient(to right, transparent 0, #c8ccd1 35%, #c8ccd1 70%, transparent 100%); // Standard (Firefox 16+, IE 10+, Safari 6.1+, Chrome 26+)
+            background-repeat: no-repeat;
+            background-size: 100% @border-width-base;
 
             ul {
-                list-style-type: none;
-                list-style-image: none;
+                list-style: none none;
                 margin: 0;
-                padding: @menu-main-body-padding;
+                padding-top: 0.3em;
+            }
 
-                li {
-                    line-height: 1.125em;
-                    margin: 0;
-                    padding: 0.8em 0 1.5em;
-                    font-size: @menu-main-body-font-size;
-                    word-wrap: break-word;
+            li {
+                margin: 0;
+                padding: 0.85em 0;
+                font-size: @font-size-nav-main-body;
+                line-height: @line-height-nav;
+                word-wrap: break-word;
 
-                    a {
-                        color: @menu-main-body-link-color;
+                a {
+                    color: @color-link;
 
-                        &:visited {
-                            color: @menu-main-body-link-visited-color;
-                        }
+                    &:visited {
+                        color: @color-link--visited;
                     }
                 }
             }
         }
+    }
 
-        &.first {
-            background-image: none;
-            margin-top: 0;
+    /* First sidebar portlet. Not using :first-of-type for IE<=8 support. */
+    #p-logo + .portal {
+        background-image: none;
+        margin-top: 1em;
 
-            h3 {
-                display: none;
-            }
-
-            div.body {
-                margin-left: 0.5em;
-            }
+        h3 {
+            display: none;
         }
+
+        .body {
+            background-image: none;
+            margin-left: @margin-left-nav-main-body;
+        }
+
+
     }
 }
 

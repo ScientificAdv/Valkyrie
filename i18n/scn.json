@@ -2,19 +2,22 @@
 	"@metadata": {
 		"authors": [
 			"Gmelfi",
-			"Melos"
+			"Melos",
+			"Pippinu",
+			"Sarvaturi"
 		]
 	},
-	"vector-action-addsection": "Agghiunci argumentu",
-	"vector-action-delete": "Elìmina",
-	"vector-action-move": "Sposta",
-	"vector-action-protect": "Pruteggi",
-	"vector-action-undelete": "Riprìstina",
-	"vector-action-unprotect": "Cancia la prutizzioni",
-	"vector-view-create": "Crea",
-	"vector-view-edit": "Cancia",
-	"vector-view-history": "Talìa a storia",
-	"vector-view-view": "Leggi",
-	"vector-view-viewsource": "Talìa la fonti",
-	"vector-more-actions": "Àutri cosi"
+	"valkyrie-skin-desc": "Virsioni muderna di MonoBook cu n'aspettu novu e tanti migghiuramenti nta l'usabbilità",
+	"valkyrie-action-addsection": "Agghiunci n'argumentu",
+	"valkyrie-action-delete": "Cancella",
+	"valkyrie-action-move": "Sposta",
+	"valkyrie-action-protect": "Pruteggi",
+	"valkyrie-action-undelete": "Annulla la cancillazzioni",
+	"valkyrie-action-unprotect": "Cancia la prutizzioni",
+	"valkyrie-view-create": "Crea",
+	"valkyrie-view-edit": "Cancia",
+	"valkyrie-view-history": "Talìa la crunuluggìa",
+	"valkyrie-view-view": "Leggi",
+	"valkyrie-view-viewsource": "Talìa la surgenti",
+	"valkyrie-more-actions": "Àutri cosi"
 }

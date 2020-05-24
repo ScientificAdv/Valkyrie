@@ -1,17 +1,19 @@
 {
 	"@metadata": {
 		"authors": [
-			"Paulu"
+			"Paulu",
+			"Jun Misugi"
 		]
 	},
-	"vector-action-addsection": "Aghjunghje discussione",
-	"vector-action-delete": "Supprimà",
-	"vector-action-move": "Cullucà",
-	"vector-action-protect": "Pruteghje",
-	"vector-action-unprotect": "Cambià a prutezzione",
-	"vector-view-create": "Creà",
-	"vector-view-edit": "Mudificà",
-	"vector-view-history": "Vede a cronolugia",
-	"vector-view-view": "Leghje",
-	"vector-view-viewsource": "Vede a surghjente"
+	"valkyrie-action-addsection": "Aghjunghje discussione",
+	"valkyrie-action-delete": "Supprimà",
+	"valkyrie-action-move": "Cullucà",
+	"valkyrie-action-protect": "Pruteghje",
+	"valkyrie-action-unprotect": "Cambià a prutezzione",
+	"valkyrie-view-create": "Creà",
+	"valkyrie-view-edit": "Mudificà",
+	"valkyrie-view-history": "Vede a cronolugia",
+	"valkyrie-view-view": "Leghje",
+	"valkyrie-view-viewsource": "Vede a surghjente",
+	"valkyrie-more-actions": "Più"
 }

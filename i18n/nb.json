@@ -3,20 +3,26 @@
 		"authors": [
 			"Danmichaelo",
 			"Event",
-			"Nghtwlkr"
+			"Nghtwlkr",
+			"Jon Harald Søby"
 		]
 	},
-	"vector-skin-desc": "Moderne versjon av MonoBook med et friskt utseende og mange bruksforbedringer",
-	"vector-action-addsection": "Nytt emne",
-	"vector-action-delete": "Slett",
-	"vector-action-move": "Flytt",
-	"vector-action-protect": "Beskytt",
-	"vector-action-undelete": "Gjenopprett",
-	"vector-action-unprotect": "Endre beskyttelse",
-	"vector-view-create": "Opprett",
-	"vector-view-edit": "Rediger",
-	"vector-view-history": "Vis historikk",
-	"vector-view-view": "Les",
-	"vector-view-viewsource": "Vis kilden",
-	"vector-more-actions": "Mer"
+	"skinname-valkyrie": "Valkyrie",
+	"valkyrie-skin-desc": "Moderne versjon av MonoBook med et friskt utseende og mange bruksforbedringer",
+	"valkyrie.css": "/* CSS i denne fila vil gjelde alle som bruker drakta Valkyrie */",
+	"valkyrie.js": "/* Javascript i denne fila vil gjelde for brukere av drakta Valkyrie */",
+	"valkyrie-action-addsection": "Nytt emne",
+	"valkyrie-action-delete": "Slett",
+	"valkyrie-action-move": "Flytt",
+	"valkyrie-action-protect": "Beskytt",
+	"valkyrie-action-undelete": "Gjenopprett",
+	"valkyrie-action-unprotect": "Endre beskyttelse",
+	"valkyrie-view-create": "Opprett",
+	"valkyrie-view-edit": "Rediger",
+	"valkyrie-view-history": "Vis historikk",
+	"valkyrie-view-view": "Les",
+	"valkyrie-view-viewsource": "Vis kilden",
+	"valkyrie-jumptonavigation": "Hopp til navigering",
+	"valkyrie-jumptosearch": "Hopp til søk",
+	"valkyrie-more-actions": "Mer"
 }

@@ -4,18 +4,18 @@
 			"Gleki"
 		]
 	},
-	"skinname-vector": "la vektor",
-	"vector-skin-desc": "lo cabna versio be la monobuk i vifne tarmi i so'i da nu xamgu zenba",
-	"vector-action-addsection": "jmina la'e se casnu",
-	"vector-action-delete": "vimcu",
-	"vector-action-move": "stika lo cmene",
-	"vector-action-protect": "bandu",
-	"vector-action-undelete": "volvygau",
-	"vector-action-unprotect": "cnegau lo bandu",
-	"vector-view-create": "zbasu",
-	"vector-view-edit": "stika",
-	"vector-view-history": "lo ckupau citri",
-	"vector-view-view": "tcidu",
-	"vector-view-viewsource": "cpacu lo krasi",
-	"vector-more-actions": "ji'a"
+	"skinname-valkyrie": "la vektor",
+	"valkyrie-skin-desc": "cabna versiio la monobuk i vifne tarmi i so'i da nu xamgu zenba",
+	"valkyrie-action-addsection": "jmina lo se casnu pagbu",
+	"valkyrie-action-delete": "vimcu",
+	"valkyrie-action-move": "stika lo cmene",
+	"valkyrie-action-protect": "co'a bandu",
+	"valkyrie-action-undelete": "ca'o nai vimcu",
+	"valkyrie-action-unprotect": "co'u bandu",
+	"valkyrie-view-create": "zbasu",
+	"valkyrie-view-edit": "stika",
+	"valkyrie-view-history": "citri lo papri",
+	"valkyrie-view-view": "tcidu",
+	"valkyrie-view-viewsource": "cpacu lo krasi",
+	"valkyrie-more-actions": "ji'a"
 }

@@ -4,10 +4,10 @@
 			"ZQheert"
 		]
 	},
-	"vector-action-delete": "Lelei",
-	"vector-action-move": "Palettei",
-	"vector-view-create": "Bua'",
-	"vector-view-edit": "edi'",
-	"vector-view-view": "Bacai",
-	"vector-view-viewsource": "Tilingi assala'na"
+	"valkyrie-action-delete": "Lelei",
+	"valkyrie-action-move": "Palettei",
+	"valkyrie-view-create": "Bua'",
+	"valkyrie-view-edit": "edi'",
+	"valkyrie-view-view": "Bacai",
+	"valkyrie-view-viewsource": "Tilingi assala'na"
 }

@@ -8,16 +8,16 @@
 			"Olsi"
 		]
 	},
-	"vector-action-addsection": "Shto një temë",
-	"vector-action-delete": "Grise",
-	"vector-action-move": "Zhvendose",
-	"vector-action-protect": "Mbroje",
-	"vector-action-undelete": "Anullo fshirjen",
-	"vector-action-unprotect": "Ndrysho mbrojtjen",
-	"vector-view-create": "Krijo",
-	"vector-view-edit": "Redakto",
-	"vector-view-history": "Shiko historikun",
-	"vector-view-view": "Lexo",
-	"vector-view-viewsource": "Shiko tekstin",
-	"vector-more-actions": "Më tepër..."
+	"valkyrie-action-addsection": "Shto një temë",
+	"valkyrie-action-delete": "Grise",
+	"valkyrie-action-move": "Zhvendose",
+	"valkyrie-action-protect": "Mbroje",
+	"valkyrie-action-undelete": "Anullo fshirjen",
+	"valkyrie-action-unprotect": "Ndrysho mbrojtjen",
+	"valkyrie-view-create": "Krijo",
+	"valkyrie-view-edit": "Redakto",
+	"valkyrie-view-history": "Shiko historikun",
+	"valkyrie-view-view": "Lexo",
+	"valkyrie-view-viewsource": "Shiko tekstin",
+	"valkyrie-more-actions": "Më tepër..."
 }

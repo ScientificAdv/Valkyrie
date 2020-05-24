@@ -1,0 +1,17 @@
+{
+	"@metadata": {
+		"authors": [
+			"Mogoeilor",
+			"Isevand"
+		]
+	},
+	"valkyrie-action-addsection": "داسۊن اْزاف کونین",
+	"valkyrie-action-delete": "پاکسا کردن",
+	"valkyrie-action-move": "جابجا کردن",
+	"valkyrie-action-protect": "هناڌاری ۉ پٱلڌاری",
+	"valkyrie-view-create": "راس كردن",
+	"valkyrie-view-edit": "آلشدکاری کردن",
+	"valkyrie-view-history": "ديڌن ڤیرگار",
+	"valkyrie-view-view": "خوندن",
+	"valkyrie-more-actions": "بیشتر"
+}

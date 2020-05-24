@@ -4,15 +4,16 @@
 			"Borichèt"
 		]
 	},
-	"vector-action-addsection": "Gionté n'argoment",
-	"vector-action-delete": "Scancelé",
-	"vector-action-move": "Tramudé",
-	"vector-action-protect": "Protege",
-	"vector-action-undelete": "Arcuperé",
-	"vector-action-unprotect": "Cangé la protession",
-	"vector-view-create": "Creé",
-	"vector-view-edit": "Modifiché",
-	"vector-view-history": "Smon-e la stòria",
-	"vector-view-view": "Lese",
-	"vector-view-viewsource": "Vëdde la sorgiss"
+	"valkyrie-action-addsection": "Gionté n'argoment",
+	"valkyrie-action-delete": "Scancelé",
+	"valkyrie-action-move": "Tramudé",
+	"valkyrie-action-protect": "Protege",
+	"valkyrie-action-undelete": "Arcuperé",
+	"valkyrie-action-unprotect": "Cangé la protession",
+	"valkyrie-view-create": "Creé",
+	"valkyrie-view-edit": "Modifiché",
+	"valkyrie-view-history": "Smon-e la stòria",
+	"valkyrie-view-view": "Lese",
+	"valkyrie-view-viewsource": "Vëdde la sorgiss",
+	"valkyrie-more-actions": "Ëd pi"
 }

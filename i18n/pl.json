@@ -2,23 +2,26 @@
 	"@metadata": {
 		"authors": [
 			"Matma Rex",
-			"Sp5uhe"
+			"Sp5uhe",
+			"Chrumps"
 		]
 	},
-	"skinname-vector": "Wektor",
-	"vector-skin-desc": "Odświeżona wersja skórki Książka, z nowym wyglądem i usprawnieniami",
-	"vector.css": "/* Umieszczony tutaj kod CSS wpłynie na wygląd skórki Wektor */",
-	"vector.js": "/* Umieszczony tutaj kod JavaScript zostanie załadowany wyłącznie przez użytkowników korzystających ze skórki Wektor */",
-	"vector-action-addsection": "Dodaj temat",
-	"vector-action-delete": "Usuń",
-	"vector-action-move": "Przenieś",
-	"vector-action-protect": "Zabezpiecz",
-	"vector-action-undelete": "Odtwórz",
-	"vector-action-unprotect": "Zmień zabezpieczenie",
-	"vector-view-create": "Utwórz",
-	"vector-view-edit": "Edytuj",
-	"vector-view-history": "Wyświetl historię",
-	"vector-view-view": "Czytaj",
-	"vector-view-viewsource": "Tekst źródłowy",
-	"vector-more-actions": "Więcej"
+	"skinname-valkyrie": "Wektor",
+	"valkyrie-skin-desc": "Odświeżona wersja skórki Książka, z nowym wyglądem i usprawnieniami",
+	"valkyrie.css": "/* Umieszczony tutaj kod CSS wpłynie na wygląd skórki Wektor */",
+	"valkyrie.js": "/* Umieszczony tutaj kod JavaScript zostanie załadowany wyłącznie przez użytkowników korzystających ze skórki Wektor */",
+	"valkyrie-action-addsection": "Dodaj temat",
+	"valkyrie-action-delete": "Usuń",
+	"valkyrie-action-move": "Przenieś",
+	"valkyrie-action-protect": "Zabezpiecz",
+	"valkyrie-action-undelete": "Odtwórz",
+	"valkyrie-action-unprotect": "Zmień zabezpieczenie",
+	"valkyrie-view-create": "Utwórz",
+	"valkyrie-view-edit": "Edytuj",
+	"valkyrie-view-history": "Wyświetl historię",
+	"valkyrie-view-view": "Czytaj",
+	"valkyrie-view-viewsource": "Tekst źródłowy",
+	"valkyrie-jumptonavigation": "Przejdź do nawigacji",
+	"valkyrie-jumptosearch": "Przejdź do wyszukiwania",
+	"valkyrie-more-actions": "Więcej"
 }

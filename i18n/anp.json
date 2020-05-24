@@ -1,0 +1,16 @@
+{
+	"@metadata": {
+		"authors": [
+			"Angpradesh"
+		]
+	},
+	"valkyrie-action-addsection": "विषय जोड़ऽ",
+	"valkyrie-action-delete": "मेटाबऽ",
+	"valkyrie-action-move": "चलऽ",
+	"valkyrie-action-protect": "सुरक्षित करऽ",
+	"valkyrie-view-create": "सृजन करऽ",
+	"valkyrie-view-edit": "संपादन करऽ",
+	"valkyrie-view-history": "इतिहास देखऽ",
+	"valkyrie-view-view": "पढ़ऽ",
+	"valkyrie-more-actions": "आरू जादा"
+}

@@ -1,19 +1,21 @@
 {
 	"@metadata": {
 		"authors": [
-			"Don Alessandro"
+			"Don Alessandro",
+			"Frhdkazan"
 		]
 	},
-	"skinname-vector": "Sızımlı",
-	"vector-action-addsection": "Yaña tema östäw",
-	"vector-action-delete": "Beterü",
-	"vector-action-move": "Küçerü",
-	"vector-action-protect": "Yaqlaw",
-	"vector-action-undelete": "Qaytaru",
-	"vector-action-unprotect": "Yaqlawnı beterü",
-	"vector-view-create": "Tözü",
-	"vector-view-edit": "Üzgärtü",
-	"vector-view-history": "Tarixın qaraw",
-	"vector-view-view": "Uqu",
-	"vector-view-viewsource": "Çığanağın qaraw"
+	"skinname-valkyrie": "Sızımlı",
+	"valkyrie-action-addsection": "Yaña tema östäw",
+	"valkyrie-action-delete": "Beterü",
+	"valkyrie-action-move": "Küçerü",
+	"valkyrie-action-protect": "Yaqlaw",
+	"valkyrie-action-undelete": "Qaytaru",
+	"valkyrie-action-unprotect": "Yaqlawnı beterü",
+	"valkyrie-view-create": "Tözü",
+	"valkyrie-view-edit": "Üzgärtü",
+	"valkyrie-view-history": "Tarixın qaraw",
+	"valkyrie-view-view": "Uqu",
+	"valkyrie-view-viewsource": "Çığanağın qaraw",
+	"valkyrie-more-actions": "Başqalar"
 }

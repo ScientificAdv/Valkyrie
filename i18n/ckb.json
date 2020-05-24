@@ -2,20 +2,21 @@
 	"@metadata": {
 		"authors": [
 			"Asoxor",
-			"Calak"
+			"Calak",
+			"Sarchia"
 		]
 	},
-	"skinname-vector": "ڤێکتۆر",
-	"vector-action-addsection": "بابەت دابنێ",
-	"vector-action-delete": "بیسڕەوە",
-	"vector-action-move": "بیگوازەوە",
-	"vector-action-protect": "بیپارێزە",
-	"vector-action-undelete": "سڕینەوە بگەڕێنەوە",
-	"vector-action-unprotect": "پاراستن بگۆڕە",
-	"vector-view-create": "دروستکردن",
-	"vector-view-edit": "دەستکاریی بکە",
-	"vector-view-history": "مێژووەکەی ببینە",
-	"vector-view-view": "بیخوێنەوە",
-	"vector-view-viewsource": "سەرچاوەکەی ببینە",
-	"vector-more-actions": "زیاتر"
+	"skinname-valkyrie": "ڤێکتۆر",
+	"valkyrie-action-addsection": "بابەت دابنێ",
+	"valkyrie-action-delete": "سڕینەوە",
+	"valkyrie-action-move": "گواستنەوە",
+	"valkyrie-action-protect": "پاراستن",
+	"valkyrie-action-undelete": "سڕینەوە بگەڕێنەوە",
+	"valkyrie-action-unprotect": "پاراستن بگۆڕە",
+	"valkyrie-view-create": "دروستکردن",
+	"valkyrie-view-edit": "دەستکاری",
+	"valkyrie-view-history": "مێژوو",
+	"valkyrie-view-view": "خوێندنەوە",
+	"valkyrie-view-viewsource": "سەرچاوەکەی ببینە",
+	"valkyrie-more-actions": "زیاتر"
 }

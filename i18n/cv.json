@@ -2,16 +2,18 @@
 	"@metadata": {
 		"authors": [
 			"Chavash",
-			"FLAGELLVM DEI"
+			"FLAGELLVM DEI",
+			"Chuvash2014"
 		]
 	},
-	"vector-action-addsection": "Тема хуш",
-	"vector-action-delete": "Кăларса пăрах",
-	"vector-action-move": "Ятне улăштар",
-	"vector-action-protect": "Хӳтĕле",
-	"vector-view-create": "Çĕннине ту",
-	"vector-view-edit": "Тӳрлет",
-	"vector-view-history": "Кун-çул",
-	"vector-view-view": "Вула",
-	"vector-view-viewsource": "пуçламăш текста пăх"
+	"valkyrie-action-addsection": "Тема хуш",
+	"valkyrie-action-delete": "Кăларса пăрах",
+	"valkyrie-action-move": "Ятне улăштар",
+	"valkyrie-action-protect": "Хӳтĕле",
+	"valkyrie-view-create": "Çĕннине ту",
+	"valkyrie-view-edit": "Тӳрлет",
+	"valkyrie-view-history": "Истори",
+	"valkyrie-view-view": "Вула",
+	"valkyrie-view-viewsource": "Кодне пăх",
+	"valkyrie-more-actions": "Тата"
 }

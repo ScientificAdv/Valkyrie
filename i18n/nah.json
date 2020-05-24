@@ -1,15 +1,21 @@
 {
 	"@metadata": {
 		"authors": [
-			"Ricardo gs"
+			"Ricardo gs",
+			"Taresi",
+			"Akapochtli"
 		]
 	},
-	"vector-action-delete": "Ticpolōz",
-	"vector-action-move": "Ticzacāz",
-	"vector-action-protect": "Ticquīxtīz",
-	"vector-view-create": "Ticchīhuāz",
-	"vector-view-edit": "Ticpatlāz",
-	"vector-view-history": "Tlahcuilōlli tlahcuilōlloh",
-	"vector-view-view": "Tāmapōhuaz",
-	"vector-view-viewsource": "Tiquittāz in mēyalli"
+	"valkyrie-action-addsection": "Xicahxilti netlahtōlpepechtiliztli",
+	"valkyrie-action-delete": "Xicpolo",
+	"valkyrie-action-move": "Xiczaca",
+	"valkyrie-action-protect": "Xicpiya",
+	"valkyrie-action-undelete": "Xicmāquīxti",
+	"valkyrie-action-unprotect": "Xicpatla tlapiyaliztli",
+	"valkyrie-view-create": "Ticchihuaz",
+	"valkyrie-view-edit": "Ticpatlaz",
+	"valkyrie-view-history": "Tiquittaz tlahtollotl",
+	"valkyrie-view-view": "Tamapohuaz",
+	"valkyrie-view-viewsource": "Xiquitta tzintiliztli",
+	"valkyrie-more-actions": "Ocachi"
 }

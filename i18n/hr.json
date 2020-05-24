@@ -2,18 +2,25 @@
 	"@metadata": {
 		"authors": [
 			"Ex13",
-			"Tivek"
+			"Tivek",
+			"Bugoslav",
+			"BadDog",
+			"MaGa"
 		]
 	},
-	"vector-action-addsection": "Dodaj temu",
-	"vector-action-delete": "Izbriši",
-	"vector-action-move": "Premjesti",
-	"vector-action-protect": "Zaštiti",
-	"vector-action-undelete": "Vrati",
-	"vector-action-unprotect": "Promijeni zaštitu",
-	"vector-view-create": "Započni",
-	"vector-view-edit": "Uredi",
-	"vector-view-history": "Vidi stare izmjene",
-	"vector-view-view": "Čitaj",
-	"vector-view-viewsource": "Vidi izvor"
+	"valkyrie-skin-desc": "Osuvremenjena inačica MonoBooka s obnovljenim dizajnom i mnogim poboljšanjima u upotrebljivosti",
+	"valkyrie-action-addsection": "Dodaj temu",
+	"valkyrie-action-delete": "Izbriši",
+	"valkyrie-action-move": "Premjesti",
+	"valkyrie-action-protect": "Zaštiti",
+	"valkyrie-action-undelete": "Vrati izbrisano",
+	"valkyrie-action-unprotect": "Promijeni zaštitu",
+	"valkyrie-view-create": "Stvori",
+	"valkyrie-view-edit": "Uredi",
+	"valkyrie-view-history": "Vidi povijest",
+	"valkyrie-view-view": "Čitaj",
+	"valkyrie-view-viewsource": "Vidi izvor",
+	"valkyrie-jumptonavigation": "Prijeđi na navigaciju",
+	"valkyrie-jumptosearch": "Prijeđi na pretraživanje",
+	"valkyrie-more-actions": "Više"
 }

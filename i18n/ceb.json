@@ -1,18 +1,20 @@
 {
 	"@metadata": {
 		"authors": [
-			"Jordz"
+			"Jordz",
+			"Bentong Isles"
 		]
 	},
-	"vector-action-addsection": "Pagdugang og topiko",
-	"vector-action-delete": "Papasa",
-	"vector-action-move": "Ibalhin",
-	"vector-action-protect": "Protektahi",
-	"vector-action-undelete": "Ayaw papasa",
-	"vector-action-unprotect": "Ayaw protektahi",
-	"vector-view-create": "Himoa",
-	"vector-view-edit": "Usba",
-	"vector-view-history": "Tan-awa ang kaagi",
-	"vector-view-view": "Basaha",
-	"vector-view-viewsource": "Tan-awa ang ginikanan"
+	"valkyrie-action-addsection": "Pagdugang og topiko",
+	"valkyrie-action-delete": "Papasa",
+	"valkyrie-action-move": "Ibalhin",
+	"valkyrie-action-protect": "Protektahi",
+	"valkyrie-action-undelete": "Ayaw papasa",
+	"valkyrie-action-unprotect": "Ayaw protektahi",
+	"valkyrie-view-create": "Himoa",
+	"valkyrie-view-edit": "Usba",
+	"valkyrie-view-history": "Tan-awa ang kaagi",
+	"valkyrie-view-view": "Basaha",
+	"valkyrie-view-viewsource": "Tan-awa ang ginikanan",
+	"valkyrie-more-actions": "Uban pa..."
 }

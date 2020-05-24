@@ -2,18 +2,20 @@
 	"@metadata": {
 		"authors": [
 			"Crazymadlover",
-			"Omnipaedista"
+			"Omnipaedista",
+			"Gts-tg"
 		]
 	},
-	"vector-action-addsection": "Θέμα προστιθέναι",
-	"vector-action-delete": "Σβεννύναι",
-	"vector-action-move": "Κινεῖν",
-	"vector-action-protect": "Φυλάττειν",
-	"vector-action-undelete": "Ἀποκαθιστάναι",
-	"vector-action-unprotect": "Ἄλλαξον τὴν φύλαξιν",
-	"vector-view-create": "Ποιεῖν",
-	"vector-view-edit": "Μεταγράφειν",
-	"vector-view-history": "Ἱστορίαν ὁρᾶν",
-	"vector-view-view": "Ἀναγνῶναι",
-	"vector-view-viewsource": "Ὁρᾶν τὴν πηγήν"
+	"valkyrie-action-addsection": "Θέμα προστιθέναι",
+	"valkyrie-action-delete": "Σβεννύναι",
+	"valkyrie-action-move": "Κινεῖν",
+	"valkyrie-action-protect": "Φυλάττειν",
+	"valkyrie-action-undelete": "Ἀποκαθιστάναι",
+	"valkyrie-action-unprotect": "Ἄλλαξον τὴν φύλαξιν",
+	"valkyrie-view-create": "Ποιεῖν",
+	"valkyrie-view-edit": "Μεταγράφειν",
+	"valkyrie-view-history": "Ἱστορίαν ὁρᾶν",
+	"valkyrie-view-view": "Ἀναγνῶναι",
+	"valkyrie-view-viewsource": "Ὁρᾶν τὴν πηγήν",
+	"valkyrie-more-actions": "Πλεῖον"
 }

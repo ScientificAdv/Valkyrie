@@ -1,0 +1,18 @@
+{
+	"@metadata": {
+		"authors": [
+			"MokaAkashiyaPT",
+			"Athena in Wonderland"
+		]
+	},
+	"valkyrie-action-addsection": "Nuobo cacho",
+	"valkyrie-action-delete": "Botar fuora",
+	"valkyrie-action-move": "Arrastrar",
+	"valkyrie-action-protect": "Porteger",
+	"valkyrie-action-unprotect": "Altarar la porteçon",
+	"valkyrie-view-create": "Criar",
+	"valkyrie-view-edit": "Eiditar",
+	"valkyrie-view-history": "Ber stórico",
+	"valkyrie-view-view": "Lher",
+	"valkyrie-more-actions": "Mais"
+}

@@ -2,19 +2,20 @@
 	"@metadata": {
 		"authors": [
 			"Mostafadaneshvar",
-			"RigiMahnoor"
+			"RigiMahnoor",
+			"Sultanselim baloch"
 		]
 	},
-	"vector-action-addsection": "هور کتن عنوان",
-	"vector-action-delete": "زورگ",
-	"vector-action-move": "جاه په جاه",
-	"vector-action-protect": "حفاظت",
-	"vector-action-undelete": "ترینگ",
-	"vector-action-unprotect": "پروتکشنء ٹگل بدئ",
-	"vector-view-create": "شرکتن",
-	"vector-view-edit": "اصلاح",
-	"vector-view-history": "چارتن تاریح",
-	"vector-view-view": "وانتن",
-	"vector-view-viewsource": "پیشدارگ بن جاه",
-	"vector-more-actions": "گیشتر"
+	"valkyrie-action-addsection": "هور کتن عنوان",
+	"valkyrie-action-delete": "زورگ",
+	"valkyrie-action-move": "جاه په جاه",
+	"valkyrie-action-protect": "حفاظت",
+	"valkyrie-action-undelete": "ترینگ",
+	"valkyrie-action-unprotect": "پروتکشنء ٹگل بدئ",
+	"valkyrie-view-create": "شرکتن",
+	"valkyrie-view-edit": "ٹگلݔنگ",
+	"valkyrie-view-history": "رمسءِ چارگ",
+	"valkyrie-view-view": "وانگ",
+	"valkyrie-view-viewsource": "پیشدارگ بن جاه",
+	"valkyrie-more-actions": "گݔشتِر"
 }

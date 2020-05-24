@@ -4,13 +4,14 @@
 			"Protostar"
 		]
 	},
-	"vector-action-addsection": "Add tòpik",
-	"vector-action-delete": "Delet",
-	"vector-action-move": "Muf",
-	"vector-action-protect": "Protèkt",
-	"vector-view-create": "Kreat",
-	"vector-view-edit": "Chenj",
-	"vector-view-history": "Luk historia",
-	"vector-view-view": "Rid",
-	"vector-view-viewsource": "Luk dhi sòrs"
+	"valkyrie-action-addsection": "Add tòpik",
+	"valkyrie-action-delete": "Delet",
+	"valkyrie-action-move": "Muf",
+	"valkyrie-action-protect": "Protèkt",
+	"valkyrie-view-create": "Kreat",
+	"valkyrie-view-edit": "Chenj",
+	"valkyrie-view-history": "Luk historia",
+	"valkyrie-view-view": "Rid",
+	"valkyrie-view-viewsource": "Luk dhi sòrs",
+	"valkyrie-more-actions": "Mòr"
 }

@@ -2,22 +2,23 @@
 	"@metadata": {
 		"authors": [
 			"Joystick",
-			"פוילישער"
+			"פוילישער",
+			"Har-wradim"
 		]
 	},
-	"skinname-vector": "וועקטאר",
-	"vector-skin-desc": "מאדערנע ווערסיע פון מאנאבוק מיט פרישן אויסזען און א סך באניצער־פריינדלעכקייט פארבעסערונגען",
-	"vector.css": "/* CSS געשטעלט דא ווירקט נאר אויפן וועקטאר סקין */",
-	"vector-action-addsection": "צושטעלן טעמע",
-	"vector-action-delete": "אויסמעקן",
-	"vector-action-move": "באַוועגן",
-	"vector-action-protect": "שיצן",
-	"vector-action-undelete": "מבטל זיין אויסמעקן",
-	"vector-action-unprotect": "ענדערונג באַשיצונג",
-	"vector-view-create": "שאַפֿן",
-	"vector-view-edit": "רעדאַקטירן",
-	"vector-view-history": "ווײַזן היסטאָריע",
-	"vector-view-view": "לייענען",
-	"vector-view-viewsource": "ווײַזן מקור",
-	"vector-more-actions": "נאך"
+	"skinname-valkyrie": "וועקטאר",
+	"valkyrie-skin-desc": "מאדערנע ווערסיע פון מאנאבוק מיט פרישן אויסזען און א סך באניצער־פריינדלעכקייט פארבעסערונגען",
+	"valkyrie.css": "/* CSS געשטעלט דא ווירקט נאר אויפן וועקטאר סקין */",
+	"valkyrie-action-addsection": "צושטעלן טעמע",
+	"valkyrie-action-delete": "אויסמעקן",
+	"valkyrie-action-move": "באַוועגן",
+	"valkyrie-action-protect": "שיצן",
+	"valkyrie-action-undelete": "מבטל זיין אויסמעקן",
+	"valkyrie-action-unprotect": "ענדערונג באַשיצונג",
+	"valkyrie-view-create": "שאַפֿן",
+	"valkyrie-view-edit": "רעדאַקטירן",
+	"valkyrie-view-history": "ווייזן היסטאָריע",
+	"valkyrie-view-view": "לייענען",
+	"valkyrie-view-viewsource": "ווײַזן מקור",
+	"valkyrie-more-actions": "נאך"
 }

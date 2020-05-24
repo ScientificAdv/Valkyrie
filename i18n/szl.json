@@ -3,18 +3,22 @@
 		"authors": [
 			"Britscher",
 			"Gaj777",
-			"Przemub"
+			"Przemub",
+			"Krol111",
+			"Przem(1)s",
+			"Uostofchuodnego"
 		]
 	},
-	"vector-action-addsection": "Nowo tajla",
-	"vector-action-delete": "Wyćepej",
-	"vector-action-move": "Przećep",
-	"vector-action-protect": "Zawrzij",
-	"vector-action-undelete": "Wćep",
-	"vector-action-unprotect": "Uodymkńij",
-	"vector-view-create": "Stwůrz",
-	"vector-view-edit": "Sprowjej",
-	"vector-view-history": "Uobocz gyszichta",
-	"vector-view-view": "Czytej",
-	"vector-view-viewsource": "Zdrzůdłowy tekst"
+	"valkyrie-action-addsection": "Przidej tymat",
+	"valkyrie-action-delete": "Skasuj",
+	"valkyrie-action-move": "Przeniyś",
+	"valkyrie-action-protect": "Zawrzij",
+	"valkyrie-action-undelete": "Wćep",
+	"valkyrie-action-unprotect": "Uodymkńij",
+	"valkyrie-view-create": "Stwōrz",
+	"valkyrie-view-edit": "Edytuj",
+	"valkyrie-view-history": "Pokŏż historyjõ",
+	"valkyrie-view-view": "Czytej",
+	"valkyrie-view-viewsource": "Zdrzůdłowy tekst",
+	"valkyrie-more-actions": "Wiyncyj"
 }

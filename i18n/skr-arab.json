@@ -1,0 +1,16 @@
+{
+	"@metadata": {
+		"authors": [
+			"Saraiki"
+		]
+	},
+	"valkyrie-action-addsection": "نواں موضوع",
+	"valkyrie-action-delete": "مٹاؤ",
+	"valkyrie-action-move": "ٹورو",
+	"valkyrie-action-protect": "بچاؤ",
+	"valkyrie-view-create": "بݨاؤ",
+	"valkyrie-view-edit": "لکھو",
+	"valkyrie-view-history": "تاریخچہ",
+	"valkyrie-view-view": "پڑھو",
+	"valkyrie-more-actions": "ٻئے"
+}

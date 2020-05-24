@@ -1,0 +1,20 @@
+{
+	"@metadata": {
+		"authors": [
+			"Denö",
+			"Ilja.mos",
+			"Mashoi7"
+		]
+	},
+	"valkyrie-action-addsection": "Ližiä aihe",
+	"valkyrie-action-delete": "Ota iäre",
+	"valkyrie-action-move": "Siirrä",
+	"valkyrie-action-protect": "Suojua",
+	"valkyrie-action-unprotect": "Vaihta suojavustu",
+	"valkyrie-view-create": "Luaji",
+	"valkyrie-view-edit": "Kohendele",
+	"valkyrie-view-history": "Kačo histourii",
+	"valkyrie-view-view": "Luve",
+	"valkyrie-view-viewsource": "Kačo algukoodu",
+	"valkyrie-more-actions": "Vie"
+}

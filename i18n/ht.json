@@ -3,18 +3,20 @@
 		"authors": [
 			"Boukman",
 			"Internoob",
-			"Masterches"
+			"Masterches",
+			"Tisave"
 		]
 	},
-	"vector-action-addsection": "Ajoute yon sijè",
-	"vector-action-delete": "Efase",
-	"vector-action-move": "Chanje non",
-	"vector-action-protect": "Pwoteje",
-	"vector-action-undelete": "Retabli",
-	"vector-action-unprotect": "Pa pwoteje",
-	"vector-view-create": "Kreye",
-	"vector-view-edit": "Modifye",
-	"vector-view-history": "Gade istorik",
-	"vector-view-view": "Li",
-	"vector-view-viewsource": "Wè kòd tèks sa a"
+	"valkyrie-action-addsection": "Ajoute yon sijè",
+	"valkyrie-action-delete": "Efase",
+	"valkyrie-action-move": "Chanje non",
+	"valkyrie-action-protect": "Pwoteje",
+	"valkyrie-action-undelete": "Retabli",
+	"valkyrie-action-unprotect": "Pa pwoteje",
+	"valkyrie-view-create": "Kreye",
+	"valkyrie-view-edit": "Modifye",
+	"valkyrie-view-history": "Gade istorik",
+	"valkyrie-view-view": "Li",
+	"valkyrie-view-viewsource": "Wè kòd tèks sa a",
+	"valkyrie-more-actions": "Plis"
 }

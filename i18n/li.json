@@ -1,18 +1,22 @@
 {
 	"@metadata": {
 		"authors": [
-			"Ooswesthoesbes"
+			"Ooswesthoesbes",
+			"Robin0van0der0vliet",
+			"Robin van der Vliet"
 		]
 	},
-	"vector-action-addsection": "Voog köpke toe",
-	"vector-action-delete": "Ewegsjaffe",
-	"vector-action-move": "Verplaats",
-	"vector-action-protect": "Besjirm",
-	"vector-action-undelete": "Plaats trök",
-	"vector-action-unprotect": "Anger beveiliging",
-	"vector-view-create": "Maak aan",
-	"vector-view-edit": "Bewirk",
-	"vector-view-history": "Bekiek de gesjiedenis",
-	"vector-view-view": "Laes",
-	"vector-view-viewsource": "Bekiek bróntèks"
+	"valkyrie-skin-desc": "Modern versie van MonoBook mit e frisj uterlik en verbaeteringe op 't gebeed van gebroeksvruntjelikheid",
+	"valkyrie-action-addsection": "Voog köpke toe",
+	"valkyrie-action-delete": "Ewegsjaffe",
+	"valkyrie-action-move": "Verplaats",
+	"valkyrie-action-protect": "Besjirm",
+	"valkyrie-action-undelete": "Plaats trök",
+	"valkyrie-action-unprotect": "Anger beveiliging",
+	"valkyrie-view-create": "Maak aan",
+	"valkyrie-view-edit": "Bewirk",
+	"valkyrie-view-history": "Bekiek de gesjiedenis",
+	"valkyrie-view-view": "Laes",
+	"valkyrie-view-viewsource": "Bekiek bróntèks",
+	"valkyrie-more-actions": "Mieë"
 }

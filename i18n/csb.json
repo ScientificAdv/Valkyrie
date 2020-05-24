@@ -2,18 +2,20 @@
 	"@metadata": {
 		"authors": [
 			"Kaszeba",
-			"Kuvaly"
+			"Kuvaly",
+			"Kirsan"
 		]
 	},
-	"vector-action-addsection": "Dodôj témã",
-	"vector-action-delete": "Rëmôj",
-	"vector-action-move": "Przeniesë",
-	"vector-action-protect": "Zazychrëjë",
-	"vector-action-undelete": "Doprowôdzë nazôd",
-	"vector-action-unprotect": "Òdzychrëjë",
-	"vector-view-create": "Ùsôdzë",
-	"vector-view-edit": "Edicëjô",
-	"vector-view-history": "Historëjô lopka",
-	"vector-view-view": "Czëtôj",
-	"vector-view-viewsource": "Zdrojowi tekst"
+	"valkyrie-action-addsection": "Dodôj témã",
+	"valkyrie-action-delete": "Rëmôj",
+	"valkyrie-action-move": "Przeniesë",
+	"valkyrie-action-protect": "Zazychrëjë",
+	"valkyrie-action-undelete": "Doprowadzë nazôd",
+	"valkyrie-action-unprotect": "Zmieni zazychrowanié",
+	"valkyrie-view-create": "Ùsadzë",
+	"valkyrie-view-edit": "Edicëjô",
+	"valkyrie-view-history": "Historëjô lopka",
+	"valkyrie-view-view": "Czëtôj",
+	"valkyrie-view-viewsource": "Zdrojowi tekst",
+	"valkyrie-more-actions": "Wiãcy"
 }

@@ -1,0 +1,22 @@
+{
+	"@metadata": {
+		"authors": [
+			"जनक राज भट्ट",
+			"राम प्रसाद जोशी",
+			"रमेश सिंह बोहरा",
+			"Nirajan pant"
+		]
+	},
+	"valkyrie-action-addsection": "विषय थपिदिय",
+	"valkyrie-action-delete": "मेटऽ",
+	"valkyrie-action-move": "साद्दे",
+	"valkyrie-action-protect": "सुरक्षा अरऽ",
+	"valkyrie-action-undelete": "मेट्याको रद्द अरऽ",
+	"valkyrie-action-unprotect": "सुरक्षा बदेलऽ",
+	"valkyrie-view-create": "सृजना गर्न्या",
+	"valkyrie-view-edit": "सम्पादन",
+	"valkyrie-view-history": "इतिहास तकऽ",
+	"valkyrie-view-view": "पढ़ऽ",
+	"valkyrie-view-viewsource": "स्रोत हेरऽ",
+	"valkyrie-more-actions": "झिक्क"
+}

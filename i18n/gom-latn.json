@@ -5,14 +5,18 @@
 			"The Discoverer"
 		]
 	},
-	"vector-action-addsection": "Vixoi zodd",
-	"vector-action-delete": "Kadd",
-	"vector-action-move": "Zago bodol",
-	"vector-action-protect": "Rakh",
-	"vector-view-create": "Roch",
-	"vector-view-edit": "Sudar",
-	"vector-view-history": "Itihas polloi",
-	"vector-view-view": "Vach",
-	"vector-view-viewsource": "Mull polloi",
-	"vector-more-actions": "Anik"
+	"valkyrie-action-addsection": "Vixoi zodd",
+	"valkyrie-action-delete": "Kadd",
+	"valkyrie-action-move": "Zago bodol",
+	"valkyrie-action-protect": "Rakh",
+	"valkyrie-action-undelete": "Portun hadd",
+	"valkyrie-action-unprotect": "Surokxechem sthor bodol",
+	"valkyrie-view-create": "Roch",
+	"valkyrie-view-edit": "Bodol",
+	"valkyrie-view-history": "Itihas polloi",
+	"valkyrie-view-view": "Vach",
+	"valkyrie-view-viewsource": "Mull polloi",
+	"valkyrie-jumptonavigation": "Dixa bodlunk uddki mar",
+	"valkyrie-jumptosearch": "Soda khatir uddki mar",
+	"valkyrie-more-actions": "Anik"
 }

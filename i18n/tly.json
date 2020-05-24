@@ -1,18 +1,21 @@
 {
 	"@metadata": {
 		"authors": [
-			"Гусейн"
+			"Гусейн",
+			"Ganbarzada",
+			"Patriot Kur"
 		]
 	},
-	"vector-action-addsection": "Мывзу зијод кардеј",
-	"vector-action-delete": "Рәдд кардеј",
-	"vector-action-move": "Номи дәгиш кардеј",
-	"vector-action-protect": "Мыдофијә кардеј",
-	"vector-action-undelete": "Бәрпо кардеј",
-	"vector-action-unprotect": "Мыдофијә дәгиш кардеј",
-	"vector-view-create": "Офәјеј",
-	"vector-view-edit": "Сәрост кардеј",
-	"vector-view-history": "Тарых",
-	"vector-view-view": "Һандемон",
-	"vector-view-viewsource": "Дијә кардеј"
+	"valkyrie-action-addsection": "Мывзу зијод кардеј",
+	"valkyrie-action-delete": "Рәдд кардеј",
+	"valkyrie-action-move": "Номи дәгиш кардеј",
+	"valkyrie-action-protect": "Mıdofiə karde",
+	"valkyrie-action-undelete": "Бәрпо кардеј",
+	"valkyrie-action-unprotect": "Мыдофијә дәгиш кардеј",
+	"valkyrie-view-create": "Офәјеј",
+	"valkyrie-view-edit": "Сәрост кардеј",
+	"valkyrie-view-history": "Тarix",
+	"valkyrie-view-view": "Һандемон",
+	"valkyrie-view-viewsource": "Дијә кардеј",
+	"valkyrie-more-actions": "həniyən"
 }

@@ -1,18 +1,20 @@
 {
 	"@metadata": {
 		"authors": [
-			"Dalinanir"
+			"Dalinanir",
+			"Amara-Amaziɣ"
 		]
 	},
-	"vector-action-addsection": "Zayd amli",
-	"vector-action-delete": "Ḥiyd",
-	"vector-action-move": "Smmatti",
-	"vector-action-protect": "Ḥbu",
-	"vector-action-undelete": "Rard may mayḥiydn",
-	"vector-action-unprotect": "Ḥiyd aḥbu",
-	"vector-view-create": "Skert",
-	"vector-view-edit": "Ara",
-	"vector-view-history": "Mel amzruy",
-	"vector-view-view": "ɣr",
-	"vector-view-viewsource": "Ẓr asagm"
+	"valkyrie-action-addsection": "ⵔⵏⵓ ⴰⵙⵏⵜⵍ",
+	"valkyrie-action-delete": "ⴽⴽⵙ",
+	"valkyrie-action-move": "ⵙⵎⴰⵜⵜⵉ",
+	"valkyrie-action-protect": "Ḥbu",
+	"valkyrie-action-undelete": "Rard may mayḥiydn",
+	"valkyrie-action-unprotect": "Ḥiyd aḥbu",
+	"valkyrie-view-create": "ⵙⵏⵓⵍⴼⵓ",
+	"valkyrie-view-edit": "ⵙⵏⴼⵍ",
+	"valkyrie-view-history": "ⴰⵎⵣⵔⵓⵢ",
+	"valkyrie-view-view": "ⵖⵔ",
+	"valkyrie-view-viewsource": "ⵥⵔ ⴰⵙⴰⴳⵎ",
+	"valkyrie-more-actions": "ⵓⴳⴳⴰⵔ"
 }

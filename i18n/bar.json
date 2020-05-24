@@ -2,18 +2,20 @@
 	"@metadata": {
 		"authors": [
 			"Bua333",
-			"Mucalexx"
+			"Mucalexx",
+			"Joe Watzmo"
 		]
 	},
-	"vector-action-addsection": "An Obschnitt dazua doa",
-	"vector-action-delete": "Leschn",
-	"vector-action-move": "Vaschiabm",
-	"vector-action-protect": "Schitzn",
-	"vector-action-undelete": "Wiederherstön",
-	"vector-action-unprotect": "freigeem",
-	"vector-view-create": "Aufbaun",
-	"vector-view-edit": "Werkln",
-	"vector-view-history": "Gschicht oschaugn",
-	"vector-view-view": "Lesn",
-	"vector-view-viewsource": "Quejtext ozoagn"
+	"valkyrie-action-addsection": "An Obschnitt dazua doa",
+	"valkyrie-action-delete": "Leschn",
+	"valkyrie-action-move": "Vaschiabm",
+	"valkyrie-action-protect": "Schitzn",
+	"valkyrie-action-undelete": "Wiederherstön",
+	"valkyrie-action-unprotect": "freigeem",
+	"valkyrie-view-create": "Aufbaun",
+	"valkyrie-view-edit": "Werkln",
+	"valkyrie-view-history": "Gschicht oschaugn",
+	"valkyrie-view-view": "Lesn",
+	"valkyrie-view-viewsource": "Quejtext ozoagn",
+	"valkyrie-more-actions": "Meara"
 }

@@ -7,16 +7,19 @@
 			"StanProg"
 		]
 	},
-	"vector-action-addsection": "Добавяне на тема",
-	"vector-action-delete": "Изтриване",
-	"vector-action-move": "Преместване",
-	"vector-action-protect": "Защита",
-	"vector-action-undelete": "Възстановяване",
-	"vector-action-unprotect": "Промяна на защитата",
-	"vector-view-create": "Създаване",
-	"vector-view-edit": "Редактиране",
-	"vector-view-history": "История",
-	"vector-view-view": "Преглед",
-	"vector-view-viewsource": "Преглед на кода",
-	"vector-more-actions": "Още"
+	"valkyrie-skin-desc": "Модерна версия на MonoBook с обновен дизайн и много подобрения на ползваемостта",
+	"valkyrie-action-addsection": "Добавяне на тема",
+	"valkyrie-action-delete": "Изтриване",
+	"valkyrie-action-move": "Преместване",
+	"valkyrie-action-protect": "Защита",
+	"valkyrie-action-undelete": "Възстановяване",
+	"valkyrie-action-unprotect": "Промяна на защитата",
+	"valkyrie-view-create": "Създаване",
+	"valkyrie-view-edit": "Редактиране",
+	"valkyrie-view-history": "История",
+	"valkyrie-view-view": "Преглед",
+	"valkyrie-view-viewsource": "Преглед на кода",
+	"valkyrie-jumptonavigation": "Направо към навигацията",
+	"valkyrie-jumptosearch": "Направо към търсенето",
+	"valkyrie-more-actions": "Още"
 }

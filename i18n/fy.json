@@ -2,17 +2,23 @@
 	"@metadata": {
 		"authors": [
 			"Kening Aldgilles",
-			"SK-luuut"
+			"SK-luuut",
+			"Robin0van0der0vliet",
+			"Robin van der Vliet",
+			"PiefPafPier"
 		]
 	},
-	"vector-action-delete": "Fuortsmite",
-	"vector-action-move": "Werneam",
-	"vector-action-protect": "Beskermje",
-	"vector-action-undelete": "Tebeksette",
-	"vector-action-unprotect": "Beskerming fuorthelje",
-	"vector-view-create": "Oanmeitsje",
-	"vector-view-edit": "Wizigje",
-	"vector-view-history": "Skiednis sjen litte",
-	"vector-view-view": "Lês",
-	"vector-view-viewsource": "Besjoch de boarne"
+	"skinname-valkyrie": "Vektor",
+	"valkyrie-action-addsection": "Nij mêd",
+	"valkyrie-action-delete": "Fuortsmite",
+	"valkyrie-action-move": "Omneame",
+	"valkyrie-action-protect": "Beskermje",
+	"valkyrie-action-undelete": "Tebeksette",
+	"valkyrie-action-unprotect": "Beskerming fuorthelje",
+	"valkyrie-view-create": "Oanmeitsje",
+	"valkyrie-view-edit": "Bewurkje",
+	"valkyrie-view-history": "Skiednis sjen litte",
+	"valkyrie-view-view": "Lêze",
+	"valkyrie-view-viewsource": "Besjoch de boarne",
+	"valkyrie-more-actions": "Mear"
 }

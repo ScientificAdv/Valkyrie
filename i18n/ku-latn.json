@@ -2,18 +2,21 @@
 	"@metadata": {
 		"authors": [
 			"Ferhengvan",
-			"Gomada"
+			"Gomada",
+			"Bikarhêner",
+			"George Animal"
 		]
 	},
-	"vector-action-addsection": "Mijarekê lê zêde bike",
-	"vector-action-delete": "Jê bibe",
-	"vector-action-move": "Nav biguherîne",
-	"vector-action-protect": "Biparêze",
-	"vector-action-undelete": "Jê nebe",
-	"vector-action-unprotect": "Parastinê rake",
-	"vector-view-create": "Çêke",
-	"vector-view-edit": "Biguherîne",
-	"vector-view-history": "Dîrokê bibîne",
-	"vector-view-view": "Bixwîne",
-	"vector-view-viewsource": "Çavkaniyan bibîne"
+	"valkyrie-action-addsection": "Mijarekê lê zêde bike",
+	"valkyrie-action-delete": "Jê bibe",
+	"valkyrie-action-move": "Nav biguherîne",
+	"valkyrie-action-protect": "Biparêze",
+	"valkyrie-action-undelete": "Jê nebe",
+	"valkyrie-action-unprotect": "Parastinê biguherîne",
+	"valkyrie-view-create": "Çêke",
+	"valkyrie-view-edit": "Biguherîne",
+	"valkyrie-view-history": "Dîrokê bibîne",
+	"valkyrie-view-view": "Bixwîne",
+	"valkyrie-view-viewsource": "Çavkaniyan bibîne",
+	"valkyrie-more-actions": "Bêhtir"
 }

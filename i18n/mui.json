@@ -1,9 +1,17 @@
 {
 	"@metadata": {
 		"authors": [
-			"Mahali syarifuddin"
+			"Mahali syarifuddin",
+			"Jawadywn",
+			"Masjawad99"
 		]
 	},
-	"vector-view-view": "Baco",
-	"vector-view-viewsource": "Jingok sumber"
+	"valkyrie-action-addsection": "Imboke topik",
+	"valkyrie-action-move": "Pindahke",
+	"valkyrie-view-create": "Ngawék",
+	"valkyrie-view-edit": "Robah",
+	"valkyrie-view-history": "Selék riwayat",
+	"valkyrie-view-view": "Baco",
+	"valkyrie-view-viewsource": "Jingok sumber",
+	"valkyrie-more-actions": "Laénnyo"
 }

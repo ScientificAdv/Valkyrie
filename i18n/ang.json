@@ -1,18 +1,20 @@
 {
 	"@metadata": {
 		"authors": [
-			"Gott wisst"
+			"Gott wisst",
+			"JJohnson1701"
 		]
 	},
-	"vector-action-addsection": "Besettan mearcunge",
-	"vector-action-delete": "Forlēosan",
-	"vector-action-move": "Wegan",
-	"vector-action-protect": "Beorgan",
-	"vector-action-undelete": "Scieppan tramet eft",
-	"vector-action-unprotect": "Andwendan beorgunge",
-	"vector-view-create": "Scieppan",
-	"vector-view-edit": "Adihtan",
-	"vector-view-history": "Stǣr",
-	"vector-view-view": "Rǣdan",
-	"vector-view-viewsource": "Sēon fruman"
+	"valkyrie-action-addsection": "Besettan mearcunge",
+	"valkyrie-action-delete": "Forlēosan",
+	"valkyrie-action-move": "Wegan",
+	"valkyrie-action-protect": "Beorgan",
+	"valkyrie-action-undelete": "Scieppan tramet eft",
+	"valkyrie-action-unprotect": "Andwendan beorgunge",
+	"valkyrie-view-create": "Scieppan",
+	"valkyrie-view-edit": "Ādihtan",
+	"valkyrie-view-history": "Stǣr",
+	"valkyrie-view-view": "Rǣdan",
+	"valkyrie-view-viewsource": "Sēon fruman",
+	"valkyrie-more-actions": "Mā"
 }

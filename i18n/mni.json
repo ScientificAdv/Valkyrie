@@ -1,0 +1,16 @@
+{
+	"@metadata": {
+		"authors": [
+			"Awangba Mangang"
+		]
+	},
+	"valkyrie-action-addsection": "ꯅꯩꯅꯕ ꯍꯤꯔꯝ ꯍꯥꯞꯆꯤꯟꯂꯨ",
+	"valkyrie-action-delete": "ꯀꯛꯊꯠꯄꯥ",
+	"valkyrie-action-move": "ꯂꯦꯡꯍꯟꯕꯥ",
+	"valkyrie-action-protect": "ꯉꯥꯛꯊꯣꯛꯂꯕꯥ",
+	"valkyrie-view-create": "ꯁꯥꯕꯥ",
+	"valkyrie-view-edit": "ꯁꯦꯝꯒꯠꯄꯥ",
+	"valkyrie-view-history": "ꯄꯨꯋꯥꯔꯤ ꯎꯨꯠꯂꯨ",
+	"valkyrie-view-view": "ꯄꯥꯑꯣ",
+	"valkyrie-more-actions": "ꯋꯥꯠꯂꯤ"
+}

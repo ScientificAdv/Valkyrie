@@ -4,16 +4,18 @@
 			"Darshan kandolkar",
 			"Pooja tople",
 			"Sanket.prabhu26",
-			"Supriya kankumbikar"
+			"Supriya kankumbikar",
+			"The Discoverer"
 		]
 	},
-	"vector-action-addsection": "माथाळो दियात",
-	"vector-action-delete": "काडून उडयात",
-	"vector-action-move": "दुसरेकडे व्हरात",
-	"vector-action-protect": "राख",
-	"vector-view-create": "निर्माण कर",
-	"vector-view-edit": "बदल",
-	"vector-view-history": "इतिहास पळेयात",
-	"vector-view-view": "वाचचें",
-	"vector-view-viewsource": "उगम पळेयात"
+	"valkyrie-action-addsection": "माथाळो ज़ोड",
+	"valkyrie-action-delete": "काडून उडयात",
+	"valkyrie-action-move": "दुसरेकडे व्हरात",
+	"valkyrie-action-protect": "राख",
+	"valkyrie-view-create": "रोच",
+	"valkyrie-view-edit": "बदल",
+	"valkyrie-view-history": "इतिहास पळेयात",
+	"valkyrie-view-view": "वाचचें",
+	"valkyrie-view-viewsource": "उगम पळेयात",
+	"valkyrie-more-actions": "आनीक"
 }

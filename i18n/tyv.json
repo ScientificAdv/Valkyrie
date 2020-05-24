@@ -2,19 +2,21 @@
 	"@metadata": {
 		"authors": [
 			"Agilight",
-			"Sborsody"
+			"Sborsody",
+			"Монгуш Салим"
 		]
 	},
-	"skinname-vector": "Вектор",
-	"vector-action-addsection": "Кол сөстү немелээри",
-	"vector-action-delete": "Ырадыры",
-	"vector-action-move": "Шимчээри",
-	"vector-action-protect": "Камгалаары",
-	"vector-action-undelete": "Эгидер",
-	"vector-action-unprotect": "Камгалалды өскертири",
-	"vector-view-create": "Чаяары",
-	"vector-view-edit": "Эдер",
-	"vector-view-history": "Төөгүнү көөрү",
-	"vector-view-view": "Номчуур",
-	"vector-view-viewsource": "Дөзү бижиин көөрү"
+	"skinname-valkyrie": "Вектор",
+	"valkyrie-action-addsection": "Тема немээр",
+	"valkyrie-action-delete": "Ырадыры",
+	"valkyrie-action-move": "Өскээр адаар",
+	"valkyrie-action-protect": "Камгалаары",
+	"valkyrie-action-undelete": "Эгидер",
+	"valkyrie-action-unprotect": "Камгалалды өскертири",
+	"valkyrie-view-create": "Тургузуп кылыр",
+	"valkyrie-view-edit": "Эдер",
+	"valkyrie-view-history": "Төөгүнү көөр",
+	"valkyrie-view-view": "Номчуур",
+	"valkyrie-view-viewsource": "Дөзү бижиин көөрү",
+	"valkyrie-more-actions": "Оон ыңай"
 }

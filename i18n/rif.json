@@ -1,12 +1,15 @@
 {
 	"@metadata": {
 		"authors": [
-			"MoubarikBelkasim"
+			"MoubarikBelkasim",
+			"Amara-Amaziɣ"
 		]
 	},
-	"vector-action-move": "Smuṭṭi",
-	"vector-view-create": "Seɣnu",
-	"vector-view-edit": "Ẓṛeg",
-	"vector-view-history": "Ẓeṛ amezruy",
-	"vector-view-view": "Ɣeṛ"
+	"valkyrie-action-addsection": "ⵔⵏⵓ ⴰⵙⵏⵜⵍ",
+	"valkyrie-action-delete": "ⴽⴽⵙ",
+	"valkyrie-action-move": "ⵙⵎⵓⵜⵜⵉ",
+	"valkyrie-view-create": "ⵙⵏⵓⵍⴼⵓ",
+	"valkyrie-view-edit": "ⵙⵏⴼⵍ",
+	"valkyrie-view-history": "ⴰⵎⵣⵔⵓⵢ",
+	"valkyrie-view-view": "ⵖⵔ"
 }

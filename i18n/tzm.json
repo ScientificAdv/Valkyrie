@@ -2,18 +2,20 @@
 	"@metadata": {
 		"authors": [
 			"Moha",
-			"Tifinaghes"
+			"Tifinaghes",
+			"ⵕⴰⵊⵉ"
 		]
 	},
-	"skinname-vector": "Vector",
-	"vector-action-addsection": "ⵔⵏⵓ ⴰⵙⵏⵜⵍ",
-	"vector-action-delete": "ⵓⴽⵓⵙ",
-	"vector-action-move": "ⵙⵎⵓⵜⵜⵉ",
-	"vector-action-undelete": "ⵙⵙⵓⵖⴰⵍ ⵓⴽⵓⵙ",
-	"vector-action-unprotect": "ⴱⴷⴷⴻⵍ ⵜⴰⵙⵜⴰⵏⵜ",
-	"vector-view-create": "ⴰⵔⴰ",
-	"vector-view-edit": "ⴱⴷⴷⴻⵍ",
-	"vector-view-history": "ⵥⵕ ⴰⵎⵣⵔⵓⵢ",
-	"vector-view-view": "ⵖⵔ",
-	"vector-view-viewsource": "ⵥⵕ ⴰⵖⴱⴰⵍⵓ"
+	"skinname-valkyrie": "Valkyrie",
+	"valkyrie-action-addsection": "ⵔⵏⵓ ⴰⵙⵏⵜⵍ",
+	"valkyrie-action-delete": "ⵓⴽⵓⵙ",
+	"valkyrie-action-move": "ⵙⵎⵓⵜⵜⵉ",
+	"valkyrie-action-undelete": "ⵙⵙⵓⵖⴰⵍ ⵓⴽⵓⵙ",
+	"valkyrie-action-unprotect": "ⴱⴷⴷⴻⵍ ⵜⴰⵙⵜⴰⵏⵜ",
+	"valkyrie-view-create": "ⴰⵔⴰ",
+	"valkyrie-view-edit": "ⴱⴷⴷⴻⵍ",
+	"valkyrie-view-history": "ⵥⵕ ⴰⵎⵣⵔⵓⵢ",
+	"valkyrie-view-view": "ⵖⵔ",
+	"valkyrie-view-viewsource": "ⵥⵕ ⴰⵖⴱⴰⵍⵓ",
+	"valkyrie-more-actions": "ⵓⴳⴳⴰⵔ"
 }

@@ -3,22 +3,26 @@
 		"authors": [
 			"KuboF",
 			"Objectivesea",
-			"Yekrats"
+			"Yekrats",
+			"Mirin"
 		]
 	},
-	"skinname-vector": "Vektoro",
-	"vector.css": "/* La jena CSS influos la paĝaspekton por uzantoj de la Vektora temo. */",
-	"vector.js": "/* La jena Ĝavaskripto ŝargiĝos por uzantoj de la Vektora temo. */",
-	"vector-action-addsection": "Aldoni temon",
-	"vector-action-delete": "Forigi",
-	"vector-action-move": "Alinomigi",
-	"vector-action-protect": "Protekti",
-	"vector-action-undelete": "Malforigi",
-	"vector-action-unprotect": "Ŝanĝi protektadon",
-	"vector-view-create": "Krei",
-	"vector-view-edit": "Redakti",
-	"vector-view-history": "Vidi historion",
-	"vector-view-view": "Legi",
-	"vector-view-viewsource": "Vidi fonton",
-	"vector-more-actions": "Pli"
+	"skinname-valkyrie": "Vektoro",
+	"valkyrie-skin-desc": "Moderna versio de MonoBook kun freŝa aspekto kaj plibonigo de uzebleco",
+	"valkyrie.css": "/* La jena CSS influos la paĝaspekton por uzantoj de la Vektora temo. */",
+	"valkyrie.js": "/* La jena Ĝavaskripto ŝargiĝos por uzantoj de la Vektora temo. */",
+	"valkyrie-action-addsection": "Aldoni temon",
+	"valkyrie-action-delete": "Forigi",
+	"valkyrie-action-move": "Alinomi",
+	"valkyrie-action-protect": "Protekti",
+	"valkyrie-action-undelete": "Malforigi",
+	"valkyrie-action-unprotect": "Ŝanĝi protektadon",
+	"valkyrie-view-create": "Krei",
+	"valkyrie-view-edit": "Redakti",
+	"valkyrie-view-history": "Vidi historion",
+	"valkyrie-view-view": "Legi",
+	"valkyrie-view-viewsource": "Vidi fonton",
+	"valkyrie-jumptonavigation": "Salti al navigilo",
+	"valkyrie-jumptosearch": "Salti al serĉilo",
+	"valkyrie-more-actions": "Pli"
 }

@@ -4,15 +4,15 @@
 			"Filipinayzd"
 		]
 	},
-	"vector-action-delete": "Puraon",
-	"vector-action-move": "Ilipat",
-	"vector-action-protect": "Protektaran",
-	"vector-action-undelete": "Ibalik",
-	"vector-action-unprotect": "Ribayan a proteksyon",
-	"vector-view-create": "Gumibo",
-	"vector-view-edit": "Balyowan",
-	"vector-view-history": "Baydon a kasaysayan",
-	"vector-view-view": "Basahon",
-	"vector-view-viewsource": "Baydon a ginikanan",
-	"vector-more-actions": "Dakul pa"
+	"valkyrie-action-delete": "Puraon",
+	"valkyrie-action-move": "Ilipat",
+	"valkyrie-action-protect": "Protektaran",
+	"valkyrie-action-undelete": "Ibalik",
+	"valkyrie-action-unprotect": "Ribayan a proteksyon",
+	"valkyrie-view-create": "Gumibo",
+	"valkyrie-view-edit": "Balyowan",
+	"valkyrie-view-history": "Baydon a kasaysayan",
+	"valkyrie-view-view": "Basahon",
+	"valkyrie-view-viewsource": "Baydon a ginikanan",
+	"valkyrie-more-actions": "Dakul pa"
 }

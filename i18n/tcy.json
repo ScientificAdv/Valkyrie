@@ -2,18 +2,22 @@
 	"@metadata": {
 		"authors": [
 			"NamwikiTL",
-			"VASANTH S.N."
+			"VASANTH S.N.",
+			"Vishwanatha Badikana",
+			"Kiranpoojary",
+			"BHARATHESHA ALASANDEMAJALU"
 		]
 	},
-	"vector-action-addsection": "ವಿಷಯ ಸೇರಾಲೆ",
-	"vector-action-delete": "ದೆತ್ತ್ ಪಾಡ್ಲೆ",
-	"vector-action-move": "ಸ್ಥಳಾಂತರ ಮಲ್ಪುಲೆ",
-	"vector-action-protect": "ಸ೦ರಕ್ಷಿಸಾಲೆ",
-	"vector-action-undelete": "ಮಾಜಾವಡೆ",
-	"vector-action-unprotect": "ಬದಲಾವಣೆನ್ ರಕ್ಷಿಸಾಲೆ",
-	"vector-view-create": " ಸುರು ಮಲ್ಪುಲೆ",
-	"vector-view-edit": "ಸಂಪಾದನೆ ಮಲ್ಪುಲೆ",
-	"vector-view-history": "ಇತಿಹಾಸೊನು ತೂಲೆ",
-	"vector-view-view": "ಓದ್ಲೇ",
-	"vector-view-viewsource": "ಮೂಲೊನು ತೂಲೆ"
+	"valkyrie-action-addsection": "ವಿಸಯೊ ಸೇರಾಲೆ",
+	"valkyrie-action-delete": "ಮಾಜಾಲೆ",
+	"valkyrie-action-move": "ಸ್ತಲಾಂತರೊ ಮಲ್ಪುಲೆ",
+	"valkyrie-action-protect": "ಸ೦ರಕ್ಷಿಸಾಲೆ",
+	"valkyrie-action-undelete": "ಮಾಜಾವಡೆ",
+	"valkyrie-action-unprotect": "ಬದಲಾವಣೆನ್ ರಕ್ಷಿಸಾಲೆ",
+	"valkyrie-view-create": "ಸ್ರಿಸ್ಟಿಸಲೆ",
+	"valkyrie-view-edit": "ಸಂಪೊಲಿಪುಲೆ",
+	"valkyrie-view-history": "ಇತಿಹಾಸೊನು ತೂಲೆ",
+	"valkyrie-view-view": "ಓದ್‍ಲೆ",
+	"valkyrie-view-viewsource": "ಮೂಲೊನು ತೂಲೆ",
+	"valkyrie-more-actions": "ನನಾತ್"
 }

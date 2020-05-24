@@ -2,20 +2,24 @@
 	"@metadata": {
 		"authors": [
 			"Sasan700",
-			"Умар"
+			"Умар",
+			"Исмаил Садуев"
 		]
 	},
-	"skinname-vector": "Векторан",
-	"vector-action-addsection": "ТӀетоха хьедар",
-	"vector-action-delete": "ДӀаяккха",
-	"vector-action-move": "ЦӀе хийца",
-	"vector-action-protect": "Гlаролла дé",
-	"vector-action-undelete": "МеттахӀоттае",
-	"vector-action-unprotect": "ГӀароллех къаста",
-	"vector-view-create": "Кхоллар",
-	"vector-view-edit": "Нисъе",
-	"vector-view-history": "АгӀона хийцамаш",
-	"vector-view-view": "Éшар",
-	"vector-view-viewsource": "Билглонашка хьажа",
-	"vector-more-actions": "Кхин"
+	"skinname-valkyrie": "Векторан",
+	"valkyrie-skin-desc": "ХӀокху хенан MonoBook-ан верси кечдинчу карладахаршца а, дуккха а тодаршца юзабилити чохь",
+	"valkyrie-action-addsection": "Тема тӀетоха",
+	"valkyrie-action-delete": "ДӀаяккхар",
+	"valkyrie-action-move": "ЦӀе хийцар",
+	"valkyrie-action-protect": "Ларъяр",
+	"valkyrie-action-undelete": "МеттахӀоттае",
+	"valkyrie-action-unprotect": "Ларъяр хийцар",
+	"valkyrie-view-create": "Кхоллар",
+	"valkyrie-view-edit": "Нисъе",
+	"valkyrie-view-history": "АгӀона хийцамаш",
+	"valkyrie-view-view": "Éшар",
+	"valkyrie-view-viewsource": "Билглонашка хьажа",
+	"valkyrie-jumptonavigation": "Навигацин тӀегӀо",
+	"valkyrie-jumptosearch": "Лахарна тӀегӀо",
+	"valkyrie-more-actions": "Кхин"
 }

@@ -3,16 +3,18 @@
 		"authors": [
 			"Kilavagora",
 			"Lika2672",
-			"Machirkholi"
+			"Machirkholi",
+			"Silovan"
 		]
 	},
-	"vector-action-addsection": "თემაშ მიშაძინა",
-	"vector-action-delete": "ლასუა",
-	"vector-action-move": "გინოღალა",
-	"vector-action-protect": "თხილუა",
-	"vector-view-create": "დორსხუაფა",
-	"vector-view-edit": "რედაქტირაფა",
-	"vector-view-history": "ისტორიაშ ძირაფა",
-	"vector-view-view": "კითხირი",
-	"vector-view-viewsource": "ქიძირე წყუ"
+	"valkyrie-action-addsection": "თემაშ მიშაძინა",
+	"valkyrie-action-delete": "ლასუა",
+	"valkyrie-action-move": "გინოღალა",
+	"valkyrie-action-protect": "თხილუა",
+	"valkyrie-view-create": "დორსხუაფა",
+	"valkyrie-view-edit": "რედაქტირაფა",
+	"valkyrie-view-history": "ისტორიაშ ძირაფა",
+	"valkyrie-view-view": "კითხირი",
+	"valkyrie-view-viewsource": "ქიძირე წყუ",
+	"valkyrie-more-actions": "უმოსი"
 }

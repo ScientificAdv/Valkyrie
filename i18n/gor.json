@@ -1,0 +1,16 @@
+{
+	"@metadata": {
+		"authors": [
+			"Marwan Mohamad"
+		]
+	},
+	"valkyrie-action-addsection": "Duhengi topik",
+	"valkyrie-action-delete": "Luluta",
+	"valkyrie-action-move": "Heyiya",
+	"valkyrie-action-protect": "Dahayi",
+	"valkyrie-view-create": "Mohutu",
+	"valkyrie-view-edit": "Boli'o",
+	"valkyrie-view-history": "Bilohi riwayati",
+	"valkyrie-view-view": "Baca",
+	"valkyrie-more-actions": "Uweewo"
+}

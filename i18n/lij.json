@@ -2,18 +2,20 @@
 	"@metadata": {
 		"authors": [
 			"Gastaz",
-			"Giromin Cangiaxo"
+			"Giromin Cangiaxo",
+			"S4b1nuz E.656"
 		]
 	},
-	"vector-action-addsection": "Azónzi discusción",
-	"vector-action-delete": "Scancella",
-	"vector-action-move": "Mescia",
-	"vector-action-protect": "Protezi",
-	"vector-action-undelete": "Recuppera",
-	"vector-action-unprotect": "Cangia a proteçion",
-	"vector-view-create": "Crea",
-	"vector-view-edit": "Càngia",
-	"vector-view-history": "Fanni védde a Stöia",
-	"vector-view-view": "Lêzi",
-	"vector-view-viewsource": "Veddi a sorgénte"
+	"valkyrie-action-addsection": "Azónzi discusción",
+	"valkyrie-action-delete": "Scancella",
+	"valkyrie-action-move": "Mescia",
+	"valkyrie-action-protect": "Protezi",
+	"valkyrie-action-undelete": "Recuppera",
+	"valkyrie-action-unprotect": "Cangia a proteçion",
+	"valkyrie-view-create": "Crea",
+	"valkyrie-view-edit": "Modìfica",
+	"valkyrie-view-history": "Cronologîa",
+	"valkyrie-view-view": "Lêzi",
+	"valkyrie-view-viewsource": "Vixualizza wikitesto",
+	"valkyrie-more-actions": "Âtro"
 }

@@ -1,0 +1,108 @@
+{
+    "name": "Valkyrie",
+    "author": [
+        "Trevor Parscal",
+        "Roan Kattouw",
+        "..."
+    ],
+    "url": "https://sci-adv.cc/",
+    "descriptionmsg": "valkyrie-skin-desc",
+    "namemsg": "skinname-valkyrie",
+    "license-name": "GPL-2.0-or-later",
+    "type": "skin",
+    "requires": {
+        "MediaWiki": ">= 1.29.0"
+    },
+    "ConfigRegistry": {
+        "valkyrie": "GlobalVarConfig::newInstance"
+    },
+    "ValidSkinNames": {
+        "valkyrie": "Valkyrie"
+    },
+    "MessagesDirs": {
+        "Valkyrie": [
+            "i18n"
+        ]
+    },
+    "AutoloadClasses": {
+        "Valkyrie\\Hooks": "includes/Hooks.php",
+        "SkinValkyrie": "includes/SkinValkyrie.php",
+        "ValkyrieTemplate": "includes/ValkyrieTemplate.php",
+        "Valkyrie\\ResourceLoaderLessModule": "includes/ResourceLoaderLessModule.php"
+    },
+    "Hooks": {
+        "BeforePageDisplayMobile": [
+            "Valkyrie\\Hooks::onBeforePageDisplayMobile"
+        ]
+    },
+    "@note": "When modifying skins.valkyrie.styles definition, make sure the installer still works",
+    "ResourceModules": {
+        "skins.valkyrie.styles": {
+            "class": "Valkyrie\\ResourceLoaderLessModule",
+            "targets": ["desktop", "mobile"],
+            "styles": {
+                "screen.less": {
+                    "media": "screen"
+                },
+                "screen-hd.less": {
+                    "media": "screen and ( min-width: 982px )"
+                },
+                "print.less": {}
+            }
+        },
+
+        "skins.valkyrie.styles.responsive": {
+            "targets": ["desktop", "mobile"],
+            "styles": [
+                "responsive.less"
+            ]
+        },
+        "skins.valkyrie.js": {
+            "scripts": [
+                "collapsibleTabs.js",
+                "valkyrie.js"
+            ],
+            "dependencies": [
+                "mediawiki.util",
+                "jquery.tabIndex"
+            ]
+        }
+    },
+    "ResourceFileModulePaths": {
+        "localBasePath": "",
+        "remoteSkinPath": "Valkyrie"
+    },
+    "ResourceModuleSkinStyles": {
+        "valkyrie": {
+            "jquery.tipsy": "skinStyles/jquery.tipsy.less",
+            "jquery.ui.core": [
+                "skinStyles/jquery.ui/jquery.ui.core.css",
+                "skinStyles/jquery.ui/jquery.ui.theme.css"
+            ],
+            "jquery.ui.accordion": "skinStyles/jquery.ui/jquery.ui.accordion.css",
+            "jquery.ui.autocomplete": "skinStyles/jquery.ui/jquery.ui.autocomplete.css",
+            "jquery.ui.button": "skinStyles/jquery.ui/jquery.ui.button.css",
+            "jquery.ui.datepicker": "skinStyles/jquery.ui/jquery.ui.datepicker.css",
+            "jquery.ui.dialog": "skinStyles/jquery.ui/jquery.ui.dialog.css",
+            "jquery.ui.menu": "skinStyles/jquery.ui/jquery.ui.menu.css",
+            "jquery.ui.progressbar": "skinStyles/jquery.ui/jquery.ui.progressbar.css",
+            "jquery.ui.resizable": "skinStyles/jquery.ui/jquery.ui.resizable.css",
+            "jquery.ui.selectable": "skinStyles/jquery.ui/jquery.ui.selectable.css",
+            "jquery.ui.slider": "skinStyles/jquery.ui/jquery.ui.slider.css",
+            "jquery.ui.tabs": "skinStyles/jquery.ui/jquery.ui.tabs.css",
+            "jquery.ui.tooltip": "skinStyles/jquery.ui/jquery.ui.tooltip.css",
+            "+mediawiki.action.view.redirectPage": "skinStyles/mediawiki.action.view.redirectPage.less",
+            "+mediawiki.notification": "skinStyles/mediawiki.notification.less",
+            "+oojs-ui-core.styles": "skinStyles/ooui.less",
+            "mediawiki.special": "skinStyles/mediawiki.special.less",
+            "+ext.relatedArticles.readMore": "skinStyles/ext.relatedArticles.readMore.less"
+        }
+    },
+    "config": {
+		"ValkyrieUseSimpleSearch": true,
+		"ValkyrieUseIconWatch": true,
+		"ValkyrieResponsive": false,
+		"≈ePrintLogo": false
+    },
+    "manifest_version": 1
+}

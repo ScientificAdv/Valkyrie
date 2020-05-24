@@ -3,21 +3,23 @@
 		"authors": [
 			"Arlin",
 			"Sahran",
-			"Tel'et"
+			"Tel'et",
+			"Uzdil"
 		]
 	},
-	"skinname-vector": "Vector",
-	"vector.css": "/* CSS placed here will affect users of the Vector skin */",
-	"vector.js": "/* Any JavaScript here will be loaded for users using the Vector skin */",
-	"vector-action-addsection": "يېڭى تېما قوش",
-	"vector-action-delete": "ئۆچۈر",
-	"vector-action-move": "يۆتكە",
-	"vector-action-protect": "قوغدا",
-	"vector-action-undelete": "ئەسلىگە قايتۇر",
-	"vector-action-unprotect": "قوغداش ئۆزگەرت",
-	"vector-view-create": "قۇر",
-	"vector-view-edit": "تەھرىر",
-	"vector-view-history": "تارىخ كۆرسەت",
-	"vector-view-view": "ئوقۇ",
-	"vector-view-viewsource": "مەنبەنى كۆرسەت"
+	"skinname-valkyrie": "Valkyrie",
+	"valkyrie.css": "/* CSS placed here will affect users of the Valkyrie skin */",
+	"valkyrie.js": "/* Any JavaScript here will be loaded for users using the Valkyrie skin */",
+	"valkyrie-action-addsection": "يېڭى تېما قوش",
+	"valkyrie-action-delete": "ئۆچۈر",
+	"valkyrie-action-move": "يۆتكە",
+	"valkyrie-action-protect": "قوغدا",
+	"valkyrie-action-undelete": "ئەسلىگە قايتۇر",
+	"valkyrie-action-unprotect": "قوغداش ئۆزگەرت",
+	"valkyrie-view-create": "قۇر",
+	"valkyrie-view-edit": "تەھرىرلەش",
+	"valkyrie-view-history": "تارىخ كۆرسەت",
+	"valkyrie-view-view": "ئوقۇ",
+	"valkyrie-view-viewsource": "مەنبەنى كۆرسەت",
+	"valkyrie-more-actions": "تېخىمۇ كۆپ"
 }

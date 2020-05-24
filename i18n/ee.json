@@ -1,14 +1,16 @@
 {
 	"@metadata": {
 		"authors": [
-			"Natsubee"
+			"Natsubee",
+			"Aguve"
 		]
 	},
-	"vector-action-delete": "Tutui",
-	"vector-action-move": "Ɖɔli eƒe nɔƒe",
-	"vector-view-create": "Dze egɔme",
-	"vector-view-edit": "Trɔ asi le eŋu",
-	"vector-view-history": "Kpɔ xoxoawo",
-	"vector-view-view": "Xlẽ",
-	"vector-view-viewsource": "Kpɔ alesi woŋlɔe"
+	"valkyrie-action-delete": "Tutui",
+	"valkyrie-action-move": "Ɖɔli eƒe nɔƒe",
+	"valkyrie-view-create": "Dze egɔme",
+	"valkyrie-view-edit": "Trɔ asi le eŋu",
+	"valkyrie-view-history": "Kpɔ xoxoawo",
+	"valkyrie-view-view": "Xlẽ",
+	"valkyrie-view-viewsource": "Kpɔ alesi woŋlɔe",
+	"valkyrie-more-actions": "Bubuwo"
 }

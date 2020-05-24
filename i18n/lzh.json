@@ -1,21 +1,24 @@
 {
 	"@metadata": {
 		"authors": [
-			"Justincheng12345"
+			"Justincheng12345",
+			"Nemo bis",
+			"Itsmine"
 		]
 	},
-	"skinname-vector": "動力",
-	"vector.css": "/* 此之 CSS 用於動力面之簿也 */",
-	"vector.js": "/* 此之JavaScript將載於用動力面之簿 */",
-	"vector-action-addsection": "入題",
-	"vector-action-delete": "刪",
-	"vector-action-move": "遷",
-	"vector-action-protect": "緘",
-	"vector-action-undelete": "覽刪",
-	"vector-action-unprotect": "啟",
-	"vector-view-create": "立",
-	"vector-view-edit": "纂",
-	"vector-view-history": "覽史",
-	"vector-view-view": "閱",
-	"vector-view-viewsource": "覽源"
+	"skinname-valkyrie": "動力",
+	"valkyrie.css": "/* 此之 CSS 用於動力面之簿也 */",
+	"valkyrie.js": "/* 此之JavaScript將載於用動力面之簿 */",
+	"valkyrie-action-addsection": "入題",
+	"valkyrie-action-delete": "刪",
+	"valkyrie-action-move": "遷",
+	"valkyrie-action-protect": "緘",
+	"valkyrie-action-undelete": "覽刪",
+	"valkyrie-action-unprotect": "啟",
+	"valkyrie-view-create": "立",
+	"valkyrie-view-edit": "纂",
+	"valkyrie-view-history": "覽史",
+	"valkyrie-view-view": "閱",
+	"valkyrie-view-viewsource": "覽源",
+	"valkyrie-more-actions": "餘"
 }

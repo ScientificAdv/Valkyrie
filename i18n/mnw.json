@@ -1,0 +1,16 @@
+{
+	"@metadata": {
+		"authors": [
+			"Htawmonzel"
+		]
+	},
+	"valkyrie-action-addsection": "စုတ် ပရူပရာ",
+	"valkyrie-action-delete": "ပလီု",
+	"valkyrie-action-move": "ပြံင်ပဆုဲ",
+	"valkyrie-action-protect": "စဵုဒၞာ",
+	"valkyrie-view-create": "ခၞံကၠောန်",
+	"valkyrie-view-edit": "ပလေဝ်ဒါန်",
+	"valkyrie-view-history": "ထ္ၜး လၟေင်အပြံင်အလှာဲ",
+	"valkyrie-view-view": "ဗှ်",
+	"valkyrie-more-actions": "ဆက်ဗှ်"
+}

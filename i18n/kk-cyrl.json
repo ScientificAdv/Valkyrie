@@ -7,16 +7,16 @@
 			"Kaztrans"
 		]
 	},
-	"vector-action-addsection": "Тақырып қосу",
-	"vector-action-delete": "Жою",
-	"vector-action-move": "Атауын өзгерту",
-	"vector-action-protect": "Қорғау",
-	"vector-action-undelete": "Жоймау",
-	"vector-action-unprotect": "Қорғанысын өзгерту",
-	"vector-view-create": "Бастау",
-	"vector-view-edit": "Өңдеу",
-	"vector-view-history": "Өңделу тарихы",
-	"vector-view-view": "Оқу",
-	"vector-view-viewsource": "Қайнарын қарау",
-	"vector-more-actions": "Тағы"
+	"valkyrie-action-addsection": "Тақырып қосу",
+	"valkyrie-action-delete": "Жою",
+	"valkyrie-action-move": "Атауын өзгерту",
+	"valkyrie-action-protect": "Қорғау",
+	"valkyrie-action-undelete": "Жоюды болдырмау",
+	"valkyrie-action-unprotect": "Қорғанысын өзгерту",
+	"valkyrie-view-create": "Бастау",
+	"valkyrie-view-edit": "Өңдеу",
+	"valkyrie-view-history": "Өңделу тарихы",
+	"valkyrie-view-view": "Оқу",
+	"valkyrie-view-viewsource": "Қайнарын қарау",
+	"valkyrie-more-actions": "Тағы"
 }

@@ -3,23 +3,26 @@
 		"authors": [
 			"Minh Nguyen",
 			"Vinhtantran",
-			"Withoutaname"
+			"Withoutaname",
+			"Trần Nguyễn Minh Huy"
 		]
 	},
-	"skinname-vector": "Vectơ",
-	"vector-skin-desc": "Giao diện làm lại từ MonoBook có màu tươi và khả dụng hơn",
-	"vector.css": "/* Mã CSS đặt ở đây sẽ ảnh hưởng đến thành viên sử dụng giao diện Vectơ */",
-	"vector.js": "/* Mã JavaScript tại đây sẽ được tải khi người dùng sử dụng giao diện Vectơ */",
-	"vector-action-addsection": "Thêm chủ đề",
-	"vector-action-delete": "Xóa",
-	"vector-action-move": "Di chuyển",
-	"vector-action-protect": "Khóa",
-	"vector-action-undelete": "Phục hồi",
-	"vector-action-unprotect": "Đổi mức khóa",
-	"vector-view-create": "Tạo",
-	"vector-view-edit": "Sửa đổi",
-	"vector-view-history": "Xem lịch sử",
-	"vector-view-view": "Đọc",
-	"vector-view-viewsource": "Xem mã nguồn",
-	"vector-more-actions": "Khác"
+	"skinname-valkyrie": "Vectơ",
+	"valkyrie-skin-desc": "Giao diện làm lại từ MonoBook có màu tươi và khả dụng hơn",
+	"valkyrie.css": "/* Mã CSS đặt ở đây sẽ ảnh hưởng đến thành viên sử dụng giao diện Vectơ */",
+	"valkyrie.js": "/* Mã JavaScript tại đây sẽ được tải khi người dùng sử dụng giao diện Vectơ */",
+	"valkyrie-action-addsection": "Thêm đề tài",
+	"valkyrie-action-delete": "Xóa",
+	"valkyrie-action-move": "Di chuyển",
+	"valkyrie-action-protect": "Khóa",
+	"valkyrie-action-undelete": "Phục hồi",
+	"valkyrie-action-unprotect": "Đổi mức khóa",
+	"valkyrie-view-create": "Tạo",
+	"valkyrie-view-edit": "Sửa đổi",
+	"valkyrie-view-history": "Xem lịch sử",
+	"valkyrie-view-view": "Đọc",
+	"valkyrie-view-viewsource": "Xem mã nguồn",
+	"valkyrie-jumptonavigation": "Buớc tưới chuyển hướng",
+	"valkyrie-jumptosearch": "Bước tới tìm kiếm",
+	"valkyrie-more-actions": "Khác"
 }

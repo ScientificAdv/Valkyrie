@@ -3,18 +3,20 @@
 		"authors": [
 			"Ktkaushik",
 			"Nayvik",
-			"VASANTH S.N."
+			"VASANTH S.N.",
+			"Omshivaprakash"
 		]
 	},
-	"vector-action-addsection": "ವಿಷಯ ಸೇರಿಸಿ",
-	"vector-action-delete": "ಅಳಿಸು",
-	"vector-action-move": "ಸ್ಥಳಾಂತರಿಸಿ",
-	"vector-action-protect": "ಸಂರಕ್ಷಿಸು",
-	"vector-action-undelete": "ಅಳಿಸಬೇಡ",
-	"vector-action-unprotect": "ರಕ್ಷಣೆಯನ್ನು ಬದಲಾವಣೆ",
-	"vector-view-create": "ಸೃಷ್ಟಿಸು",
-	"vector-view-edit": "ಸಂಪಾದಿಸಿ",
-	"vector-view-history": "ಇತಿಹಾಸವನ್ನು ನೋಡಿ",
-	"vector-view-view": "ಓದು",
-	"vector-view-viewsource": "ಆಕರ ವೀಕ್ಷಿಸು"
+	"valkyrie-action-addsection": "ವಿಷಯ ಸೇರಿಸಿ",
+	"valkyrie-action-delete": "ಅಳಿಸು",
+	"valkyrie-action-move": "ಸ್ಥಳಾಂತರಿಸಿ",
+	"valkyrie-action-protect": "ಸಂರಕ್ಷಿಸು",
+	"valkyrie-action-undelete": "ಅಳಿಸಬೇಡ",
+	"valkyrie-action-unprotect": "ರಕ್ಷಣೆಯನ್ನು ಬದಲಾವಣೆ",
+	"valkyrie-view-create": "ಸೃಷ್ಟಿಸು",
+	"valkyrie-view-edit": "ಸಂಪಾದಿಸಿ",
+	"valkyrie-view-history": "ಇತಿಹಾಸವನ್ನು ನೋಡಿ",
+	"valkyrie-view-view": "ಓದು",
+	"valkyrie-view-viewsource": "ಆಕರ ವೀಕ್ಷಿಸು",
+	"valkyrie-more-actions": "ಇನ್ನಷ್ಟು"
 }

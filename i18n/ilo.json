@@ -5,17 +5,19 @@
 			"Saluyot"
 		]
 	},
-	"vector-skin-desc": "Modernno a bersion ti MonoBook nga addaan iti baro a langa ken adu kadagiti naserbi a panagpasayaat",
-	"vector-action-addsection": "Agnayon ti topiko",
-	"vector-action-delete": "Ikkaten",
-	"vector-action-move": "Iyalis",
-	"vector-action-protect": "Salakniban",
-	"vector-action-undelete": "Isubli ti inikkat",
-	"vector-action-unprotect": "Sukatan ti salaknib",
-	"vector-view-create": "Agaramid",
-	"vector-view-edit": "Urnosen",
-	"vector-view-history": "Kitaen ti pakasaritaan",
-	"vector-view-view": "Basaen",
-	"vector-view-viewsource": "Kitaen ti taudan",
-	"vector-more-actions": "Adu pay"
+	"valkyrie-skin-desc": "Moderno a bersion ti MonoBook nga addaan iti baro a langa ken adu kadagiti naserbi a panagpasayaat",
+	"valkyrie-action-addsection": "Agnayon iti topiko",
+	"valkyrie-action-delete": "Ikkaten",
+	"valkyrie-action-move": "Iyalis",
+	"valkyrie-action-protect": "Salakniban",
+	"valkyrie-action-undelete": "Isubli ti inikkat",
+	"valkyrie-action-unprotect": "Baliwan ti salaknib",
+	"valkyrie-view-create": "Agpartuat",
+	"valkyrie-view-edit": "Urnosen",
+	"valkyrie-view-history": "Kitaen ti pakasaritaan",
+	"valkyrie-view-view": "Basaen",
+	"valkyrie-view-viewsource": "Kitaen ti taudan",
+	"valkyrie-jumptonavigation": "Darsen a mapan iti pagdaliasatan",
+	"valkyrie-jumptosearch": "Darsen a mapan agbiruk",
+	"valkyrie-more-actions": "Adu pay"
 }

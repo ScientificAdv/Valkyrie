@@ -1,18 +1,20 @@
 {
 	"@metadata": {
 		"authors": [
-			"Better"
+			"Better",
+			"Crucifunked"
 		]
 	},
-	"vector-action-addsection": "Añiil tema",
-	"vector-action-delete": "Esborral",
-	"vector-action-move": "Mual",
-	"vector-action-protect": "Protegel",
-	"vector-action-undelete": "Esborral",
-	"vector-action-unprotect": "Esprotegel",
-	"vector-view-create": "Crial",
-	"vector-view-edit": "Eital",
-	"vector-view-history": "Guipal estorial",
-	"vector-view-view": "Leyel",
-	"vector-view-viewsource": "Guipal cóigu"
+	"valkyrie-action-addsection": "Añiil tema",
+	"valkyrie-action-delete": "Esborral",
+	"valkyrie-action-move": "Mual",
+	"valkyrie-action-protect": "Protegel",
+	"valkyrie-action-undelete": "Esborral",
+	"valkyrie-action-unprotect": "Esprotegel",
+	"valkyrie-view-create": "Crial",
+	"valkyrie-view-edit": "Eital",
+	"valkyrie-view-history": "Guipal estorial",
+	"valkyrie-view-view": "Leyel",
+	"valkyrie-view-viewsource": "Guipal cóigu",
+	"valkyrie-more-actions": "Más"
 }

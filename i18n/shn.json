@@ -1,13 +1,18 @@
 {
 	"@metadata": {
 		"authors": [
-			"Saiddzone"
+			"Saiddzone",
+			"Saimawnkham"
 		]
 	},
-	"vector-action-protect": "ႁေႉၵင်ႈ",
-	"vector-view-create": "သၢင်ႈ",
-	"vector-view-edit": "မူၼ်ႉမႄး",
-	"vector-view-history": "တူၺ်းပိုၼ်း",
-	"vector-view-view": "လူတူၺ်း",
-	"vector-view-viewsource": "တူၺ်း ငဝ်ႈငႃႇ"
+	"valkyrie-action-addsection": "ထႅမ်သႂ်ႇ ႁူဝ်ၶေႃႈ",
+	"valkyrie-action-delete": "မွတ်ႇပႅတ်ႈ",
+	"valkyrie-action-move": "ၶၢႆႉ",
+	"valkyrie-action-protect": "ႁေႉၵင်ႈ",
+	"valkyrie-view-create": "သၢင်ႈ",
+	"valkyrie-view-edit": "မူၼ်ႉမႄး",
+	"valkyrie-view-history": "တူၺ်းပိုၼ်း",
+	"valkyrie-view-view": "လူတူၺ်း",
+	"valkyrie-view-viewsource": "တူၺ်း ငဝ်ႈငႃႇ",
+	"valkyrie-more-actions": "ၼမ်လိူဝ်"
 }

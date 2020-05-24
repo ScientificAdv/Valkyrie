@@ -2,18 +2,20 @@
 	"@metadata": {
 		"authors": [
 			"Katimawan2005",
-			"Val2397"
+			"Val2397",
+			"Leeheonjin"
 		]
 	},
-	"vector-action-addsection": "Dagdagan ing pisasabian",
-	"vector-action-delete": "Buran",
-	"vector-action-move": "Iyalis",
-	"vector-action-protect": "Protectan/kambilan",
-	"vector-action-undelete": "Isubli/iurung ya pangabura",
-	"vector-action-unprotect": "Idayu ya panga-protecta",
-	"vector-view-create": "Maglalang",
-	"vector-view-edit": "Alilan",
-	"vector-view-history": "Lawen ya ing amlat",
-	"vector-view-view": "Basan",
-	"vector-view-viewsource": "Lawen ya ing pikuanan"
+	"valkyrie-action-addsection": "Dagdagan ing pisasabian",
+	"valkyrie-action-delete": "Buran",
+	"valkyrie-action-move": "Iyalis",
+	"valkyrie-action-protect": "Protectan/kambilan",
+	"valkyrie-action-undelete": "Isubli/iurung ya pangabura",
+	"valkyrie-action-unprotect": "Idayu ya panga-protecta",
+	"valkyrie-view-create": "Maglalang",
+	"valkyrie-view-edit": "Alilan",
+	"valkyrie-view-history": "Lawen ya ing amlat",
+	"valkyrie-view-view": "Basan",
+	"valkyrie-view-viewsource": "Lawen ya ing pikuanan",
+	"valkyrie-more-actions": "Maki-mayigit pa"
 }

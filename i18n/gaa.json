@@ -1,0 +1,19 @@
+{
+	"@metadata": {
+		"authors": [
+			"Flixtey",
+			"Mybluberet",
+			"Gkbediako",
+			"Amire80"
+		]
+	},
+	"valkyrie-action-addsection": "Kɛ mlijaa yitso afata he",
+	"valkyrie-action-delete": "Jiemɔ",
+	"valkyrie-action-move": "Tsi",
+	"valkyrie-action-protect": "Yibaamɔ",
+	"valkyrie-view-create": "Bɔɔ",
+	"valkyrie-view-edit": "Tsakemɔ",
+	"valkyrie-view-history": "Kwɛmɔ nibii ni eho",
+	"valkyrie-view-view": "Kanemɔ",
+	"valkyrie-more-actions": "Pii"
+}

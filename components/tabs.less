@@ -1,256 +1,260 @@
-/*
-Styling for namespace tabs (page, discussion) and views (read, edit, view history, watch and other actions)
-*/
+@import 'mediawiki.mixins';
 
-/* Navigation Labels */
-div.vectorTabs h3 {
-    display: none;
-}
+/**
+ * Styling for namespace tabs (page, discussion) and views (read, edit, view history, watch and other actions)
+ */
 
 /* Namespaces and Views */
-div.vectorTabs {
-    /* @noflip */
-    float: left;
-    height: 2.5em;
-    // .background-image('images/tab-break.png');
-    background-position: bottom left;
-    background-repeat: no-repeat;
-    padding-left: 1px;
-    margin-bottom: 10px;
+.valkyrieTabs {
+	// Tab separator: Outer start border (left in LTR) of tab row.
+	background-position: left bottom;
+	float: left;
+	height: 2.5em;
+    padding-left: @border-width-base;
     background-color: transparent;
 
-    ul {
-        /* @noflip */
-        // float: left;
-        display: flex;
-        height: 100%;
-        list-style-type: none;
-        list-style-image: none;
-        margin: 0;
+	/* Navigation Labels */
+	h3 {
+		display: none;
+	}
+
+	ul {
+		float: left;
+		height: 100%;
+		list-style: none none;
+		margin: 0;
         padding: 0;
-        // .background-image('images/tab-break.png');
         background-color: transparent;
+	}
 
-        background-position: right bottom;
-        background-repeat: no-repeat;
+	li {
+		// Tab fade background: Fade inside from light grey to white.
+		// background-image: url( images/tab-normal-fade.png ); // Support: IE 8 & 9, Fx 3.6-15, Safari 5.1-6, Chrome 10-25
+		// background-image: linear-gradient( to top, @border-color-content--tabs-inactive 0, #e8f2f8 1px, #fff 100% ); // Support: Standard (Firefox 16+, IE 10+, Safari 6.1+, Chrome 26+)
+		// background-position: left bottom;
+		// background-repeat: repeat-x;
+		float: left;
+		display: block;
+		height: 100%;
+		margin: 0;
+		padding: 0;
+		line-height: @line-height-nav;
+        white-space: nowrap;
+        background-color: transparent;
+        border: 2px transparent solid;
 
-        li {
-            /* @noflip */
-            // float: left;
-            // line-height: 1.125em;
-            /* For IE6, overridden later to display:block by modern browsers */
-            display: inline-block;
-            height: 100%;
-            margin: 0;
-            padding: 0;
-            background-color: transparent;
-            // .background-image('images/tab-normal-fade.png');
-            border: 2px transparent solid;
-            // background-position: bottom left;
-            // background-repeat: repeat-x;
-            white-space: nowrap;
-        }
+		a {
+			color: @color-link;
+			display: block;
+			height: 1.9em;
+			padding-left: 0.615em; // Equals `8px` at computed `font-size` of `13px` below
+			padding-right: 0.615em;
+			cursor: pointer;
+			font-size: @font-size-tabs;
+		}
+	}
 
-        /* IGNORED BY IE6 which doesn't support child selector */
-        > li {
-            display: block;
-        }
-    }
+	.new {
+		a,
+		a:visited {
+			color: @color-link-new;
+		}
+	}
 
-    li {
-        &.new {
+	.selected {
+		// Replace tab fade with flat color (matching top of would-be fade).
+		// background-image: url( images/tab-current-fade.png );
+		// Overwrite above in browsers that support `rgba()`.
+        // background: rgba( 255, 255, 255, 1 ); // stylelint-disable-line declaration-block-no-shorthand-property-overrides
+        border-color: #fff;
 
-            a,
-            a:visited {
-                color: #a55858;
-            }
-        }
+		a,
+		a:visited {
+			color: @color-link-selected;
+			text-decoration: none;
+		}
+	}
 
-        &.selected {
-            // .background-image('images/tab-current-fade.png');
-            border-color: #fff;
+	.icon {
+		a {
+			background-position: right bottom;
+			background-repeat: no-repeat;
+		}
+	}
 
-            a,
-            a:visited {
-                color: #333;
-                text-decoration: none;
-            }
-        }
+	// Tab separator: Border between tabs and outer right border.
+	span {
+		background-position: right bottom;
+		display: inline-block;
+		height: 100%;
 
-        &.icon {
-            a {
-                background-position: bottom right;
-                background-repeat: no-repeat;
-            }
-        }
-
-        a {
-            /* For IE6, overridden later to display:block by modern browsers */
-            display: inline-block;
-            height: 1.9em;
-            padding-left: 0.5em;
-            padding-right: 0.5em;
-            color: @menu-link-color;
-            cursor: pointer;
-            font-size: 0.8em;
-            color: #fff;
-        }
-
-        /* Ignored by IE6 which doesn't support child selector */
-        > a {
-            display: block;
-        }
-    }
-
-    span {
-        display: inline-block;
-        // .background-image('images/tab-break.png');
-        background-position: bottom right;
-        background-repeat: no-repeat;
-
-        a {
-            /* For IE6, overridden later to display:block by modern browsers */
-            display: inline-block;
-			padding-top: .85em;
-			padding-bottom: .85em;
-        }
-
-        /* Ignored by IE6 which doesn't support child selector */
-        > a {
-            /* @noflip */
-            float: left;
-            display: block;
-        }
-    }
+		a {
+			float: left;
+			display: block;
+			position: relative;
+			padding-top: 1em;
+		}
+	}
 }
 
 /* Variants and Actions */
-div.vectorMenu {
-    /* @noflip */
-    direction: ltr;
-    /* @noflip */
-    float: left;
-    cursor: pointer;
-    position: relative;
+.valkyrieMenu {
+	direction: ltr;
+	float: left;
+	cursor: pointer;
+	position: relative;
+	line-height: 1.125em;
+
+	h3 {
+		span {
+			color: @color-nav-subtle;
+			position: relative;
+			display: block;
+			padding-left: 0.615em;
+			padding-top: 1.25em;
+			padding-right: 16px;
+			font-size: @font-size-tabs;
+			font-weight: normal;
+
+			&:after {
+				content: '';
+				position: absolute;
+				top: 1.25em;
+				right: 0;
+				bottom: 0;
+				left: 0;
+				.background-image-svg('images/arrow-down.svg', 'images/arrow-down.png');
+				background-position: 100% 50%;
+				background-repeat: no-repeat;
+				// Modify the color of the image from the default #222 to approx. #444 to match the text.
+				opacity: 0.85;
+			}
+		}
+
+		&:hover span,
+		&:focus span {
+			color: @color-base;
+
+			&:after {
+				opacity: 1;
+			}
+		}
+	}
+
+	.menu {
+		list-style: none none;
+		background-color: @background-color-base;
+		clear: both;
+		// Match the width of the dropdown "heading" (the tab)
+		min-width: 100%;
+		position: absolute;
+		top: 2.5em;
+		left: -@border-width-base;
+		margin: 0;
+		border: @border-width-base @border-style-base @border-color-base;
+		border-top-width: 0;
+		padding: 0;
+		box-shadow: 0 1px 1px 0 rgba( 0, 0, 0, 0.1 );
+		text-align: left;
+		opacity: 0;
+		visibility: hidden;
+		.transition( opacity 100ms );
+		// Menus must overlap indicators (z-index: 1) and VisualEditor toolbar (z-index: 2)
+		z-index: 2;
+	}
+
+	&:hover .menu {
+		opacity: 1;
+		visibility: visible;
+	}
+
+	// This is in a separate block, so that browsers supporting :hover but not :checked still apply the rule above
+	// Support: IE8
+	.valkyrieMenuCheckbox:checked ~ .menu {
+		opacity: 1;
+		visibility: visible;
+	}
+
+	li {
+		padding: 0;
+		margin: 0;
+		text-align: left;
+		line-height: 1em;
+
+		a {
+			color: @color-link;
+			display: block;
+			padding: 0.625em;
+			white-space: nowrap;
+			cursor: pointer;
+			font-size: @font-size-tabs;
+		}
+	}
+
+	.selected a,
+	.selected a:visited {
+		color: @color-link-selected;
+		text-decoration: none;
+	}
 }
 
-body.rtl div.vectorMenu {
-    /* @noflip */
-    direction: rtl;
+#mw-head .valkyrieMenu h3 {
+	// Tab separator: Outer end (right in LTR) border of "Actions" menu.
+	background-position: right bottom;
+	float: left;
+	font-size: @font-size-reset;
+	height: 2.5em;
+	margin: 0 -@border-width-base 0 0;
+	// `padding-right` >= `1px` effectively moves the "background border" outside of the element to
+	// act like a real border. It is necessary for `.valkyrieMenu .menu` dropdown to align well.
+	// 0.5em equals `8px` at computed `font-size` of `14px` as visually harmonically with
+	// `padding-left` in `.valkyrieMenu h3 span`
+	padding: 0 0.5em 0 0;
 }
 
-div#mw-head div.vectorMenu h3 {
-    /* @noflip */
-    float: left;
-    .background-image('images/tab-break.png');
-    background-repeat: no-repeat;
-    background-position: bottom right;
-    margin-left: -1px;
-    font-size: 1em;
-    height: 2.5em;
-    // This effectively moves the "background border" outside of the element to act like a real
-    // border. It is necessary for the dropdown (div.vectorMenu div.menu) to align well.
-    padding-right: 1px;
-    margin-right: -1px;
+// Tab Separators
+// `.valkyrieTabs`: Outer start border (left in LTR) of tab row.
+// `.valkyrieTabs span`: Border between tabs and outer end (right in LTR) border.
+// `#mw-head .valkyrieMenu h3`: // Outer end (right in LTR) border of "Actions" menu.
+.valkyrieTabs,
+.valkyrieTabs span,
+#mw-head .valkyrieMenu h3 {
+	// background-image: url( images/tab-separator.png );
+	// background-image: linear-gradient( to bottom, rgba( 167, 215, 249, 0 ) 0, @border-color-content 100% );
+	background-repeat: no-repeat;
+	// Contain gradient to 1px × 100% size and draw from top to bottom-left or -right corner.
+	background-size: @border-width-base 100%;
 }
 
-div.vectorMenu h3 span {
-    display: block;
-    font-size: 0.8em;
-    padding-left: 0.7em;
-    padding-top: 1.375em;
-    margin-right: 20px;
-    font-weight: normal;
-    color: @menu-main-heading-color;
-}
+// Invisible checkbox covering the dropdown menu handle
+.valkyrieMenuCheckbox {
+	cursor: pointer;
+	position: absolute;
+	top: 0;
+	left: 0;
+	z-index: 1;
+	opacity: 0;
+	width: 100%;
+	height: 100%;
+	margin: 0;
+	padding: 0;
+	// Hide the checkbox completely in browsers that don't support :checked
+	display: none;
 
-div.vectorMenu h3 a {
-    position: absolute;
-    top: 0;
-    right: 0;
-    width: 20px;
-    height: 2.5em;
-    .background-image-svg('images/arrow-down-icon.svg', 'images/arrow-down-icon.png');
-    background-position: 100% 70%;
-    background-repeat: no-repeat;
-    .transition(background-position 250ms);
-}
+	:not( :checked ) > & {
+		// When the browser supports :checked, display it
+		display: block;
+	}
 
-div.vectorMenu.menuForceShow h3 a {
-    background-position: 100% 100%;
-}
+	&:checked + h3 span:after {
+		transform: scaleY( -1 );
+	}
 
-div.vectorMenuFocus h3 a {
-    .background-image-svg('images/arrow-down-focus-icon.svg', 'images/arrow-down-focus-icon.png');
-}
-
-div.vectorMenu div.menu {
-    // Match the width of the dropdown "heading" (the tab)
-    min-width: 100%;
-    position: absolute;
-    top: 2.5em;
-    left: -1px;
-    background-color: white;
-    border: solid 1px silver;
-    border-top-width: 0;
-    clear: both;
-    text-align: left;
-    display: none;
-}
-
-/* Enable forcing showing of the menu for accessibility */
-div.vectorMenu:hover div.menu,
-div.vectorMenu.menuForceShow div.menu {
-    display: block;
-}
-
-div.vectorMenu ul {
-    list-style-type: none;
-    list-style-image: none;
-    padding: 0;
-    margin: 0;
-    text-align: left;
-}
-
-/* Fixes old versions of FireFox */
-div.vectorMenu ul,
-x:-moz-any-link {
-    min-width: 5em;
-}
-
-/* Returns things back to normal in modern versions of FireFox */
-div.vectorMenu ul,
-x:-moz-any-link,
-x:default {
-    min-width: 0;
-}
-
-div.vectorMenu li {
-    padding: 0;
-    margin: 0;
-    text-align: left;
-    line-height: 1em;
-}
-
-/* OVERRIDDEN BY COMPLIANT BROWSERS */
-div.vectorMenu li a {
-    display: inline-block;
-    padding: 0.5em;
-    white-space: nowrap;
-    color: @menu-link-color;
-    cursor: pointer;
-    font-size: 0.8em;
-}
-
-/* IGNORED BY IE6 */
-div.vectorMenu li > a {
-    display: block;
-}
-
-div.vectorMenu li.selected a,
-div.vectorMenu li.selected a:visited {
-    color: #333;
-    text-decoration: none;
+	&:focus + h3 {
+		// Simulate browser focus ring
+		outline: dotted 1px; // Firefox style
+		outline: auto -webkit-focus-ring-color; // Webkit style
+	}
 }
 
 @import 'watchstar.less';

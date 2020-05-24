@@ -2,22 +2,25 @@
 	"@metadata": {
 		"authors": [
 			"Ktchankt",
-			"Waihorace"
+			"Waihorace",
+			"Yueman",
+			"Roy17"
 		]
 	},
-	"skinname-vector": "Vector",
-	"vector.css": "/* 響呢度放 CSS 碼去改用戶用嘅域達畫面 */",
-	"vector.js": "/* 響每一次個頁面載入時，用域達畫面嘅用戶都會載入呢度任何嘅JavaScript */",
-	"vector-action-addsection": "加主題",
-	"vector-action-delete": "剷走",
-	"vector-action-move": "搬",
-	"vector-action-protect": "保護",
-	"vector-action-undelete": "取消剷走",
-	"vector-action-unprotect": "改保護",
-	"vector-view-create": "開",
-	"vector-view-edit": "改",
-	"vector-view-history": "睇吓歷史",
-	"vector-view-view": "閱",
-	"vector-view-viewsource": "睇吓原始碼",
-	"vector-more-actions": "更多"
+	"skinname-valkyrie": "Valkyrie",
+	"valkyrie-skin-desc": "MonoBook嘅摩登版，有新嘅樣，又有好多功能改進",
+	"valkyrie.css": "/* 響呢度放 CSS 碼去改用戶用嘅域達畫面 */",
+	"valkyrie.js": "/* 響每一次個頁面載入時，用域達畫面嘅用戶都會載入呢度任何嘅JavaScript */",
+	"valkyrie-action-addsection": "加主題",
+	"valkyrie-action-delete": "剷走",
+	"valkyrie-action-move": "搬",
+	"valkyrie-action-protect": "保護",
+	"valkyrie-action-undelete": "取消剷走",
+	"valkyrie-action-unprotect": "改保護",
+	"valkyrie-view-create": "開",
+	"valkyrie-view-edit": "改",
+	"valkyrie-view-history": "修改紀錄",
+	"valkyrie-view-view": "閱",
+	"valkyrie-view-viewsource": "睇吓原始碼",
+	"valkyrie-more-actions": "更多"
 }

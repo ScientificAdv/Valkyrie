@@ -5,15 +5,16 @@
 			"J Subhi"
 		]
 	},
-	"vector-action-addsection": "Tambahi tupik",
-	"vector-action-delete": "Hapus",
-	"vector-action-move": "Pindahakan",
-	"vector-action-protect": "Lindungi",
-	"vector-action-undelete": "Pawalangan pahapusan",
-	"vector-action-unprotect": "Palindungan",
-	"vector-view-create": "Ulah",
-	"vector-view-edit": "Babak",
-	"vector-view-history": "Tiringi halam",
-	"vector-view-view": "Baca",
-	"vector-view-viewsource": "Tiringi asal mula"
+	"valkyrie-action-addsection": "Tambahi tupik",
+	"valkyrie-action-delete": "Hapus",
+	"valkyrie-action-move": "Pindahakan",
+	"valkyrie-action-protect": "Lindungi",
+	"valkyrie-action-undelete": "Pawalangan pahapusan",
+	"valkyrie-action-unprotect": "Palindungan",
+	"valkyrie-view-create": "Ulah",
+	"valkyrie-view-edit": "Babak",
+	"valkyrie-view-history": "Tiringi sajarah",
+	"valkyrie-view-view": "Baca",
+	"valkyrie-view-viewsource": "Tiringi asal mula",
+	"valkyrie-more-actions": "Lainnya"
 }

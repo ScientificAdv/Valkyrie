@@ -4,16 +4,16 @@
 			"Michawiki"
 		]
 	},
-	"vector-action-addsection": "Temu přidać",
-	"vector-action-delete": "wušmórnyć",
-	"vector-action-move": "přesunyć",
-	"vector-action-protect": "škitać",
-	"vector-action-undelete": "Wobnowić",
-	"vector-action-unprotect": "Škit wotstronić",
-	"vector-view-create": "Wutworić",
-	"vector-view-edit": "Wobdźěłać",
-	"vector-view-history": "Stawizny",
-	"vector-view-view": "Čitać",
-	"vector-view-viewsource": "Žórło sej wobhladać",
-	"vector-more-actions": "Wjace"
+	"valkyrie-action-addsection": "Temu přidać",
+	"valkyrie-action-delete": "wušmórnyć",
+	"valkyrie-action-move": "přesunyć",
+	"valkyrie-action-protect": "škitać",
+	"valkyrie-action-undelete": "Wobnowić",
+	"valkyrie-action-unprotect": "Škit wotstronić",
+	"valkyrie-view-create": "Wutworić",
+	"valkyrie-view-edit": "Wobdźěłać",
+	"valkyrie-view-history": "Stawizny",
+	"valkyrie-view-view": "Čitać",
+	"valkyrie-view-viewsource": "Žórło sej wobhladać",
+	"valkyrie-more-actions": "Wjace"
 }

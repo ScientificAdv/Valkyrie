@@ -1,10 +1,21 @@
 {
 	"@metadata": {
 		"authors": [
-			"YulouCN"
+			"YulouCN",
+			"SolidBlock"
 		]
 	},
-	"vector-view-edit": "增改",
-	"vector-view-history": "履歷",
-	"vector-view-view": "讀"
+	"valkyrie-skin-desc": "给杂清新的样子再加上好多吧多可用性的新MonoBook",
+	"valkyrie-action-addsection": "搞杂话题",
+	"valkyrie-action-delete": "消嘎",
+	"valkyrie-action-move": "移走",
+	"valkyrie-action-protect": "免修",
+	"valkyrie-action-undelete": "还原",
+	"valkyrie-action-unprotect": "换杂保护",
+	"valkyrie-view-create": "弄噶",
+	"valkyrie-view-edit": "增改",
+	"valkyrie-view-history": "履歷",
+	"valkyrie-view-view": "讀",
+	"valkyrie-view-viewsource": "望下代碼",
+	"valkyrie-more-actions": "更多"
 }

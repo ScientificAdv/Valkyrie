@@ -2,20 +2,22 @@
 	"@metadata": {
 		"authors": [
 			"Makuba",
-			"Renan"
+			"Renan",
+			"Stavanger7"
 		]
 	},
-	"vector.css": "/* CSS colocat ci va afectar usatores de pelle Vector */",
-	"vector.js": "/* Alquel JavaScript ci va esser cargat por usatores que usa li pelle Vector */",
-	"vector-action-addsection": "Adjunter tema",
-	"vector-action-delete": "Deleter",
-	"vector-action-move": "Mover",
-	"vector-action-protect": "Gardar",
-	"vector-action-undelete": "Restituer",
-	"vector-action-unprotect": "Desgardar",
-	"vector-view-create": "Crear",
-	"vector-view-edit": "Redacter",
-	"vector-view-history": "Historie de versiones",
-	"vector-view-view": "Leer",
-	"vector-view-viewsource": "Vider fonte"
+	"valkyrie.css": "/* CSS colocat ci va afectar usatores de pelle Valkyrie */",
+	"valkyrie.js": "/* Alquel JavaScript ci va esser cargat por usatores que usa li pelle Valkyrie */",
+	"valkyrie-action-addsection": "Adjunter tema",
+	"valkyrie-action-delete": "Deleter",
+	"valkyrie-action-move": "Mover",
+	"valkyrie-action-protect": "Gardar",
+	"valkyrie-action-undelete": "Restituer",
+	"valkyrie-action-unprotect": "Desgardar",
+	"valkyrie-view-create": "Crear",
+	"valkyrie-view-edit": "Redacter",
+	"valkyrie-view-history": "Historie de versiones",
+	"valkyrie-view-view": "Leer",
+	"valkyrie-view-viewsource": "Vider fonte",
+	"valkyrie-more-actions": "Plu"
 }

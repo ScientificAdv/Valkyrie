@@ -3,19 +3,21 @@
 		"authors": [
 			"Unai Fdz. de Betoño",
 			"Xabier Armendaritz",
-			"Fitoschido"
+			"Fitoschido",
+			"Subi"
 		]
 	},
-	"vector-action-addsection": "Gehitu atala",
-	"vector-action-delete": "Ezabatu",
-	"vector-action-move": "Mugitu",
-	"vector-action-protect": "Babestu",
-	"vector-action-undelete": "Berreskuratu",
-	"vector-action-unprotect": "Babesa aldatu",
-	"vector-view-create": "Sortu",
-	"vector-view-edit": "Aldatu",
-	"vector-view-history": "Ikusi historia",
-	"vector-view-view": "Irakurri",
-	"vector-view-viewsource": "Kodea ikusia",
-	"vector-more-actions": "Gehiago"
+	"valkyrie-skin-desc": "MonoBook-en bertsio modernoa, itxura berriarekin eta erabilgarritasun hobekuntza askorekin",
+	"valkyrie-action-addsection": "Gehitu atala",
+	"valkyrie-action-delete": "Ezabatu",
+	"valkyrie-action-move": "Mugitu",
+	"valkyrie-action-protect": "Babestu",
+	"valkyrie-action-undelete": "Berreskuratu",
+	"valkyrie-action-unprotect": "Babesa aldatu",
+	"valkyrie-view-create": "Sortu",
+	"valkyrie-view-edit": "Aldatu",
+	"valkyrie-view-history": "Ikusi historia",
+	"valkyrie-view-view": "Irakurri",
+	"valkyrie-view-viewsource": "Kodea ikusia",
+	"valkyrie-more-actions": "Gehiago"
 }

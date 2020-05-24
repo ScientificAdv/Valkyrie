@@ -1,18 +1,20 @@
 {
 	"@metadata": {
 		"authors": [
-			"Ukabia"
+			"Ukabia",
+			"Uzoma Ozurumba"
 		]
 	},
-	"vector-action-addsection": "Tinyé Okwu",
-	"vector-action-delete": "Kàcha",
-	"vector-action-move": "Páfụ",
-	"vector-action-protect": "Cẹdolu",
-	"vector-action-undelete": "Á gbàkashikwà",
-	"vector-action-unprotect": "Nchẹdo mgbanwe",
-	"vector-view-create": "Ké",
-	"vector-view-edit": "Mèzi",
-	"vector-view-history": "Zí ịta",
-	"vector-view-view": "Gụ́",
-	"vector-view-viewsource": "Zi mkpurụ"
+	"valkyrie-action-addsection": "Tinyé Okwu",
+	"valkyrie-action-delete": "Kàcha",
+	"valkyrie-action-move": "Papụ̀",
+	"valkyrie-action-protect": "Cẹdolu",
+	"valkyrie-action-undelete": "Á gbàkashikwà",
+	"valkyrie-action-unprotect": "Nchẹdo mgbanwe",
+	"valkyrie-view-create": "Kèe",
+	"valkyrie-view-edit": "Mèzi",
+	"valkyrie-view-history": "Lèe ị̀ta",
+	"valkyrie-view-view": "Gụ̀ọ",
+	"valkyrie-view-viewsource": "Zi mkpurụ",
+	"valkyrie-more-actions": "Ọzọ kwa"
 }

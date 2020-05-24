@@ -1,0 +1,16 @@
+{
+	"@metadata": {
+		"authors": [
+			"Jyllanj",
+			"Ghiutun"
+		]
+	},
+	"valkyrie-action-addsection": "Ny emn",
+	"valkyrie-action-move": "Flytt",
+	"valkyrie-action-protect": "Beskøtt",
+	"valkyrie-view-create": "Oprett",
+	"valkyrie-view-edit": "Redigiir",
+	"valkyrie-view-history": "Sie historik",
+	"valkyrie-view-view": "Läs",
+	"valkyrie-more-actions": "Mier"
+}

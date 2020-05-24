@@ -1,18 +1,20 @@
 {
 	"@metadata": {
 		"authors": [
-			"Paul Beppler"
+			"Paul Beppler",
+			"Midnight Gambler"
 		]
 	},
-	"vector-action-addsection": "Abschnitt hinzufüche",
-	"vector-action-delete": "Lösche",
-	"vector-action-move": "Verschiebe",
-	"vector-action-protect": "Schütz",
-	"vector-action-undelete": "Wiederherstelle",
-	"vector-action-unprotect": "Seiteschutz ännre",
-	"vector-view-create": "Erstell",
-	"vector-view-edit": "Beoorbeite",
-	"vector-view-history": "Versionsgeschicht",
-	"vector-view-view": "Lese",
-	"vector-view-viewsource": "Quelltext oonzeiche"
+	"valkyrie-action-addsection": "Abschnitt hinzufüche",
+	"valkyrie-action-delete": "Lösche",
+	"valkyrie-action-move": "Verschiebe",
+	"valkyrie-action-protect": "Schütz",
+	"valkyrie-action-undelete": "Wiederherstelle",
+	"valkyrie-action-unprotect": "Seiteschutz ännre",
+	"valkyrie-view-create": "Erstell",
+	"valkyrie-view-edit": "Beoorbeite",
+	"valkyrie-view-history": "Versionsgeschicht",
+	"valkyrie-view-view": "Lese",
+	"valkyrie-view-viewsource": "Quelltext oonzeiche",
+	"valkyrie-more-actions": "Meahr"
 }

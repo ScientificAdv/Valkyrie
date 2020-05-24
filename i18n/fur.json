@@ -5,15 +5,16 @@
 			"Tocaibon"
 		]
 	},
-	"vector-action-addsection": "Gnove sezion",
-	"vector-action-delete": "Elimine",
-	"vector-action-move": "Môf",
-	"vector-action-protect": "Protêç",
-	"vector-action-undelete": "Recupere",
-	"vector-action-unprotect": "Gambie la protezion",
-	"vector-view-create": "Cree",
-	"vector-view-edit": "Cambie",
-	"vector-view-history": "Cjale il storic",
-	"vector-view-view": "Lei",
-	"vector-view-viewsource": "Cjale risultive"
+	"valkyrie-action-addsection": "Gnove sezion",
+	"valkyrie-action-delete": "Elimine",
+	"valkyrie-action-move": "Môf",
+	"valkyrie-action-protect": "Protêç",
+	"valkyrie-action-undelete": "Recupere",
+	"valkyrie-action-unprotect": "Gambie la protezion",
+	"valkyrie-view-create": "Cree",
+	"valkyrie-view-edit": "Cambie",
+	"valkyrie-view-history": "Cjale il storic",
+	"valkyrie-view-view": "Lei",
+	"valkyrie-view-viewsource": "Cjale risultive",
+	"valkyrie-more-actions": "Di plui"
 }

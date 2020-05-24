@@ -1,0 +1,17 @@
+{
+	"@metadata": {
+		"authors": [
+			"Arsenekoumyk",
+			"ArslanX"
+		]
+	},
+	"valkyrie-action-addsection": "Мавзу къошмакъ",
+	"valkyrie-action-delete": "Тайдырмакъ",
+	"valkyrie-action-move": "Атын алышдырмакъ",
+	"valkyrie-action-protect": "Якъламакъ",
+	"valkyrie-view-create": "Яратмакъ",
+	"valkyrie-view-edit": "Тюзлемек",
+	"valkyrie-view-history": "Тарихине къарамакъ",
+	"valkyrie-view-view": "Охумакъ",
+	"valkyrie-more-actions": "Дагъы"
+}

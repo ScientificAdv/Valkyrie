@@ -4,15 +4,16 @@
 			"Ibou"
 		]
 	},
-	"vector-action-addsection": "Yokkuw tëriit",
-	"vector-action-delete": "Far",
-	"vector-action-move": "Tuddewaat",
-	"vector-action-protect": "Aar",
-	"vector-action-undelete": "Delloowaat",
-	"vector-action-unprotect": "Aaradi",
-	"vector-view-create": "Sos",
-	"vector-view-edit": "Soppi",
-	"vector-view-history": "Wone jaar-jaaram",
-	"vector-view-view": "Jàng",
-	"vector-view-viewsource": "Wone gongikuwaayam"
+	"valkyrie-action-addsection": "Yokkuw tëriit",
+	"valkyrie-action-delete": "Far",
+	"valkyrie-action-move": "Tuddewaat",
+	"valkyrie-action-protect": "Aar",
+	"valkyrie-action-undelete": "Delloowaat",
+	"valkyrie-action-unprotect": "Aaradi",
+	"valkyrie-view-create": "Sos",
+	"valkyrie-view-edit": "Soppi",
+	"valkyrie-view-history": "Wone jaar-jaaram",
+	"valkyrie-view-view": "Jàng",
+	"valkyrie-view-viewsource": "Wone gongikuwaayam",
+	"valkyrie-more-actions": "Yeneen"
 }

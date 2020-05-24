@@ -4,20 +4,21 @@
 			"Mikalai Udodau",
 			"Yury Tarasievich",
 			"Дзяніс Тутэйшы",
-			"Хомелка"
+			"Хомелка",
+			"Artsiom91"
 		]
 	},
-	"vector-skin-desc": "Сучасная версія вокладкі Манабук, з абноўленым відам і шматлікімі зручнымі паляпшэннямі",
-	"vector-action-addsection": "Дадаць тэму",
-	"vector-action-delete": "Сцерці",
-	"vector-action-move": "Перанесці",
-	"vector-action-protect": "Ахова",
-	"vector-action-undelete": "Аднавіць",
-	"vector-action-unprotect": "Змяніць ахову",
-	"vector-view-create": "Стварыць",
-	"vector-view-edit": "Правіць",
-	"vector-view-history": "Паказаць гісторыю",
-	"vector-view-view": "Чытаць",
-	"vector-view-viewsource": "Паказаць зыходны тэкст",
-	"vector-more-actions": "Яшчэ"
+	"valkyrie-skin-desc": "Сучасная версія вокладкі Манабук, з абноўленым відам і шматлікімі зручнымі паляпшэннямі",
+	"valkyrie-action-addsection": "Дадаць тэму",
+	"valkyrie-action-delete": "Выдаліць",
+	"valkyrie-action-move": "Перанесці",
+	"valkyrie-action-protect": "Ахова",
+	"valkyrie-action-undelete": "Аднавіць",
+	"valkyrie-action-unprotect": "Змяніць ахову",
+	"valkyrie-view-create": "Стварыць",
+	"valkyrie-view-edit": "Правіць",
+	"valkyrie-view-history": "Паказаць гісторыю",
+	"valkyrie-view-view": "Чытаць",
+	"valkyrie-view-viewsource": "Паказаць зыходны тэкст",
+	"valkyrie-more-actions": "Яшчэ"
 }

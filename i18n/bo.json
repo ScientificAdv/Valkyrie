@@ -2,18 +2,20 @@
 	"@metadata": {
 		"authors": [
 			"Freeyak",
-			"Phurbutsering"
+			"Phurbutsering",
+			"ཁ་བཏགས་ནག་པོ"
 		]
 	},
-	"vector-action-addsection": "བརྗོད་གཞི་ཁ་སྣོན།",
-	"vector-action-delete": "སུབས།",
-	"vector-action-move": "སྤོར་བ།",
-	"vector-action-protect": "འགོག་སྲུང།",
-	"vector-action-undelete": "མི་བསུབས་",
-	"vector-action-unprotect": "སྲུང་སྐྱོབ་གློད་པ།",
-	"vector-view-create": "གསར་བཟོ།",
-	"vector-view-edit": "རྩོམ་སྒྲིག",
-	"vector-view-history": "ལོ་རྒྱུས་ལ་ལྟ་བ།",
-	"vector-view-view": "ཀློག་པ།",
-	"vector-view-viewsource": "ཁུངས་ལ་ལྟ་བ།"
+	"valkyrie-action-addsection": "བརྗོད་གཞི་ཁ་སྣོན།",
+	"valkyrie-action-delete": "སུབས།",
+	"valkyrie-action-move": "སྤོར་བ།",
+	"valkyrie-action-protect": "འགོག་སྲུང།",
+	"valkyrie-action-undelete": "མི་བསུབས་",
+	"valkyrie-action-unprotect": "སྲུང་སྐྱོབ་གློད་པ།",
+	"valkyrie-view-create": "གསར་བཟོ།",
+	"valkyrie-view-edit": "རྩོམ་སྒྲིག",
+	"valkyrie-view-history": "ལོ་རྒྱུས་ལ་ལྟ་བ།",
+	"valkyrie-view-view": "ཀློག་པ།",
+	"valkyrie-view-viewsource": "ཁུངས་ལ་ལྟ་བ།",
+	"valkyrie-more-actions": "དེ་ལས་མང་བ།"
 }

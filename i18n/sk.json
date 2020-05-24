@@ -3,22 +3,26 @@
 		"authors": [
 			"Helix84",
 			"Rudko",
-			"Sudo77(new)"
+			"Sudo77(new)",
+			"KuboF",
+			"Mikulas1",
+			"Robert Važan"
 		]
 	},
-	"skinname-vector": "Vector",
-	"vector.css": "/* Tu umiestnené CSS bude ovplyvňovať používateľov štýlu Vector */",
-	"vector.js": "/* Tu sa nachádzajúci JavaScript sa načíta používateľom vzhľadu Vector */",
-	"vector-action-addsection": "Pridať tému",
-	"vector-action-delete": "Zmazať",
-	"vector-action-move": "Presunúť",
-	"vector-action-protect": "Zamknúť",
-	"vector-action-undelete": "Obnoviť",
-	"vector-action-unprotect": "Zmeniť stav ochrany",
-	"vector-view-create": "Vytvoriť",
-	"vector-view-edit": "Upraviť",
-	"vector-view-history": "Zobraziť históriu",
-	"vector-view-view": "Čítať",
-	"vector-view-viewsource": "Zobraziť zdroj",
-	"vector-more-actions": "Viac"
+	"skinname-valkyrie": "Valkyrie",
+	"valkyrie-skin-desc": "Moderná verzia MonoBooku so sviežim vzhľadom a vylepšenou použiteľnosťou",
+	"valkyrie.css": "/* Tu umiestnené CSS bude ovplyvňovať používateľov štýlu Valkyrie */",
+	"valkyrie.js": "/* Tu sa nachádzajúci JavaScript sa načíta používateľom vzhľadu Valkyrie */",
+	"valkyrie-action-addsection": "Pridať tému",
+	"valkyrie-action-delete": "Zmazať",
+	"valkyrie-action-move": "Presunúť",
+	"valkyrie-action-protect": "Zamknúť",
+	"valkyrie-action-undelete": "Obnoviť",
+	"valkyrie-action-unprotect": "Zmeniť stav ochrany",
+	"valkyrie-view-create": "Vytvoriť",
+	"valkyrie-view-edit": "Upraviť",
+	"valkyrie-view-history": "Zobraziť históriu",
+	"valkyrie-view-view": "Čítať",
+	"valkyrie-view-viewsource": "Zobraziť kód",
+	"valkyrie-more-actions": "Viac"
 }

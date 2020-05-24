@@ -1,4 +1,13 @@
 {
-	"@metadata": [],
-	"vector-view-edit": "Tshintsha"
+	"@metadata": {
+		"authors": [
+			"Nomden"
+		]
+	},
+	"valkyrie-action-addsection": "Faka isihloko",
+	"valkyrie-action-move": "Susa",
+	"valkyrie-view-edit": "Tshintsha",
+	"valkyrie-view-history": "Khawujonge imbali yeli phepha",
+	"valkyrie-view-view": "Funda",
+	"valkyrie-more-actions": "Veza ezinye iinkcukacha"
 }

@@ -2,18 +2,21 @@
 	"@metadata": {
 		"authors": [
 			"Bachounda",
-			"Oldstoneage"
+			"Oldstoneage",
+			"GeekEmad"
 		]
 	},
-	"vector-action-addsection": "زيد موضوع",
-	"vector-action-delete": "امحي",
-	"vector-action-move": "حول",
-	"vector-action-protect": "بروجي",
-	"vector-action-undelete": "ردّ كيما كان",
-	"vector-action-unprotect": "بدّل الـحماية",
-	"vector-view-create": "أصنع",
-	"vector-view-edit": "بدل",
-	"vector-view-history": "روح للتاريخي",
-	"vector-view-view": "أقرى",
-	"vector-view-viewsource": "شوف المصدر"
+	"valkyrie-skin-desc": "طبعة جديدة تاع مونوبوك، ب شبحة جديدة و تحسانات فل إستعماليّة",
+	"valkyrie-action-addsection": "زيد موضوع",
+	"valkyrie-action-delete": "امحي",
+	"valkyrie-action-move": "حول",
+	"valkyrie-action-protect": "بروجي",
+	"valkyrie-action-undelete": "ردّ كيما كان",
+	"valkyrie-action-unprotect": "بدّل الـحماية",
+	"valkyrie-view-create": "أصنع",
+	"valkyrie-view-edit": "بدّل",
+	"valkyrie-view-history": "شوف التاريخ",
+	"valkyrie-view-view": "اقرى",
+	"valkyrie-view-viewsource": "شوف المصدر",
+	"valkyrie-more-actions": "اكثر"
 }

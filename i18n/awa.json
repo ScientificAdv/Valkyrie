@@ -1,0 +1,19 @@
+{
+	"@metadata": {
+		"authors": [
+			"1AnuraagPandey"
+		]
+	},
+	"valkyrie-action-addsection": "शिर्षक जोडा जाय",
+	"valkyrie-action-delete": "मेटावा जाय",
+	"valkyrie-action-move": "घुस्कावा जाय",
+	"valkyrie-action-protect": "सुरक्षित करा जाय",
+	"valkyrie-action-undelete": "हटाइब वापस लिहा जाय",
+	"valkyrie-action-unprotect": "सुरक्षा परिवर्तन करा जाय",
+	"valkyrie-view-create": "बनावा जाय",
+	"valkyrie-view-edit": "सम्पादन",
+	"valkyrie-view-history": "इतिहास देखा जाय",
+	"valkyrie-view-view": "पढा जाय",
+	"valkyrie-view-viewsource": "स्रोत देखा जाय",
+	"valkyrie-more-actions": "अउर"
+}

@@ -5,18 +5,19 @@
 			"Sky Harbor"
 		]
 	},
-	"skinname-vector": "Vector",
-	"vector.css": "/* Ang inilagay na CSS dito ay makakaapekto sa mga tagagamit ng pabalat na Vector */",
-	"vector.js": "/* Ang anumang JavaScript dito ay ikakarga para sa mga tagagamit na gumagamit ng pabalat na Vector */",
-	"vector-action-addsection": "Magdagdag ng paksa",
-	"vector-action-delete": "Burahin",
-	"vector-action-move": "Ilipat",
-	"vector-action-protect": "Ipagsanggalang",
-	"vector-action-undelete": "Alisin ang pagbubura",
-	"vector-action-unprotect": "Baguhin ang pagsasanggalang",
-	"vector-view-create": "Likhain",
-	"vector-view-edit": "Baguhin",
-	"vector-view-history": "Tingnan ang kasaysayan",
-	"vector-view-view": "Basahin",
-	"vector-view-viewsource": "Tingnan ang pinagmulan"
+	"skinname-valkyrie": "Valkyrie",
+	"valkyrie.css": "/* Ang inilagay na CSS dito ay makakaapekto sa mga tagagamit ng pabalat na Valkyrie */",
+	"valkyrie.js": "/* Ang anumang JavaScript dito ay ikakarga para sa mga tagagamit na gumagamit ng pabalat na Valkyrie */",
+	"valkyrie-action-addsection": "Magdagdag ng paksa",
+	"valkyrie-action-delete": "Burahin",
+	"valkyrie-action-move": "Ilipat",
+	"valkyrie-action-protect": "Ipagsanggalang",
+	"valkyrie-action-undelete": "Alisin ang pagbubura",
+	"valkyrie-action-unprotect": "Baguhin ang pagsasanggalang",
+	"valkyrie-view-create": "Likhain",
+	"valkyrie-view-edit": "Baguhin",
+	"valkyrie-view-history": "Tingnan ang kasaysayan",
+	"valkyrie-view-view": "Basahin",
+	"valkyrie-view-viewsource": "Tingnan ang pinagmulan",
+	"valkyrie-more-actions": "Higit pa"
 }

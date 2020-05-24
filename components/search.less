@@ -1,112 +1,130 @@
+@import 'mediawiki.mixins';
+@import 'mediawiki.ui/variables';
+
 /* Search */
 #p-search {
-    /* @noflip */
     float: left;
     margin-right: 0.5em;
     margin-left: 0.5em;
 
     h3 {
-        display: none;
+        .mixin-screen-reader-text;
     }
 
-    form,
-    input {
-        margin: 0;
-        margin-top: 0.4em;
+    form {
+        margin: 0.5em 0 0;
     }
 }
 
-div#simpleSearch {
+#simpleSearch {
     display: block;
-    width: 12.6em;
-    padding-right: 1.4em;
+    width: 13.2em;
+    width: 20vw;
+    /* responsive width */
+    min-width: 5em;
+    max-width: 20em;
     height: 2.2em;
+    margin-top: 0;
     position: relative;
     min-height: 1px;
     /* Gotta trigger hasLayout for IE7 */
-    // border: solid 1px #aaa;
+
     color: white;
     background-color: rgba(255, 255, 255, 0.8);
-    border: 2px #444 solid;
-    // .background-image('images/search-fade.png');
-    background-position: top left;
-    background-repeat: repeat-x;
-    box-sizing: border-box;
+	border: 2px #444 solid;
+	box-sizing: border-box;
 
-
-    // Styles for both the search input and the button
+    // Styles for both the search input and the button.
     input {
+        // Support IE6-8: Fallback for browsers, which don't support `rgba()`.
+        // background-color: @background-color-base;
+        // background-color: rgba(0, 0, 0, 0);
+        // color: @color-base--emphasized;
         margin: 0;
-        padding: 0;
+        // padding: 0;
         border: 0;
         background-color: transparent;
         color: #222;
     }
+}
 
-    // The search input
-    #searchInput {
-        width: 100%;
-        padding: .85em 0 0.2em 0.5em;
-        font-size: 13px;
-        direction: ltr;
-        box-sizing: border-box;
+// The search input.
 
-        &:focus {
-            outline: none;
-        }
+#searchInput {
+    width: 100%;
+    .box-sizing(border-box);
+    border: @border-width-base @border-style-base @colorGray10;
+    border-radius: @borderRadius;
+    // `padding-right` equals to `#searchbutton` width below.
+    padding: 0.7em @width-search-button 0.4em 0.5em;
+    .box-shadow(@boxShadowWidget );
+    font-size: @font-size-search-input;
+    direction: ltr;
+    .transition(~'border-color 250ms, box-shadow 250ms');
+    // Support: Webkit browsers. Undo the proprietary styles applied to `type=search` fields,
+    // we provide our own.
+    -webkit-appearance: textfield;
 
-        // These rules MAY NOT be merged because of how CSS requires browsers
-        // to parse unrecognized selectors!
-        // Note these rules ensure that placeholder text can be distinguished from
-        // standard text. In browsers which make this distinction clear these rules
-        // are not necessary.
-        // For inputs that use jquery.placeholder.js e.g. IE9-
-        &.placeholder,
-        &::placeholder,
-        &:-ms-input-placeholder,
-        &:-moz-placeholder {
+    #simpleSearch:hover & {
+        border-color: @colorGray7;
+    }
+
+    &:focus,
+    #simpleSearch:hover &:focus {
+        outline: 0;
+        border-color: @colorProgressive;
+        .box-shadow(@boxShadowProgressiveFocus );
+    }
+
+    .mixin-placeholder( {
             color: #2f2f2f;
+
+            // color: @colorGray7;
+            opacity: 1;
         }
 
+    );
 
-        // Undo the styles Webkit browsers apply to type=search fields,
-        // we provide our own
+    &::-webkit-search-decoration,
+    &::-webkit-search-cancel-button,
+    &::-webkit-search-results-button,
+    &::-webkit-search-results-decoration {
         -webkit-appearance: textfield;
-
-        &::-webkit-search-decoration,
-        &::-webkit-search-cancel-button,
-        &::-webkit-search-results-button,
-        &::-webkit-search-results-decoration {
-            -webkit-appearance: textfield;
-        }
-
     }
+}
 
-    // The buttons. They are displayed in the same position, and if both are
-    // present the fulltext search one obscures the 'Go' one.
-    #searchButton,
-    #mw-searchButton {
-        position: absolute;
-        top: 2px;
-        right: 5px;
-        width: 1.65em;
-        height: 100%;
-        cursor: pointer;
-        /* Hide button text and replace it with the image. */
-        text-indent: -99999px;
-        /* Needed to make IE6 respect the text-indent. */
-        line-height: 1;
-        /* Opera 12 on RTL flips the text in a funny way without this. */
-        /* @noflip */
-        direction: ltr;
-        white-space: nowrap;
-        overflow: hidden;
-        .background-image-svg('images/search-ltr.svg', 'images/search-ltr.png');
-        background-position: center center;
-        background-repeat: no-repeat;
-    }
+// The buttons. They are displayed in the same position, and if both are
+// present the fulltext search one obscures the 'Go' one.
+#searchButton,
+#mw-searchButton {
+    position: absolute;
+    top: @border-width-base;
+    bottom: @border-width-base;
+    // `@border-width-base * 2` is in regards to harmonize position start and end.
+    right: @border-width-base;
+    min-width: 24px;
+    width: @width-search-button;
+    border: 0;
+    padding: 0;
+    cursor: pointer;
+    // Equal `font-size` to search input for `padding` calculationo.
+    font-size: @font-size-search-input;
+    /* Opera 12 on RTL flips the text in a funny way without this. */
+    /* @noflip */
+    direction: ltr;
+    /* Hide button text and replace it with the image. */
+    text-indent: -99999px;
+    white-space: nowrap;
+    overflow: hidden;
+    z-index: 1;
+}
 
-    #mw-searchButton {
-        z-index: 1;
-    }
+#searchButton {
+    .background-image-svg('images/search.svg', 'images/search.png');
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+
+#mw-searchButton {
+    z-index: 1;
 }

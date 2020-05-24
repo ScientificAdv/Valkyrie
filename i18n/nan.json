@@ -1,19 +1,21 @@
 {
 	"@metadata": {
 		"authors": [
-			"Ianbu"
+			"Ianbu",
+			"唐吉訶德的侍從",
+			"Luuva"
 		]
 	},
-	"vector-action-addsection": "Ke chi̍t-ê toān-lo̍h",
-	"vector-action-delete": "Thâi",
-	"vector-action-move": "Sóa khì",
-	"vector-action-protect": "Pó-hō·",
-	"vector-action-undelete": "chhú-siau thâi tiàu",
-	"vector-action-unprotect": "kái pó-hō·",
-	"vector-view-create": "Khai-sí siá",
-	"vector-view-edit": "Siu-kái",
-	"vector-view-history": "khoàⁿ le̍k-sú",
-	"vector-view-view": "Tha̍k",
-	"vector-view-viewsource": "Khoàⁿ goân-sú lōe-iông",
-	"vector-more-actions": "閣看"
+	"valkyrie-action-addsection": "Ke chi̍t-ê toān-lo̍h",
+	"valkyrie-action-delete": "Thâi",
+	"valkyrie-action-move": "Sóa khì",
+	"valkyrie-action-protect": "Pó-hō͘",
+	"valkyrie-action-undelete": "chhú-siau thâi tiàu",
+	"valkyrie-action-unprotect": "kái pó-hō·",
+	"valkyrie-view-create": "Khai-sí siá",
+	"valkyrie-view-edit": "Siu-kái",
+	"valkyrie-view-history": "khoàⁿ le̍k-sú",
+	"valkyrie-view-view": "Tha̍k",
+	"valkyrie-view-viewsource": "Khoàⁿ goân-sú lōe-iông",
+	"valkyrie-more-actions": "Koh khoàⁿ"
 }

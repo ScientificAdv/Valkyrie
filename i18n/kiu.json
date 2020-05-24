@@ -1,18 +1,24 @@
 {
 	"@metadata": {
 		"authors": [
-			"Mirzali"
+			"Mirzali",
+			"Kumkumuk",
+			"1917 Ekim Devrimi"
 		]
 	},
-	"vector-action-addsection": "Mewzu ilawe ke",
-	"vector-action-delete": "Bestere",
-	"vector-action-move": "Bere",
-	"vector-action-protect": "Bısevekne",
-	"vector-action-undelete": "Esterıtene peyser bıcê",
-	"vector-action-unprotect": "Rake",
-	"vector-view-create": "Vıraze",
-	"vector-view-edit": "Bıvurne",
-	"vector-view-history": "Tarixi basne",
-	"vector-view-view": "Bıwane",
-	"vector-view-viewsource": "Çımey bıvêne"
+	"valkyrie-skin-desc": "Asayışo de newe be versiyonê MonoBookiyo modern ra û weşkerdışê ke şenê bıgureniyê",
+	"valkyrie-action-addsection": "Mewzu ilawe ke",
+	"valkyrie-action-delete": "Bestere",
+	"valkyrie-action-move": "Bere",
+	"valkyrie-action-protect": "Bısevekne",
+	"valkyrie-action-undelete": "Esterıtene peyser bıcê",
+	"valkyrie-action-unprotect": "Şeveknayışi bıvurne",
+	"valkyrie-view-create": "Vıraze",
+	"valkyrie-view-edit": "Bıvurne",
+	"valkyrie-view-history": "Tarixi bıvêne",
+	"valkyrie-view-view": "Bıwane",
+	"valkyrie-view-viewsource": "Çımey bıvêne",
+	"valkyrie-jumptonavigation": "Xıl de be pusula",
+	"valkyrie-jumptosearch": "Xıl de cıgeyrayışi",
+	"valkyrie-more-actions": "Zêde"
 }

@@ -2,23 +2,26 @@
 	"@metadata": {
 		"authors": [
 			"Amire80",
-			"Rotemliss"
+			"Rotemliss",
+			"Guycn2"
 		]
 	},
-	"skinname-vector": "וקטור",
-	"vector-skin-desc": "גרסה מודרנית של מונובוק עם מראה רענן והרבה שיפורי שמישות",
-	"vector.css": "/* הסגנונות הנכתבים כאן ישפיעו על העיצוב Vector בלבד */",
-	"vector.js": "/* כל סקריפט JavaScript שנכתב כאן ירוץ רק עבור המשתמשים בעיצוב Vector */",
-	"vector-action-addsection": "הוספת נושא",
-	"vector-action-delete": "מחיקה",
-	"vector-action-move": "העברה",
-	"vector-action-protect": "הגנה",
-	"vector-action-undelete": "ביטול מחיקה",
-	"vector-action-unprotect": "שינוי הגנה",
-	"vector-view-create": "יצירה",
-	"vector-view-edit": "עריכה",
-	"vector-view-history": "הצגת היסטוריה",
-	"vector-view-view": "קריאה",
-	"vector-view-viewsource": "הצגת מקור",
-	"vector-more-actions": "עוד"
+	"skinname-valkyrie": "וקטור",
+	"valkyrie-skin-desc": "גרסה מודרנית של העיצוב \"מונובוק\" עם מראה רענן ושיפורי שמישות רבים",
+	"valkyrie.css": "/* הסגנונות הנכתבים כאן ישפיעו על העיצוב \"וקטור\" בלבד */",
+	"valkyrie.js": "/* כל הסקריפטים הנכתבים כאן ייטענו עבור מי שמשתמש בעיצוב \"וקטור\" בלבד */",
+	"valkyrie-action-addsection": "פסקה חדשה",
+	"valkyrie-action-delete": "מחיקה",
+	"valkyrie-action-move": "העברה",
+	"valkyrie-action-protect": "הגנה",
+	"valkyrie-action-undelete": "שחזור",
+	"valkyrie-action-unprotect": "שינוי הגנה",
+	"valkyrie-view-create": "יצירה",
+	"valkyrie-view-edit": "עריכה",
+	"valkyrie-view-history": "גרסאות קודמות",
+	"valkyrie-view-view": "קריאה",
+	"valkyrie-view-viewsource": "הצגת מקור",
+	"valkyrie-jumptonavigation": "קפיצה לניווט",
+	"valkyrie-jumptosearch": "קפיצה לחיפוש",
+	"valkyrie-more-actions": "עוד"
 }

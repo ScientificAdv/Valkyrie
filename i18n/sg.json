@@ -4,15 +4,15 @@
 			"Mdkidiri"
 		]
 	},
-	"vector-action-addsection": "Zîa mbênî lilö daä",
-	"vector-action-delete": "Lungûla",
-	"vector-action-move": "Sanzêe ïrï",
-	"vector-action-protect": "Funga",
-	"vector-action-undelete": "Kîri na nî",
-	"vector-action-unprotect": "Sanzêe fungä",
-	"vector-view-create": "Seka",
-	"vector-view-edit": "Sepe",
-	"vector-view-history": "Tanda mbai nî",
-	"vector-view-view": "Dîko",
-	"vector-view-viewsource": "Fa ligbî nî"
+	"valkyrie-action-addsection": "Zîa mbênî lilö daä",
+	"valkyrie-action-delete": "Lungûla",
+	"valkyrie-action-move": "Sanzêe ïrï",
+	"valkyrie-action-protect": "Funga",
+	"valkyrie-action-undelete": "Kîri na nî",
+	"valkyrie-action-unprotect": "Sanzêe fungä",
+	"valkyrie-view-create": "Seka",
+	"valkyrie-view-edit": "Sepe",
+	"valkyrie-view-history": "Tanda mbai nî",
+	"valkyrie-view-view": "Dîko",
+	"valkyrie-view-viewsource": "Fa ligbî nî"
 }

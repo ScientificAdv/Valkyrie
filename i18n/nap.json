@@ -2,18 +2,22 @@
 	"@metadata": {
 		"authors": [
 			"Chelin",
-			"C.R."
+			"C.R.",
+			"Ruthven",
+			"Sannita"
 		]
 	},
-	"vector-action-addsection": "Aggiunge chiacchierata",
-	"vector-action-delete": "Scancèlla",
-	"vector-action-move": "Spusta",
-	"vector-action-protect": "Prutegge",
-	"vector-action-undelete": "Arrepiglia",
-	"vector-action-unprotect": "Càgna prutezzione",
-	"vector-view-create": "Cria",
-	"vector-view-edit": "Càgna",
-	"vector-view-history": "Vere cronologgia",
-	"vector-view-view": "Liegge",
-	"vector-view-viewsource": "Vere sorgente"
+	"valkyrie-skin-desc": "Verziona muderna 'e MonoBook cu n'aspetto nuovo nuovo e tante migliuramente d'uso",
+	"valkyrie-action-addsection": "Aggiunge chiacchierata",
+	"valkyrie-action-delete": "Scancèlla",
+	"valkyrie-action-move": "Mòve",
+	"valkyrie-action-protect": "Prutegge",
+	"valkyrie-action-undelete": "Arrepiglia",
+	"valkyrie-action-unprotect": "Càgna prutezzione",
+	"valkyrie-view-create": "Crèa",
+	"valkyrie-view-edit": "Cagna",
+	"valkyrie-view-history": "Vide 'a cronologgia",
+	"valkyrie-view-view": "Liegge",
+	"valkyrie-view-viewsource": "Vire sorgente",
+	"valkyrie-more-actions": "Cchiù"
 }

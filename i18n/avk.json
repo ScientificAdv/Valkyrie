@@ -1,16 +1,18 @@
 {
 	"@metadata": {
 		"authors": [
-			"Wikimistusik"
+			"Wikimistusik",
+			"Axel xadolik"
 		]
 	},
-	"vector-action-addsection": "Loplekura va detce",
-	"vector-action-delete": "Sulara",
-	"vector-action-move": "Arrundara",
-	"vector-action-protect": "Nendara",
-	"vector-view-create": "Redura",
-	"vector-view-edit": "Betara",
-	"vector-view-history": "Wira va izvot",
-	"vector-view-view": "Belira",
-	"vector-view-viewsource": "klitawira"
+	"valkyrie-action-addsection": "Loplekura va detce",
+	"valkyrie-action-delete": "Sulara",
+	"valkyrie-action-move": "Arrundara",
+	"valkyrie-action-protect": "Nendara",
+	"valkyrie-view-create": "Redura",
+	"valkyrie-view-edit": "Betara",
+	"valkyrie-view-history": "Wira va izvot",
+	"valkyrie-view-view": "Belira",
+	"valkyrie-view-viewsource": "klitawira",
+	"valkyrie-more-actions": "Loon"
 }

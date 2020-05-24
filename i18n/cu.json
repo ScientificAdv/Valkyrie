@@ -4,15 +4,15 @@
 			"ОйЛ"
 		]
 	},
-	"vector-action-addsection": "новꙑ бєсѣдꙑ чѧсти сътворѥниѥ",
-	"vector-action-delete": "поничьжєниѥ",
-	"vector-action-move": "прѣимєнованиѥ",
-	"vector-action-protect": "ꙁабранѥниѥ",
-	"vector-action-unprotect": "иꙁмѣни ꙁабранѥниꙗ обраꙁъ",
-	"vector-view-create": "сътворѥниѥ",
-	"vector-view-edit": "исправи",
-	"vector-view-history": "їсторїꙗ",
-	"vector-view-view": "чьтѥниѥ",
-	"vector-view-viewsource": "страницѧ источьнъ обраꙁъ",
-	"vector-more-actions": "вѧщє"
+	"valkyrie-action-addsection": "новꙑ бєсѣдꙑ чѧсти сътворѥниѥ",
+	"valkyrie-action-delete": "поничьжєниѥ",
+	"valkyrie-action-move": "прѣимєнованиѥ",
+	"valkyrie-action-protect": "ꙁабранѥниѥ",
+	"valkyrie-action-unprotect": "иꙁмѣни ꙁабранѥниꙗ обраꙁъ",
+	"valkyrie-view-create": "сътворѥниѥ",
+	"valkyrie-view-edit": "исправлѥниѥ",
+	"valkyrie-view-history": "їсторїꙗ",
+	"valkyrie-view-view": "чьтѥниѥ",
+	"valkyrie-view-viewsource": "страницѧ источьнъ обраꙁъ",
+	"valkyrie-more-actions": "вѧщє"
 }

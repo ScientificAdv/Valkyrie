@@ -4,15 +4,16 @@
 			"Võrok"
 		]
 	},
-	"vector-action-addsection": "Vahtsõ teema ülespandminõ",
-	"vector-action-delete": "Kistudaq ärq",
-	"vector-action-move": "Nõstaq ümbre",
-	"vector-action-protect": "Kaidsaq",
-	"vector-action-undelete": "Tiiq tagasi",
-	"vector-action-unprotect": "Muudaq kaidsõt",
-	"vector-view-create": "Luuq",
-	"vector-view-edit": "Toimõndaq",
-	"vector-view-history": "Näütäq aoluku",
-	"vector-view-view": "Loeq",
-	"vector-view-viewsource": "Kaeq lätteteksti"
+	"valkyrie-action-addsection": "Vahtsõ teema ülespandminõ",
+	"valkyrie-action-delete": "Kistudaq ärq",
+	"valkyrie-action-move": "Nõstaq ümbre",
+	"valkyrie-action-protect": "Kaidsaq",
+	"valkyrie-action-undelete": "Tiiq tagasi",
+	"valkyrie-action-unprotect": "Muudaq kaidsõt",
+	"valkyrie-view-create": "Luuq",
+	"valkyrie-view-edit": "Toimõndaq",
+	"valkyrie-view-history": "Näütäq aoluku",
+	"valkyrie-view-view": "Loeq",
+	"valkyrie-view-viewsource": "Kaeq lätteteksti",
+	"valkyrie-more-actions": "Viil"
 }

@@ -5,16 +5,16 @@
 			"Papuass"
 		]
 	},
-	"vector-action-addsection": "Jauna sadaļa",
-	"vector-action-delete": "Dzēst",
-	"vector-action-move": "Pārvietot",
-	"vector-action-protect": "Aizsargāt",
-	"vector-action-undelete": "Atjaunot",
-	"vector-action-unprotect": "Mainīt aizsardzību",
-	"vector-view-create": "Izveidot",
-	"vector-view-edit": "Labot",
-	"vector-view-history": "Hronoloģija",
-	"vector-view-view": "Skatīt",
-	"vector-view-viewsource": "Aplūkot kodu",
-	"vector-more-actions": "Vairāk"
+	"valkyrie-action-addsection": "Jauna sadaļa",
+	"valkyrie-action-delete": "Dzēst",
+	"valkyrie-action-move": "Pārvietot",
+	"valkyrie-action-protect": "Aizsargāt",
+	"valkyrie-action-undelete": "Atjaunot",
+	"valkyrie-action-unprotect": "Mainīt aizsardzību",
+	"valkyrie-view-create": "Izveidot",
+	"valkyrie-view-edit": "Labot",
+	"valkyrie-view-history": "Hronoloģija",
+	"valkyrie-view-view": "Skatīt",
+	"valkyrie-view-viewsource": "Aplūkot kodu",
+	"valkyrie-more-actions": "Vairāk"
 }

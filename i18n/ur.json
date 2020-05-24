@@ -5,19 +5,25 @@
 			"Istabani",
 			"Noor2020",
 			"Tahir mq",
-			"محبوب عالم"
+			"محبوب عالم",
+			"عثمان خان شاہ",
+			"عرفان ارشد",
+			"Obaid Raza",
+			"Muhammad Shuaib"
 		]
 	},
-	"vector-action-addsection": "نیا موضوع",
-	"vector-action-delete": "حذف کرو",
-	"vector-action-move": "منتقل کرو",
-	"vector-action-protect": "محفوظ کرو",
-	"vector-action-undelete": "بحال",
-	"vector-action-unprotect": "تحفظ میں تبدیلی",
-	"vector-view-create": "تخلیق",
-	"vector-view-edit": "ترمیم",
-	"vector-view-history": "تاریخ",
-	"vector-view-view": "مطالعہ",
-	"vector-view-viewsource": "مسودہ",
-	"vector-more-actions": "زیادہ"
+	"skinname-valkyrie": "ویکٹر",
+	"valkyrie-skin-desc": "مونوبک کا جدید نسخہ (ورژن) مع شائستہ صورت اور کئی افادیت میں بہتریاں",
+	"valkyrie-action-addsection": "نیا موضوع",
+	"valkyrie-action-delete": "حذف کریں",
+	"valkyrie-action-move": "منتقل کریں",
+	"valkyrie-action-protect": "محفوظ کریں",
+	"valkyrie-action-undelete": "بحال کریں",
+	"valkyrie-action-unprotect": "حفاظت میں تبدیلی",
+	"valkyrie-view-create": "تخلیق کریں",
+	"valkyrie-view-edit": "ترمیم",
+	"valkyrie-view-history": "تاریخچہ",
+	"valkyrie-view-view": "مطالعہ",
+	"valkyrie-view-viewsource": "مسودہ دیکھیے",
+	"valkyrie-more-actions": "مزید"
 }

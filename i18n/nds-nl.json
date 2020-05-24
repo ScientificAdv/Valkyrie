@@ -4,16 +4,19 @@
 			"Servien"
 		]
 	},
-	"vector-action-addsection": "Niej onderwarp",
-	"vector-action-delete": "Vortdoon",
-	"vector-action-move": "Herneumen",
-	"vector-action-protect": "Beveiligen",
-	"vector-action-undelete": "Weerummeplaotsen",
-	"vector-action-unprotect": "Beveiliging wiezigen",
-	"vector-view-create": "Anmaken",
-	"vector-view-edit": "Bewarken",
-	"vector-view-history": "Geschiedenisse bekieken",
-	"vector-view-view": "Lezen",
-	"vector-view-viewsource": "Brontekste bekieken",
-	"vector-more-actions": "Meer"
+	"valkyrie-skin-desc": "Moderne versy van MonoBook mid een fris uterlik en verbeateringen up et gebeed van gebruuksvrendelikheid",
+	"valkyrie-action-addsection": "Ny underwarp",
+	"valkyrie-action-delete": "Vordsmyten",
+	"valkyrie-action-move": "Hernömen",
+	"valkyrie-action-protect": "Beveiligen",
+	"valkyrie-action-undelete": "Weaderümmeplaatsen",
+	"valkyrie-action-unprotect": "Beveiliging wysigen",
+	"valkyrie-view-create": "Upstellen",
+	"valkyrie-view-edit": "Bewarken",
+	"valkyrie-view-history": "Geskydenisse bekyken",
+	"valkyrie-view-view": "Leasen",
+	"valkyrie-view-viewsource": "Brontekste bekyken",
+	"valkyrie-jumptonavigation": "Nå navigaty springen",
+	"valkyrie-jumptosearch": "Nå söken springen",
+	"valkyrie-more-actions": "Meyr"
 }

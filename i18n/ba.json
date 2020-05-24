@@ -2,19 +2,23 @@
 	"@metadata": {
 		"authors": [
 			"Assele",
-			"Haqmar"
+			"Haqmar",
+			"Рустам Нурыев",
+			"Sagan"
 		]
 	},
-	"skinname-vector": "Векторлы",
-	"vector-action-addsection": "Тема өҫтәргә",
-	"vector-action-delete": "Юйырға",
-	"vector-action-move": "Исемен үҙгәртергә",
-	"vector-action-protect": "Һаҡларға",
-	"vector-action-undelete": "Тергеҙергә",
-	"vector-action-unprotect": "Һаҡлауҙы үҙгәртергә",
-	"vector-view-create": "Яһау",
-	"vector-view-edit": "Үҙгәртергә",
-	"vector-view-history": "Тарихты ҡарау",
-	"vector-view-view": "Уҡыу",
-	"vector-view-viewsource": "Сығанаҡты ҡарарға"
+	"skinname-valkyrie": "Векторлы",
+	"valkyrie-skin-desc": "Хәҙерге заман  «Векторлы» күренеше, биҙәлеш яүыртылған һәм яңы мөмкинлектәр файҙаланылған",
+	"valkyrie-action-addsection": "Тема өҫтәргә",
+	"valkyrie-action-delete": "Юйырға",
+	"valkyrie-action-move": "Исемен үҙгәртергә",
+	"valkyrie-action-protect": "Һаҡларға",
+	"valkyrie-action-undelete": "Тергеҙергә",
+	"valkyrie-action-unprotect": "Һаҡлауҙы үҙгәртергә",
+	"valkyrie-view-create": "Яһау",
+	"valkyrie-view-edit": "Үҙгәртергә",
+	"valkyrie-view-history": "Тарихты ҡарау",
+	"valkyrie-view-view": "Уҡыу",
+	"valkyrie-view-viewsource": "Сығанаҡты ҡарарға",
+	"valkyrie-more-actions": "Тағы"
 }

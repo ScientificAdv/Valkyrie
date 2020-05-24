@@ -4,17 +4,17 @@
 			"Bresta"
 		]
 	},
-	"vector.css": "/* CSSi i vednosun këtu ka me i prekë shfrytëzuesit e dukjes Vector */",
-	"vector.js": "/* Çdo JavaScript këtu ka me u ngarkue për shfrytëzuesit që përdorin dukjen Vector */",
-	"vector-action-addsection": "Shto temë",
-	"vector-action-delete": "Fshij",
-	"vector-action-move": "Zhvendos",
-	"vector-action-protect": "Mbroj",
-	"vector-action-undelete": "Kthe fshimjen mbrapsht",
-	"vector-action-unprotect": "Hiq mbrojtjen",
-	"vector-view-create": "Krijo",
-	"vector-view-edit": "Redakto",
-	"vector-view-history": "Shih historinë",
-	"vector-view-view": "Lexo",
-	"vector-view-viewsource": "Shih kodin"
+	"valkyrie.css": "/* CSSi i vednosun këtu ka me i prekë shfrytëzuesit e dukjes Valkyrie */",
+	"valkyrie.js": "/* Çdo JavaScript këtu ka me u ngarkue për shfrytëzuesit që përdorin dukjen Valkyrie */",
+	"valkyrie-action-addsection": "Shto temë",
+	"valkyrie-action-delete": "Fshij",
+	"valkyrie-action-move": "Zhvendos",
+	"valkyrie-action-protect": "Mbroj",
+	"valkyrie-action-undelete": "Kthe fshimjen mbrapsht",
+	"valkyrie-action-unprotect": "Hiq mbrojtjen",
+	"valkyrie-view-create": "Krijo",
+	"valkyrie-view-edit": "Redakto",
+	"valkyrie-view-history": "Shih historinë",
+	"valkyrie-view-view": "Lexo",
+	"valkyrie-view-viewsource": "Shih kodin"
 }

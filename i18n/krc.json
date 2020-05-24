@@ -2,20 +2,21 @@
 	"@metadata": {
 		"authors": [
 			"Iltever",
-			"Къарачайлы"
+			"Къарачайлы",
+			"Ernác"
 		]
 	},
-	"skinname-vector": "Вектор",
-	"vector-action-addsection": "Джангы тема къош",
-	"vector-action-delete": "Кетер",
-	"vector-action-move": "Атын ауушдур",
-	"vector-action-protect": "Джакъла",
-	"vector-action-undelete": "Къайтар",
-	"vector-action-unprotect": "Джакълауну тюрлендир",
-	"vector-view-create": "Къура",
-	"vector-view-edit": "Тюрлендир",
-	"vector-view-history": "Тарихи",
-	"vector-view-view": "Окъу",
-	"vector-view-viewsource": "Кодха къара",
-	"vector-more-actions": "Энтда"
+	"skinname-valkyrie": "Вектор",
+	"valkyrie-action-addsection": "Джангы тема къош",
+	"valkyrie-action-delete": "Кетер",
+	"valkyrie-action-move": "Атын ауушдур",
+	"valkyrie-action-protect": "Джакъла",
+	"valkyrie-action-undelete": "Къайтар",
+	"valkyrie-action-unprotect": "Джакълауну тюрлендир",
+	"valkyrie-view-create": "Къура",
+	"valkyrie-view-edit": "Тюрлендир",
+	"valkyrie-view-history": "Тарихи",
+	"valkyrie-view-view": "Окъу",
+	"valkyrie-view-viewsource": "Кодха къара",
+	"valkyrie-more-actions": "Энтда"
 }

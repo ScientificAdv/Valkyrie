@@ -1,0 +1,16 @@
+{
+	"@metadata": {
+		"authors": [
+			"Khanmarat"
+		]
+	},
+	"valkyrie-action-addsection": "Тема өстәгәле",
+	"valkyrie-action-delete": "Йуҡ иткәле",
+	"valkyrie-action-move": "Исемне алмаштырғалы",
+	"valkyrie-action-protect": "Йаҡлағалы",
+	"valkyrie-view-create": "Ҡылғалы",
+	"valkyrie-view-edit": "Төсәткәле",
+	"valkyrie-view-history": "Тариҡны ҡарағалы",
+	"valkyrie-view-view": "Уғығалы",
+	"valkyrie-more-actions": "Тағын"
+}

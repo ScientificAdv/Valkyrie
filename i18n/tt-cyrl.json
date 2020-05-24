@@ -4,19 +4,24 @@
 			"Don Alessandro",
 			"Rinatus",
 			"Ильнар",
-			"Рашат Якупов"
+			"Рашат Якупов",
+			"Derslek"
 		]
 	},
-	"skinname-vector": "Сызымлы",
-	"vector-action-addsection": "Яңа тема өстәү",
-	"vector-action-delete": "Бетерү",
-	"vector-action-move": "Күчерү",
-	"vector-action-protect": "Яклау",
-	"vector-action-undelete": "Кайтару",
-	"vector-action-unprotect": "Яклауны үзгәртү",
-	"vector-view-create": "Төзү",
-	"vector-view-edit": "Үзгәртү",
-	"vector-view-history": "Тарихын карау",
-	"vector-view-view": "Уку",
-	"vector-view-viewsource": "Чыганагын карау"
+	"skinname-valkyrie": "Сызымлы",
+	"valkyrie-skin-desc": "Хәзерге заманга туры килгән MonoBook күренеше, яңа бизәлеш һәм яңа мөмкинлекләр",
+	"valkyrie-action-addsection": "Яңа тема өстәү",
+	"valkyrie-action-delete": "Бетерү",
+	"valkyrie-action-move": "Күчерү",
+	"valkyrie-action-protect": "Яклау",
+	"valkyrie-action-undelete": "Кайтару",
+	"valkyrie-action-unprotect": "Яклауны үзгәртү",
+	"valkyrie-view-create": "Төзү",
+	"valkyrie-view-edit": "Үзгәртү",
+	"valkyrie-view-history": "Тарихын карау",
+	"valkyrie-view-view": "Уку",
+	"valkyrie-view-viewsource": "Чыганагын карау",
+	"valkyrie-jumptonavigation": "Навигациягә күчү",
+	"valkyrie-jumptosearch": "Эзләүгә күчү",
+	"valkyrie-more-actions": "Тагын"
 }

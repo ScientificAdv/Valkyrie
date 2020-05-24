@@ -2,18 +2,20 @@
 	"@metadata": {
 		"authors": [
 			"Hazard-SJ",
-			"Yocahuna"
+			"Yocahuna",
+			"Katxis"
 		]
 	},
-	"vector-action-addsection": "Ad tapik",
-	"vector-action-delete": "Diliit",
-	"vector-action-move": "Muuv",
-	"vector-action-protect": "Protek",
-	"vector-action-undelete": "Andiliit",
-	"vector-action-unprotect": "Neu protektian",
-	"vector-view-create": "Kriet",
-	"vector-view-edit": "Hedit",
-	"vector-view-history": "Vyuu ischri",
-	"vector-view-view": "Riid",
-	"vector-view-viewsource": "Vyuu Suos"
+	"valkyrie-action-addsection": "Ad tapik",
+	"valkyrie-action-delete": "Diliit",
+	"valkyrie-action-move": "Muuv",
+	"valkyrie-action-protect": "Protek",
+	"valkyrie-action-undelete": "Andiliit",
+	"valkyrie-action-unprotect": "Neu protektian",
+	"valkyrie-view-create": "Kriet",
+	"valkyrie-view-edit": "Hedit",
+	"valkyrie-view-history": "Vyuu ischri",
+	"valkyrie-view-view": "Riid",
+	"valkyrie-view-viewsource": "Vyuu Suos",
+	"valkyrie-more-actions": "Muo"
 }

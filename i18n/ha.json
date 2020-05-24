@@ -1,7 +1,17 @@
 {
-	"@metadata": [],
-	"vector-action-delete": "Soke",
-	"vector-action-move": "Gusarwa",
-	"vector-action-protect": "A kare",
-	"vector-view-create": "Ƙirƙira"
+	"@metadata": {
+		"authors": [
+			"DonCamillo",
+			"Ammarpad"
+		]
+	},
+	"valkyrie-action-addsection": "Sabon sashe",
+	"valkyrie-action-delete": "Soke",
+	"valkyrie-action-move": "Gusarwa",
+	"valkyrie-action-protect": "A kare",
+	"valkyrie-view-create": "Ƙirƙira",
+	"valkyrie-view-edit": "Gyara",
+	"valkyrie-view-history": "Nuna tarihin",
+	"valkyrie-view-view": "Karanta",
+	"valkyrie-more-actions": "Mafi"
 }

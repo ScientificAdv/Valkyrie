@@ -5,17 +5,18 @@
 			"Cedric31"
 		]
 	},
-	"vector.css": "/* Lo CSS plaçat aicí afectarà los utilizaires de l’abilhatge Vector */",
-	"vector.js": "/* Tot JavaScript aicí serà cargat amb las paginas accedidas pels utilizaires de l’abilhatge Vector unicament. */",
-	"vector-action-addsection": "Apondre un subjècte",
-	"vector-action-delete": "Suprimir",
-	"vector-action-move": "Tornar nomenar",
-	"vector-action-protect": "Protegir",
-	"vector-action-undelete": "Restablir",
-	"vector-action-unprotect": "Suprimir la proteccion",
-	"vector-view-create": "Crear",
-	"vector-view-edit": "Modificar",
-	"vector-view-history": "Veire l'istoric",
-	"vector-view-view": "Legir",
-	"vector-view-viewsource": "Veire la font"
+	"valkyrie.css": "/* Lo CSS plaçat aicí afectarà los utilizaires de l’abilhatge Valkyrie */",
+	"valkyrie.js": "/* Tot JavaScript aicí serà cargat amb las paginas accedidas pels utilizaires de l’abilhatge Valkyrie unicament. */",
+	"valkyrie-action-addsection": "Apondre un subjècte",
+	"valkyrie-action-delete": "Suprimir",
+	"valkyrie-action-move": "Renomenar",
+	"valkyrie-action-protect": "Protegir",
+	"valkyrie-action-undelete": "Restablir",
+	"valkyrie-action-unprotect": "Suprimir la proteccion",
+	"valkyrie-view-create": "Crear",
+	"valkyrie-view-edit": "Modificar",
+	"valkyrie-view-history": "Veire l'istoric",
+	"valkyrie-view-view": "Legir",
+	"valkyrie-view-viewsource": "Veire la font",
+	"valkyrie-more-actions": "Mai"
 }

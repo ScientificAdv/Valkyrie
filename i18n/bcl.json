@@ -2,18 +2,20 @@
 	"@metadata": {
 		"authors": [
 			"Filipinayzd",
-			"Geopoet"
+			"Geopoet",
+			"ShimunUfesoj"
 		]
 	},
-	"vector-action-addsection": "Idagdag an topic",
-	"vector-action-delete": "puráon",
-	"vector-action-move": "Ibalyó",
-	"vector-action-protect": "Protektaran",
-	"vector-action-undelete": "Bawion sa pagkapara",
-	"vector-action-unprotect": "Ribayan an proteksyon",
-	"vector-view-create": "Magmukna",
-	"vector-view-edit": "Liwatón",
-	"vector-view-history": "Tanawon sa historiya",
-	"vector-view-view": "Basáha",
-	"vector-view-viewsource": "Hilingón an ginikánan"
+	"valkyrie-action-addsection": "Magdagdag nin pag-uulayan",
+	"valkyrie-action-delete": "puráon",
+	"valkyrie-action-move": "Ibalyó",
+	"valkyrie-action-protect": "Protektaran",
+	"valkyrie-action-undelete": "Bawion sa pagkapara",
+	"valkyrie-action-unprotect": "Ribayan an proteksyon",
+	"valkyrie-view-create": "Magmukna",
+	"valkyrie-view-edit": "Liwatón",
+	"valkyrie-view-history": "Tanawon sa historiya",
+	"valkyrie-view-view": "Basáhon",
+	"valkyrie-view-viewsource": "Hilingón an ginikánan",
+	"valkyrie-more-actions": "Kadugangan"
 }

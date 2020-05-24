@@ -1,16 +1,19 @@
 {
 	"@metadata": {
 		"authors": [
-			"Andrewboltachev"
+			"Andrewboltachev",
+			"Kaganer",
+			"Wadorgurt"
 		]
 	},
-	"vector-action-addsection": "Выль темаез ватсано",
-	"vector-action-delete": "Быдтоно",
-	"vector-action-move": "Мукет интые выжтыны",
-	"vector-action-protect": "Утьыны",
-	"vector-view-create": "Кылдытоно",
-	"vector-view-edit": "Тупатоно",
-	"vector-view-history": "История",
-	"vector-view-view": "Лыдӟоно",
-	"vector-view-viewsource": "Кодзэ учкыны"
+	"valkyrie-action-addsection": "Выль темаез ватсано",
+	"valkyrie-action-delete": "Быдтоно",
+	"valkyrie-action-move": "Нимзэ воштыны",
+	"valkyrie-action-protect": "Утьыны",
+	"valkyrie-view-create": "Кылдытоно",
+	"valkyrie-view-edit": "Тупатоно",
+	"valkyrie-view-history": "История",
+	"valkyrie-view-view": "Лыдӟоно",
+	"valkyrie-view-viewsource": "Кодзэ учкыны",
+	"valkyrie-more-actions": "Эшшо"
 }

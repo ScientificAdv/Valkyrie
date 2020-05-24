@@ -1,18 +1,21 @@
 {
 	"@metadata": {
 		"authors": [
-			"Mogoeilor"
+			"Mogoeilor",
+			"Beyronvan",
+			"Lorestani"
 		]
 	},
-	"vector-action-addsection": "موضوع اضاف بكيد",
-	"vector-action-delete": "پاکسا کردن",
-	"vector-action-move": "جاوه جا بوئيت",
-	"vector-action-protect": "حمايت بكيد",
-	"vector-action-undelete": "حذف نبيئني",
-	"vector-action-unprotect": "حمايت آلشت بكيد",
-	"vector-view-create": "راس كردن",
-	"vector-view-edit": "ويرايشت",
-	"vector-view-history": "ديئن ويرگار",
-	"vector-view-view": "حنن",
-	"vector-view-viewsource": "سرچشمه نه بوينيت"
+	"valkyrie-action-addsection": "سالفٱ اْزاف بٱکؽت",
+	"valkyrie-action-delete": "پاکسا کردن",
+	"valkyrie-action-move": "جا ڤ جا بۊئیت",
+	"valkyrie-action-protect": "پر ۉ پیم بٱکؽت",
+	"valkyrie-action-undelete": "حذف نبيئني",
+	"valkyrie-action-unprotect": "حمايت آلشت بكيد",
+	"valkyrie-view-create": "دۏرس كردن",
+	"valkyrie-view-edit": "ڤیرایش",
+	"valkyrie-view-history": "دیئن ڤیرگار",
+	"valkyrie-view-view": "ڤٱناْ",
+	"valkyrie-view-viewsource": "سرچشمه نه بوينيت",
+	"valkyrie-more-actions": "بؽشتر"
 }

@@ -1,18 +1,20 @@
 {
 	"@metadata": {
 		"authors": [
-			"Игорь Бродский"
+			"Игорь Бродский",
+			"Sebranik"
 		]
 	},
-	"vector-action-addsection": "Ližada tem",
-	"vector-action-delete": "Čuta poiš",
-	"vector-action-move": "Udesnimitada",
-	"vector-action-protect": "Kaita",
-	"vector-action-undelete": "Pördutada",
-	"vector-action-unprotect": "Toižetada kaičend",
-	"vector-view-create": "Säta",
-	"vector-view-edit": "Redaktiruida",
-	"vector-view-history": "Kacta istorii",
-	"vector-view-view": "Lugeda",
-	"vector-view-viewsource": "Kacta purtkehe"
+	"valkyrie-action-addsection": "Ližada tem",
+	"valkyrie-action-delete": "Čuta poiš",
+	"valkyrie-action-move": "Udesnimitada",
+	"valkyrie-action-protect": "Kaita",
+	"valkyrie-action-undelete": "Pördutada",
+	"valkyrie-action-unprotect": "Toižetada kaičend",
+	"valkyrie-view-create": "Säta",
+	"valkyrie-view-edit": "Redaktiruida",
+	"valkyrie-view-history": "Kacta istorii",
+	"valkyrie-view-view": "Lugeda",
+	"valkyrie-view-viewsource": "Kacta purtkehe",
+	"valkyrie-more-actions": "Völ"
 }

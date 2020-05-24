@@ -3,18 +3,22 @@
 		"authors": [
 			"E THP",
 			"Ebrahimi-amir",
-			"Mousa"
+			"Mousa",
+			"Amir a57",
+			"Alp Er Tunqa",
+			"Ilğım"
 		]
 	},
-	"vector-action-addsection": "قوْنو آرتیر",
-	"vector-action-delete": "سیل",
-	"vector-action-move": "داشی",
-	"vector-action-protect": "قوْرو",
-	"vector-action-undelete": "سیلمگی قایتار",
-	"vector-action-unprotect": "قوْروماغی دَییشدیر",
-	"vector-view-create": "یارات",
-	"vector-view-edit": "دَییشدیر",
-	"vector-view-history": "گئچمیشه باخ",
-	"vector-view-view": "اوْخو",
-	"vector-view-viewsource": "قایناغا باخ"
+	"valkyrie-action-addsection": "مؤوضوع آرتیر",
+	"valkyrie-action-delete": "سیل",
+	"valkyrie-action-move": "داشی",
+	"valkyrie-action-protect": "قوْرو",
+	"valkyrie-action-undelete": "سیلمگی قایتار",
+	"valkyrie-action-unprotect": "قوْروماغی دَییشدیر",
+	"valkyrie-view-create": "یارات",
+	"valkyrie-view-edit": "دَییشدیر",
+	"valkyrie-view-history": "گئچمیشه باخ",
+	"valkyrie-view-view": "اوْخو",
+	"valkyrie-view-viewsource": "قایناغا باخ",
+	"valkyrie-more-actions": "داها"
 }

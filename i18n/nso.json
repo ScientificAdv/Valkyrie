@@ -4,13 +4,13 @@
 			"Mohau"
 		]
 	},
-	"vector-action-addsection": "Lokela sererwa",
-	"vector-action-delete": "Phumula",
-	"vector-action-move": "Huduša",
-	"vector-action-protect": "Lota",
-	"vector-view-create": "Hlola",
-	"vector-view-edit": "Fetola",
-	"vector-view-history": "Laetša histori",
-	"vector-view-view": "Bala",
-	"vector-view-viewsource": "Lebelela mothopo"
+	"valkyrie-action-addsection": "Lokela sererwa",
+	"valkyrie-action-delete": "Phumula",
+	"valkyrie-action-move": "Huduša",
+	"valkyrie-action-protect": "Lota",
+	"valkyrie-view-create": "Hlola",
+	"valkyrie-view-edit": "Fetola",
+	"valkyrie-view-history": "Laetša histori",
+	"valkyrie-view-view": "Bala",
+	"valkyrie-view-viewsource": "Lebelela mothopo"
 }

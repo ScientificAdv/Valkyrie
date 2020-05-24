@@ -4,12 +4,12 @@
 			"Dark Eagle"
 		]
 	},
-	"vector-action-addsection": "Dalikt padaļu",
-	"vector-action-delete": "Iztreit",
-	"vector-action-move": "Puorceļt",
-	"vector-action-protect": "Apsorguot",
-	"vector-action-unprotect": "Puormeit apsardzeibu",
-	"vector-view-edit": "Pataiseit",
-	"vector-view-history": "Viesture",
-	"vector-view-view": "Vērtīs"
+	"valkyrie-action-addsection": "Dalikt padaļu",
+	"valkyrie-action-delete": "Iztreit",
+	"valkyrie-action-move": "Puorceļt",
+	"valkyrie-action-protect": "Apsorguot",
+	"valkyrie-action-unprotect": "Puormeit apsardzeibu",
+	"valkyrie-view-edit": "Pataiseit",
+	"valkyrie-view-history": "Viesture",
+	"valkyrie-view-view": "Vērtīs"
 }
