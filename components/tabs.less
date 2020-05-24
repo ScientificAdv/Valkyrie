@@ -6,210 +6,211 @@
 
 /* Namespaces and Views */
 .valkyrieTabs {
-	// Tab separator: Outer start border (left in LTR) of tab row.
-	background-position: left bottom;
-	float: left;
-	height: 2.5em;
+    // Tab separator: Outer start border (left in LTR) of tab row.
+    background-position: left bottom;
+    float: left;
+    height: 2.5em;
     padding-left: @border-width-base;
     background-color: transparent;
 
-	/* Navigation Labels */
-	h3 {
-		display: none;
-	}
+    /* Navigation Labels */
+    h3 {
+        display: none;
+    }
 
-	ul {
-		float: left;
-		height: 100%;
-		list-style: none none;
-		margin: 0;
+    ul {
+        float: left;
+        height: 100%;
+        list-style: none none;
+        margin: 0;
         padding: 0;
         background-color: transparent;
-	}
+    }
 
-	li {
-		// Tab fade background: Fade inside from light grey to white.
-		// background-image: url( images/tab-normal-fade.png ); // Support: IE 8 & 9, Fx 3.6-15, Safari 5.1-6, Chrome 10-25
-		// background-image: linear-gradient( to top, @border-color-content--tabs-inactive 0, #e8f2f8 1px, #fff 100% ); // Support: Standard (Firefox 16+, IE 10+, Safari 6.1+, Chrome 26+)
-		// background-position: left bottom;
-		// background-repeat: repeat-x;
-		float: left;
-		display: block;
-		height: 100%;
-		margin: 0;
-		padding: 0;
-		line-height: @line-height-nav;
+    li {
+        // Tab fade background: Fade inside from light grey to white.
+        // background-image: url( images/tab-normal-fade.png ); // Support: IE 8 & 9, Fx 3.6-15, Safari 5.1-6, Chrome 10-25
+        // background-image: linear-gradient( to top, @border-color-content--tabs-inactive 0, #e8f2f8 1px, #fff 100% ); // Support: Standard (Firefox 16+, IE 10+, Safari 6.1+, Chrome 26+)
+        // background-position: left bottom;
+        // background-repeat: repeat-x;
+        float: left;
+        display: block;
+        height: 100%;
+        margin: 0;
+        padding: 0;
+        line-height: @line-height-nav;
         white-space: nowrap;
         background-color: transparent;
         border: 2px transparent solid;
 
-		a {
-			color: @color-link;
-			display: block;
-			height: 1.9em;
-			padding-left: 0.615em; // Equals `8px` at computed `font-size` of `13px` below
-			padding-right: 0.615em;
-			cursor: pointer;
-			font-size: @font-size-tabs;
-		}
-	}
+        a {
+            color: @color-link;
+            display: block;
+            height: 1.9em;
+            padding-left: 0.615em; // Equals `8px` at computed `font-size` of `13px` below
+            padding-right: 0.615em;
+            cursor: pointer;
+            font-size: @font-size-tabs;
+        }
+    }
 
-	.new {
-		a,
-		a:visited {
-			color: @color-link-new;
-		}
-	}
+    .new {
 
-	.selected {
-		// Replace tab fade with flat color (matching top of would-be fade).
-		// background-image: url( images/tab-current-fade.png );
-		// Overwrite above in browsers that support `rgba()`.
+        a,
+        a:visited {
+            color: @color-link-new;
+        }
+    }
+
+    .selected {
+        // Replace tab fade with flat color (matching top of would-be fade).
+        // background-image: url( images/tab-current-fade.png );
+        // Overwrite above in browsers that support `rgba()`.
         // background: rgba( 255, 255, 255, 1 ); // stylelint-disable-line declaration-block-no-shorthand-property-overrides
         border-color: #fff;
 
-		a,
-		a:visited {
-			color: @color-link-selected;
-			text-decoration: none;
-		}
-	}
+        a,
+        a:visited {
+            color: @color-link-selected;
+            text-decoration: none;
+        }
+    }
 
-	.icon {
-		a {
-			background-position: right bottom;
-			background-repeat: no-repeat;
-		}
-	}
+    .icon {
+        a {
+            background-position: right bottom;
+            background-repeat: no-repeat;
+        }
+    }
 
-	// Tab separator: Border between tabs and outer right border.
-	span {
-		background-position: right bottom;
-		display: inline-block;
-		height: 100%;
+    // Tab separator: Border between tabs and outer right border.
+    span {
+        background-position: right bottom;
+        display: inline-block;
+        height: 100%;
 
-		a {
-			float: left;
-			display: block;
-			position: relative;
-			padding-top: 1em;
-		}
-	}
+        a {
+            float: left;
+            display: block;
+            position: relative;
+            padding-top: 1em;
+        }
+    }
 }
 
 /* Variants and Actions */
 .valkyrieMenu {
-	direction: ltr;
-	float: left;
-	cursor: pointer;
-	position: relative;
-	line-height: 1.125em;
+    direction: ltr;
+    float: left;
+    cursor: pointer;
+    position: relative;
+    line-height: 1.125em;
 
-	h3 {
-		span {
-			color: @color-nav-subtle;
-			position: relative;
-			display: block;
-			padding-left: 0.615em;
-			padding-top: 1.25em;
-			padding-right: 16px;
-			font-size: @font-size-tabs;
-			font-weight: normal;
+    h3 {
+        span {
+            color: @color-nav-subtle;
+            position: relative;
+            display: block;
+            padding-left: 0.615em;
+            padding-top: 1.25em;
+            padding-right: 16px;
+            font-size: @font-size-tabs;
+            font-weight: normal;
 
-			&:after {
-				content: '';
-				position: absolute;
-				top: 1.25em;
-				right: 0;
-				bottom: 0;
-				left: 0;
-				.background-image-svg('images/arrow-down.svg', 'images/arrow-down.png');
-				background-position: 100% 50%;
-				background-repeat: no-repeat;
-				// Modify the color of the image from the default #222 to approx. #444 to match the text.
-				opacity: 0.85;
-			}
-		}
+            &:after {
+                content: '';
+                position: absolute;
+                top: 1.25em;
+                right: 0;
+                bottom: 0;
+                left: 0;
+                .background-image-svg('images/arrow-down.svg', 'images/arrow-down.png');
+                background-position: 100% 50%;
+                background-repeat: no-repeat;
+                // Modify the color of the image from the default #222 to approx. #444 to match the text.
+                opacity: 0.85;
+            }
+        }
 
-		&:hover span,
-		&:focus span {
-			color: @color-base;
+        &:hover span,
+        &:focus span {
+            color: @color-base;
 
-			&:after {
-				opacity: 1;
-			}
-		}
-	}
+            &:after {
+                opacity: 1;
+            }
+        }
+    }
 
-	.menu {
-		list-style: none none;
-		background-color: @background-color-base;
-		clear: both;
-		// Match the width of the dropdown "heading" (the tab)
-		min-width: 100%;
-		position: absolute;
-		top: 2.5em;
-		left: -@border-width-base;
-		margin: 0;
-		border: @border-width-base @border-style-base @border-color-base;
-		border-top-width: 0;
-		padding: 0;
-		box-shadow: 0 1px 1px 0 rgba( 0, 0, 0, 0.1 );
-		text-align: left;
-		opacity: 0;
-		visibility: hidden;
-		.transition( opacity 100ms );
-		// Menus must overlap indicators (z-index: 1) and VisualEditor toolbar (z-index: 2)
-		z-index: 2;
-	}
+    .menu {
+        list-style: none none;
+        background-color: @background-color-base;
+        clear: both;
+        // Match the width of the dropdown "heading" (the tab)
+        min-width: 100%;
+        position: absolute;
+        top: 2.5em;
+        left: -@border-width-base;
+        margin: 0;
+        border: @border-width-base @border-style-base @border-color-base;
+        border-top-width: 0;
+        padding: 0;
+        box-shadow: 0 1px 1px 0 rgba(0, 0, 0, 0.1);
+        text-align: left;
+        opacity: 0;
+        visibility: hidden;
+        .transition(opacity 100ms);
+        // Menus must overlap indicators (z-index: 1) and VisualEditor toolbar (z-index: 2)
+        z-index: 2;
+    }
 
-	&:hover .menu {
-		opacity: 1;
-		visibility: visible;
-	}
+    &:hover .menu {
+        opacity: 1;
+        visibility: visible;
+    }
 
-	// This is in a separate block, so that browsers supporting :hover but not :checked still apply the rule above
-	// Support: IE8
-	.valkyrieMenuCheckbox:checked ~ .menu {
-		opacity: 1;
-		visibility: visible;
-	}
+    // This is in a separate block, so that browsers supporting :hover but not :checked still apply the rule above
+    // Support: IE8
+    .valkyrieMenuCheckbox:checked ~ .menu {
+        opacity: 1;
+        visibility: visible;
+    }
 
-	li {
-		padding: 0;
-		margin: 0;
-		text-align: left;
-		line-height: 1em;
+    li {
+        padding: 0;
+        margin: 0;
+        text-align: left;
+        line-height: 1em;
 
-		a {
-			color: @color-link;
-			display: block;
-			padding: 0.625em;
-			white-space: nowrap;
-			cursor: pointer;
-			font-size: @font-size-tabs;
-		}
-	}
+        a {
+            color: @color-link;
+            display: block;
+            padding: 0.625em;
+            white-space: nowrap;
+            cursor: pointer;
+            font-size: @font-size-tabs;
+        }
+    }
 
-	.selected a,
-	.selected a:visited {
-		color: @color-link-selected;
-		text-decoration: none;
-	}
+    .selected a,
+    .selected a:visited {
+        color: @color-link-selected;
+        text-decoration: none;
+    }
 }
 
 #mw-head .valkyrieMenu h3 {
-	// Tab separator: Outer end (right in LTR) border of "Actions" menu.
-	background-position: right bottom;
-	float: left;
-	font-size: @font-size-reset;
-	height: 2.5em;
-	margin: 0 -@border-width-base 0 0;
-	// `padding-right` >= `1px` effectively moves the "background border" outside of the element to
-	// act like a real border. It is necessary for `.valkyrieMenu .menu` dropdown to align well.
-	// 0.5em equals `8px` at computed `font-size` of `14px` as visually harmonically with
-	// `padding-left` in `.valkyrieMenu h3 span`
-	padding: 0 0.5em 0 0;
+    // Tab separator: Outer end (right in LTR) border of "Actions" menu.
+    background-position: right bottom;
+    float: left;
+    font-size: @font-size-reset;
+    height: 2.5em;
+    margin: 0 -@border-width-base 0 0;
+    // `padding-right` >= `1px` effectively moves the "background border" outside of the element to
+    // act like a real border. It is necessary for `.valkyrieMenu .menu` dropdown to align well.
+    // 0.5em equals `8px` at computed `font-size` of `14px` as visually harmonically with
+    // `padding-left` in `.valkyrieMenu h3 span`
+    padding: 0 0.5em 0 0;
 }
 
 // Tab Separators
@@ -219,42 +220,42 @@
 .valkyrieTabs,
 .valkyrieTabs span,
 #mw-head .valkyrieMenu h3 {
-	// background-image: url( images/tab-separator.png );
-	// background-image: linear-gradient( to bottom, rgba( 167, 215, 249, 0 ) 0, @border-color-content 100% );
-	background-repeat: no-repeat;
-	// Contain gradient to 1px × 100% size and draw from top to bottom-left or -right corner.
-	background-size: @border-width-base 100%;
+    // background-image: url( images/tab-separator.png );
+    // background-image: linear-gradient( to bottom, rgba( 167, 215, 249, 0 ) 0, @border-color-content 100% );
+    background-repeat: no-repeat;
+    // Contain gradient to 1px × 100% size and draw from top to bottom-left or -right corner.
+    background-size: @border-width-base 100%;
 }
 
 // Invisible checkbox covering the dropdown menu handle
 .valkyrieMenuCheckbox {
-	cursor: pointer;
-	position: absolute;
-	top: 0;
-	left: 0;
-	z-index: 1;
-	opacity: 0;
-	width: 100%;
-	height: 100%;
-	margin: 0;
-	padding: 0;
-	// Hide the checkbox completely in browsers that don't support :checked
-	display: none;
+    cursor: pointer;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 1;
+    opacity: 0;
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    // Hide the checkbox completely in browsers that don't support :checked
+    display: none;
 
-	:not( :checked ) > & {
-		// When the browser supports :checked, display it
-		display: block;
-	}
+    :not( :checked) > & {
+        // When the browser supports :checked, display it
+        display: block;
+    }
 
-	&:checked + h3 span:after {
-		transform: scaleY( -1 );
-	}
+    &:checked + h3 span:after {
+        transform: scaleY(-1);
+    }
 
-	&:focus + h3 {
-		// Simulate browser focus ring
-		outline: dotted 1px; // Firefox style
-		outline: auto -webkit-focus-ring-color; // Webkit style
-	}
+    &:focus + h3 {
+        // Simulate browser focus ring
+        outline: dotted 1px; // Firefox style
+        outline: auto -webkit-focus-ring-color; // Webkit style
+    }
 }
 
 @import 'watchstar.less';

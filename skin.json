@@ -74,6 +74,7 @@
     },
     "ResourceModuleSkinStyles": {
         "valkyrie": {
+            "bootstrap.grid": "skinStyles/bootstrap-grid.min.css",
             "jquery.tipsy": "skinStyles/jquery.tipsy.less",
             "jquery.ui.core": [
                 "skinStyles/jquery.ui/jquery.ui.core.css",
@@ -99,10 +100,10 @@
         }
     },
     "config": {
-		"ValkyrieUseSimpleSearch": true,
-		"ValkyrieUseIconWatch": true,
-		"ValkyrieResponsive": false,
-		"ValkyriePrintLogo": false
+        "ValkyrieUseSimpleSearch": true,
+        "ValkyrieUseIconWatch": true,
+        "ValkyrieResponsive": false,
+        "ValkyriePrintLogo": false
     },
     "manifest_version": 1
 }

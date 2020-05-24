@@ -71,8 +71,18 @@
 }
 
 div#mw-head #left-navigation,
-div#mw-head #right-navigation a {
-    color: rgb(205, 231, 240);
+div#mw-head #right-navigation {
+    a {
+        color: rgb(205, 231, 240);
+    }
+
+    .menu a {
+        color: @color-base;
+
+        &:hover {
+            color: #000;
+        }
+    }
 }
 
 /* Logo */
@@ -144,6 +154,7 @@ div#mw-head #right-navigation a {
                 font-size: @font-size-nav-main-body;
                 line-height: @line-height-nav;
                 word-wrap: break-word;
+                white-space: pre;
 
                 a {
                     color: @color-link;
