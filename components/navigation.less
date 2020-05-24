@@ -151,15 +151,24 @@ div#mw-head #right-navigation {
             }
 
             li {
-                margin: 0;
-                padding: 0.85em 0;
+                margin: .15em 0;
+                padding: 0;
                 font-size: @font-size-nav-main-body;
                 line-height: @line-height-nav;
                 word-wrap: break-word;
                 white-space: pre;
 
+                &:hover {
+                    background-color: #272727;
+                }
+
                 a {
                     color: @color-link;
+                    display: block;
+                    width: 100%;
+                    height: 100%;
+                    padding: 0.75em 0;
+                    box-sizing: border-box;
 
                     &:visited {
                         color: @color-link--visited;
