@@ -102,7 +102,7 @@
 		"ValkyrieUseSimpleSearch": true,
 		"ValkyrieUseIconWatch": true,
 		"ValkyrieResponsive": false,
-		"≈ePrintLogo": false
+		"ValkyriePrintLogo": false
     },
     "manifest_version": 1
 }
