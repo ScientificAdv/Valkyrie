@@ -15,15 +15,15 @@
 
 /* Head */
 #mw-page-base {
-    height: 210px;
+    height: 130px;
     background-position: bottom left;
     // .vertical-gradient(@background-color-base, @background-color-secondary, 50%, 100%);
 }
 
 #mw-head-base {
-    margin-top: -210px;
+    margin-top: -130px;
     margin-left: 10em;
-    height: 210px;
+    height: 130px;
 }
 
 #mw-head {
@@ -32,7 +32,7 @@
     top: 0;
     right: 0;
     width: 100%;
-    height: 210px;
+    height: 130px;
 
     h3 {
         margin: 0;
@@ -53,7 +53,7 @@
 #left-navigation {
     float: left;
     margin-left: 10em;
-    margin-top: 2.5em;
+    // margin-top: 2.5em;
     /* When right nav would overlap left nav, it's placed below it
 	   (normal CSS floats behavior). This rule ensures that no empty space
 	   is shown between them due to right nav's margin-top. Page layout
@@ -61,14 +61,14 @@
 	   instead of half the content. */
     margin-bottom: -2.5em;
     position: relative;
-    top: 120px;
+    top: 130px - 50px;
 }
 
 #right-navigation {
     float: right;
-    margin-top: 2.5em;
+    // margin-top: 2.5em;
     position: relative;
-    top: 120px;
+    top: 130px - 50px;
 }
 
 div#mw-head #left-navigation,
@@ -110,6 +110,7 @@ div#mw-head #right-navigation {
     width: 10em;
     left: 0;
     font-size: @font-size-nav-main;
+    z-index: 3;
 
     a {
         color: lightblue;
@@ -188,7 +189,7 @@ div#mw-head #right-navigation {
 
 /* Customize Header */
 #mw-head-base {
-    // height: 210px;
+    // height: 130px;
     // background-color: #000;
     background-image: url(images/custom/wallpaper-dynamic.png);
     background-size: cover;
@@ -216,14 +217,13 @@ div#mw-head #right-navigation {
     }
 
     .gears-group {
-        top: 80px;
+        top: 35px;
         right: 230px;
         opacity: 0.9;
-        transform: scale(1.25);
 
         .circle-lg {
-            top: 0;
-            left: 0;
+            top: 2px;
+            left: 8px;
             width: 200px;
             height: 200px;
 
@@ -234,10 +234,10 @@ div#mw-head #right-navigation {
         }
 
         .circle-sm {
-            top: 26px;
-            left: 23px;
-            width: 150px;
-            height: 150px;
+            top: 34px;
+            left: 40px;
+            width: 130px;
+            height: 130px;
 
             & > div {
                 background-image: url(images/custom/dynamic-wallpaper/circle-sm.png);
@@ -260,7 +260,7 @@ div#mw-head #right-navigation {
 
     .gear-sm {
         opacity: 0.75;
-        top: 190px;
+        top: 110px;
         right: 125px;
         width: 50px;
         height: 50px;
