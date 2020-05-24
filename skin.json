@@ -41,7 +41,7 @@
             "class": "Valkyrie\\ResourceLoaderLessModule",
             "targets": ["desktop", "mobile"],
             "styles": {
-                "skinStyles/bootstrap-grid.min.css": {
+                "skinStyles/bootstrap.min.css": {
                     "media": "all"
                 },
                 "screen.less": {
