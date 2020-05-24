@@ -3,7 +3,7 @@
 		"authors": []
 	},
 	"skinname-valkyrie": "Valkyrie",
-	"valkyrie-skin-desc": "Modern version of MonoBook with fresh look and many usability improvements",
+	"valkyrie-skin-desc": "Skin for the Science ADV Chinese wiki, a customized version of Vector",
 	"valkyrie.css": "/* CSS placed here will affect users of the Valkyrie skin */",
 	"valkyrie.js": "/* Any JavaScript here will be loaded for users using the Valkyrie skin */",
 	"valkyrie-action-addsection": "Add topic",

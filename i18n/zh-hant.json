@@ -10,7 +10,7 @@
 		]
 	},
 	"skinname-valkyrie": "Valkyrie",
-	"valkyrie-skin-desc": "現代版的 MonoBook，有著較新穎的外觀與許多使用性的改進",
+	"valkyrie-skin-desc": "用於科學ADV中文wiki的佈景主題，根據Vector主題定制",
 	"valkyrie.css": "/* 此 CSS 會影響使用 Valkyrie 介面外觀的使用者 */",
 	"valkyrie.js": "/* 此 JavaScript 會用於使用 Valkyrie 介面外觀的使用者 */",
 	"valkyrie-action-addsection": "新增話題",
