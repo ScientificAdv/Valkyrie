@@ -3,123 +3,183 @@
 	instead of to the side of it. They also hide the logo, as there's no space
 	left for it.
 */
-@import 'mediawiki.ui/variables';
+@import 'variables.less';
 
-@media screen and ( max-width: @width-breakpoint-tablet ) {
-	#mw-head {
-		position: static !important; /* stylelint-disable-line declaration-no-important */
-		margin-top: 0.5em;
-	}
+@media screen and (max-width: @width-breakpoint-tablet ) {
+    #mw-head {
+        height: @mobile-head-base-height;
+    }
 
-	/* Move the panel to the bottom and display it as in-line lists */
-	#mw-navigation {
-		#mw-panel {
-			display: table;
-			position: static;
-			table-layout: fixed;
-			width: 100%;
-			overflow: hidden;
-			font-size: 150%;
+    #mw-page-base {
+        height: @mobile-head-base-height;
+    }
 
-			.portal {
-				display: block;
+    #mw-head-base {
+        display: none;
+    }
+
+    #mw-mobile-head {
+        display: block;
+    }
+
+    #mw-panel #p-logo + .portal {
+        margin-top: 0;
+    }
+
+    /* Move the panel to the bottom and display it as in-line lists */
+    #mw-navigation {
+        #mw-panel {
+            display: none;
+            position: absolute;
+            top: @mobile-head-base-height - 2px;
+            left: 0;
+            width: 100%;
+            background-color: #000;
+			padding-top: 0;
+			overflow-x: hidden;
+			overflow-y: auto;
+			max-height: 100%;
+			max-height: ~"calc(100vh - @{mobile-head-base-height} + 2px)";
+			
+
+            .portal {
+                display: block;
 				width: 100%;
-			}
+				margin: 0;
+				padding-left: 1.25em;
+				padding-right: 1.25em;
 
-			ul li {
-				list-style: none;
-			}
-		}
-	}
+				h3,
+				.body {
+					margin-left: 0;
+				}
+            }
 
-	/* Hide the logo and tabs */
-	#p-logo {
-		display: none;
-	}
+            ul li {
+                list-style: none;
+            }
+        }
+    }
 
-	/* Rearrange various page elements to fill the now-available space */
-	body #footer {
-		margin-left: 0;
-		padding-top: 0;
+    /* Hide the logo and tabs */
+    #p-logo {
+        display: none;
+    }
 
-		/* don't need these in the footer either... */
-		#footer-info-lastmod,
-		#footer-info-viewcount {
-			display: none;
-		}
-	}
+    /* Rearrange various page elements to fill the now-available space */
+    body #footer {
+        margin-left: 0;
+        padding-top: 0;
 
-	#p-personal {
-		display: table;
-		position: relative;
-		width: 100%;
-		top: inherit;
-		left: inherit;
-		right: inherit;
+        /* don't need these in the footer either... */
+        #footer-info-lastmod,
+        #footer-info-viewcount {
+            display: none;
+        }
+    }
 
-		ul {
+    #p-personal {
+        display: none;
+        position: absolute;
+        top: @mobile-head-base-height - 2px;
+        left: unset;
+        right: 28px;
+
+        ul {
+			background-color: #000;
 			padding-left: 0;
+			float: none;
+			padding: 0.3em 0.7em;
+			overflow-x: hidden;
+			overflow-y: auto;
+			max-height: ~"calc(100vh - @{mobile-head-base-height} + 2px)";
+		}
+		
+		li {
+			float: unset;
+			padding: 0.3em 0.5em;
+			margin: 0;
+			margin-bottom: 0.1em;
+			font-size: 0.75em;
+			line-height: 1.5;
 		}
 	}
+	
+	#pt-userpage a {
+		background-image: none;
+		padding-top: unset !important;
+		padding-left: unset !important;
+	}
 
-	#right-navigation {
+    #right-navigation {
+        position: absolute;
+        top: @mobile-head-base-height - 2px;
+        right: 0;
+        margin-top: 0;
+        float: none;
+
+        .valkyrieTabs,
+        .valkyrieMenu,
+        .valkyrieSearch {
+			float: none;
+            display: none;
+        }
+    }
+
+    #left-navigation {
+        display: none;
+        position: absolute;
+        top: @mobile-head-base-height - 2px;
+        margin: 0;
+        // display: block;
+        float: none;
+	}
+	
+	#mobile-navigation {
 		position: absolute;
-		top: inherit;
-		right: 0;
-		margin-top: 0;
-		float: none;
+        top: @mobile-head-base-height - 2px;
 	}
 
-	#left-navigation {
-		position: absolute;
-		top: inherit;
-		margin: 0;
-		display: block;
-		float: none;
+    .valkyrieSearch {
+        position: absolute;
+        top: -5px;
+        right: 0;
+        width: 100vw;
+        margin: 0;
+        padding-bottom: .3em;
+    }
+	
+	#mobile-navigation ul {
+			max-height: ~"calc(100vh - @{mobile-head-base-height} + 2px)";
 	}
 
-	#p-namespaces,
-	#p-views,
-	#p-variants {
-		position: relative;
-		top: 2.5em;
-	}
+    #searchform {
+        position: relative;
+        width: 100%;
+        text-align: right;
+        padding: 0 0.7em;
+    }
 
-	#p-namespaces {
-		padding-left: 0;
-	}
+    #simpleSearch {
+        background-color: rgba(255, 255, 255, 0.9);
+        display: inline-block;
+        margin: 0.3em auto;
+        width: 90%;
+        padding: 0;
+    }
 
-	#p-cactions {
-		top: 2.5em;
-		float: right;
-	}
+    .valkyrieMenu .menu {
+        left: inherit;
+        right: -1px;
+    }
 
-	#p-search {
-		float: none;
-		position: absolute;
-		right: 0;
-		width: 100vw;
-		margin: 0;
-	}
+    .mw-body {
+        /* Hide the 1px blue border on the left side */
+        border-left: 0;
+        margin-left: 0;
+    }
 
-	#simpleSearch {
-		margin: 0 3em;
-		width: 80vw;
-		padding: 0;
-	}
-
-	.valkyrieMenu .menu {
-		left: inherit;
-		right: -1px;
-	}
-
-	.mw-body {
-		/* Hide the 1px blue border on the left side */
-		border-left: 0;
-		margin-left: 0;
-	}
-
-	#mw-data-after-content {
-		margin-left: 0;
-	}
+    #mw-data-after-content {
+        margin-left: 0;
+    }
 }

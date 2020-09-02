@@ -54,7 +54,7 @@ class SkinValkyrie extends SkinTemplate {
 	public function enableResponsiveMode() {
 		if ( !$this->responsiveMode ) {
 			$out = $this->getOutput();
-			$out->addMeta( 'viewport', 'width=device-width, initial-scale=1' );
+			$out->addMeta( 'viewport', 'viewport-fit=auto, width=device-width, initial-scale=1' );
 			$out->addModuleStyles( 'skins.valkyrie.styles.responsive' );
 			$this->responsiveMode = true;
 		}

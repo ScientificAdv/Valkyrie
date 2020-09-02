@@ -101,12 +101,42 @@ class ValkyrieTemplate extends BaseTemplate {
 		<div id="mw-navigation">
 			<h2><?php $this->msg( 'navigation-heading' ) ?></h2>
 			<div id="mw-head">
+				<nav id="mw-mobile-head">
+					<div class="mobile-nav-btn-group left-section">
+						<button aria-label="导航" class="mobile-nav-btn" id="mobile-menu-btn">
+							<svg width="24px" height="24px" viewBox="0 0 16 16" class="bi bi-list" fill="#fff" xmlns="http://www.w3.org/2000/svg">
+								<path fill-rule="evenodd" d="M2.5 11.5A.5.5 0 0 1 3 11h10a.5.5 0 0 1 0 1H3a.5.5 0 0 1-.5-.5zm0-4A.5.5 0 0 1 3 7h10a.5.5 0 0 1 0 1H3a.5.5 0 0 1-.5-.5zm0-4A.5.5 0 0 1 3 3h10a.5.5 0 0 1 0 1H3a.5.5 0 0 1-.5-.5z"/>
+							</svg>
+						</button>
+					</div>
+					<div class="mobile-nav-btn-group right-section">
+						<button aria-label="<?php $this->msg( 'search' ) ?>" class="mobile-nav-btn" id="mobile-search-btn">
+							<svg width="18px" height="18px" viewBox="0 0 16 16" class="bi bi-search" fill="#fff" xmlns="http://www.w3.org/2000/svg">
+								<path fill-rule="evenodd" d="M10.442 10.442a1 1 0 0 1 1.415 0l3.85 3.85a1 1 0 0 1-1.414 1.415l-3.85-3.85a1 1 0 0 1 0-1.415z"/>
+								<path fill-rule="evenodd" d="M6.5 12a5.5 5.5 0 1 0 0-11 5.5 5.5 0 0 0 0 11zM13 6.5a6.5 6.5 0 1 1-13 0 6.5 6.5 0 0 1 13 0z"/>
+							</svg>
+						</button>
+						<button aria-label="<?php $this->msg( 'personaltools' ) ?>" class="mobile-nav-btn" id="mobile-personal-btn">
+							<svg width="22px" height="22px" viewBox="0 0 16 16" class="bi bi-person" fill="#fff" xmlns="http://www.w3.org/2000/svg">
+								<path fill-rule="evenodd" d="M10 5a2 2 0 1 1-4 0 2 2 0 0 1 4 0zM8 8a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm6 5c0 1-1 1-1 1H3s-1 0-1-1 1-4 6-4 6 3 6 4zm-1-.004c-.001-.246-.154-.986-.832-1.664C11.516 10.68 10.289 10 8 10c-2.29 0-3.516.68-4.168 1.332-.678.678-.83 1.418-.832 1.664h10z"/>
+							</svg>
+						</button>
+						<button aria-label="<?php $this->msg( 'valkyrie-more-actions' ) ?>" class="mobile-nav-btn" id="mobile-more-btn">
+							<svg width="18px" height="18px" viewBox="0 0 16 16" class="bi bi-three-dots-vertical" fill="#fff" xmlns="http://www.w3.org/2000/svg">
+								<path fill-rule="evenodd" d="M9.5 13a1.5 1.5 0 1 1-3 0 1.5 1.5 0 0 1 3 0zm0-5a1.5 1.5 0 1 1-3 0 1.5 1.5 0 0 1 3 0zm0-5a1.5 1.5 0 1 1-3 0 1.5 1.5 0 0 1 3 0z"/>
+							</svg>
+						</button>
+					</div>
+				</nav>
 				<?php $this->renderNavigation( [ 'PERSONAL' ] ); ?>
 				<div id="left-navigation">
 					<?php $this->renderNavigation( [ 'NAMESPACES', 'VARIANTS' ] ); ?>
 				</div>
 				<div id="right-navigation">
 					<?php $this->renderNavigation( [ 'VIEWS', 'ACTIONS', 'SEARCH' ] ); ?>
+				</div>
+				<div id="mobile-navigation">
+					<?php $this->renderNavigation( [ 'MOBILE' ] ); ?>
 				</div>
 			</div>
 			<div id="mw-panel">
@@ -362,6 +392,61 @@ class ValkyrieTemplate extends BaseTemplate {
 					</div>
 					<?php
 					break;
+				case 'MOBILE':
+					?>
+					<div id="p-mobile-more" role="navigation" class="valkyrieMobileMore aria-labelledby="p-mobile-more-label">
+						<h3 class="sr-only" id="p-mobile-more-label"><span><?php
+							$this->msg( 'valkyrie-more-actions' )
+						?></span></h3>
+						<ul class="menu"<?php $this->html( 'userlangattributes' ) ?>>
+							<!-- NAMESPACE -->
+							<?php
+							foreach ( $this->data['namespace_urls'] as $key => $item ) {
+								echo $this->makeListItem( $key, $item, [
+									'valkyrie-wrap' => true,
+								] );
+							}
+							?>
+							<?php
+								if ( count( $this->data['variant_urls'] ) != 0 ) {
+								echo '<hr />';
+								}
+							?>
+							<!-- VARIANTS -->
+							<?php
+							foreach ( $this->data['variant_urls'] as $key => $item ) {
+								echo $this->makeListItem( $key, $item );
+							}
+							?>
+							<?php
+								if ( count( $this->data['view_urls'] ) != 0 ) {
+								echo '<hr />';
+								}
+							?>
+							<!-- VIEWS -->
+							<?php
+							foreach ( $this->data['view_urls'] as $key => $item ) {
+								echo $this->makeListItem( $key, $item, [
+									'valkyrie-wrap' => true,
+									'valkyrie-collapsible' => true,
+								] );
+							}
+							?>
+							<?php
+								if ( count( $this->data['action_urls'] ) != 0 ) {
+								echo '<hr />';
+								}
+							?>
+							<!-- ACTIONS -->
+							<?php
+							foreach ( $this->data['action_urls'] as $key => $item ) {
+								echo $this->makeListItem( $key, $item );
+							}
+							?>
+						</ul>
+					</div>
+					<?php
+					break;
 				case 'PERSONAL':
 					?>
 					<div id="p-personal" role="navigation"<?php
@@ -404,7 +489,7 @@ class ValkyrieTemplate extends BaseTemplate {
 					break;
 				case 'SEARCH':
 					?>
-					<div id="p-search" role="search">
+					<div id="p-search" class="valkyrieSearch" role="search">
 						<h3<?php $this->html( 'userlangattributes' ) ?>>
 							<label for="searchInput"><?php $this->msg( 'search' ) ?></label>
 						</h3>

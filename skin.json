@@ -104,7 +104,7 @@
     "config": {
         "ValkyrieUseSimpleSearch": true,
         "ValkyrieUseIconWatch": true,
-        "ValkyrieResponsive": false,
+        "ValkyrieResponsive": true,
         "ValkyriePrintLogo": false
     },
     "manifest_version": 1
