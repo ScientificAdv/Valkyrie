@@ -61,6 +61,7 @@
             ]
         },
         "skins.valkyrie.js": {
+            "targets": ["desktop", "mobile"],
             "scripts": [
                 "collapsibleTabs.js",
                 "valkyrie.js"
