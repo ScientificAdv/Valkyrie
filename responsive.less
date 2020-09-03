@@ -83,7 +83,7 @@
         position: absolute;
         top: @mobile-head-base-height - 2px;
         left: unset;
-        right: 28px;
+        right: ~"calc(1.2em + 18px)";
 
         ul {
 			background-color: #000;
@@ -103,13 +103,18 @@
 			font-size: 0.75em;
 			line-height: 1.5;
 		}
-	}
-	
+    }
+    
+	#pt-anonuserpage,
 	#pt-userpage a {
 		background-image: none;
 		padding-top: unset !important;
 		padding-left: unset !important;
-	}
+    }
+    
+    li#pt-anonuserpage {
+        margin-left: 0.5em;
+    }
 
     #right-navigation {
         position: absolute;
@@ -143,12 +148,12 @@
     .valkyrieSearch {
         position: absolute;
         top: -5px;
-        right: 0;
+        right: ~"calc(2.4em + 36px)";
         width: 100vw;
         margin: 0;
         padding-bottom: .3em;
     }
-	
+
 	#mobile-navigation ul {
 			max-height: ~"calc(100vh - @{mobile-head-base-height} + 2px)";
 	}
@@ -181,5 +186,11 @@
 
     #mw-data-after-content {
         margin-left: 0;
+    }
+}
+
+@media screen and (max-width: 425px ) {
+    .valkyrieSearch {
+        right: 0;
     }
 }
