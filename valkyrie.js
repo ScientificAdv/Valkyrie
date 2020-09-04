@@ -123,36 +123,52 @@ $(function() {
         buttonID = buttonID || 0;
         if (buttonID !== 1) {
             $navContainer.slideUp();
+            $navContainer.data('expand', false);
         }
         if (buttonID !== 2) {
             $searchContainer.hide();
+            $searchContainer.data('expand', false);
         }
         if (buttonID !== 3) {
             $personalContainer.hide();
+            $personalContainer.data('expand', false);
         }
         if (buttonID !== 4) {
             $moreContainer.hide();
+            $moreContainer.data('expand', false);
         }
     }
 
     $navBtn.click(function() {
         hideAll(1);
-        $navContainer.slideToggle();
+        var isNavMenuShown = $navContainer.data('expand') || false;
+        if (isNavMenuShown) {
+            $navContainer.slideUp();
+        } else {
+            $navContainer.slideDown();
+        }
+        $navContainer.data('expand', !isNavMenuShown);
     })
 
     $searchBtn.click(function() {
         hideAll(2);
-        $searchContainer.toggle();
-	})
-	
+        var isSearchShown = $searchContainer.data('expand') || false;
+        $searchContainer.toggle(!isSearchShown);
+        $searchContainer.data('expand', !isSearchShown);
+    })
+
     $personalBtn.click(function() {
         hideAll(3);
-        $personalContainer.toggle();
+        var isPersonMenuShown = $personalContainer.data('expand') || false;
+        $personalContainer.toggle(!isPersonMenuShown);
+        $personalContainer.data('expand', !isPersonMenuShown);
     })
 
     $moreBtn.click(function() {
         hideAll(4);
-        $moreContainer.toggle();
+        var isMoreMenuShown = $moreContainer.data('expand') || false;
+        $moreContainer.toggle(!isMoreMenuShown);
+        $moreContainer.data('expand', !isMoreMenuShown);
     })
 
     // esc press
@@ -166,13 +182,27 @@ $(function() {
         var win = $(this); //this = window
         if (win.width() >= 720) {
             $navContainer.show();
-			$searchContainer.show();
+            $searchContainer.show();
             $personalContainer.show();
-        } else {
-            $navContainer.hide();
-            $searchContainer.hide();
-            $personalContainer.hide();
             $moreContainer.hide();
+            $moreContainer.data('expand', false);
+        } else {
+            var isNavMenuShown = $navContainer.data('expand') || false;
+            var isSearchShown = $searchContainer.data('expand') || false;
+            var isPersonMenuShown = $personalContainer.data('expand') || false;
+            var isMoreMenuShown = $moreContainer.data('expand') || false;
+            if (!isNavMenuShown) {
+                $navContainer.hide();
+            }
+            if (!isSearchShown) {
+                $searchContainer.hide();
+            }
+            if (!isPersonMenuShown) {
+                $personalContainer.hide();
+            }
+            if (!isMoreMenuShown) {
+                $moreContainer.hide();
+            }
         }
     });
 });
