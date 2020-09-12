@@ -1,7 +1,7 @@
 Valkyrie Skin
 ========================
 
-> Modified from Official Valkyrie Skin
+> Modified from Official Vector Skin
 
 Configuration options
 ---------------------
