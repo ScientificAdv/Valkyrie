@@ -124,7 +124,7 @@ $(function() {
         fontTag.rel = 'stylesheet';
         fontTag.type = 'text/css';
         fontTag.id = 'noto_serif_sc';
-        fontTag.href = 'https://fonts.googleapis.com/css2?family=Noto+Serif+SC:wght@400;500;700&display=swap';
+        fontTag.href = 'https://fonts.loli.net/css2?family=Noto+Serif+SC:wght@400;500;700&display=swap';
         document.head.appendChild(fontTag);
     }
 
