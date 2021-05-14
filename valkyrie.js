@@ -118,6 +118,16 @@ $(function() {
             }
         });
 
+    // 思源宋体懒加载
+    if (!document.getElementById('noto_serif_sc')) {
+        var fontTag = document.createElement('link');
+        fontTag.rel = 'stylesheet';
+        fontTag.type = 'text/css';
+        fontTag.id = 'noto_serif_sc';
+        fontTag.href = 'https://fonts.googleapis.com/css2?family=Noto+Serif+SC:wght@400;500;700&display=swap';
+        document.head.appendChild(fontTag);
+    }
+
     function hideAll(buttonID) {
         // buttonID: nav: 1, search: 2, more: 3
         buttonID = buttonID || 0;
